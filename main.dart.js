@@ -53040,20 +53040,21 @@ s=A.a6H("assets/images/background.jpg",B.hw,m,m)
 r=n.x
 r===$&&A.b()
 r=A.a7z(0,A.wd(r,new A.ZG(n),m))
-q=A.a6K(!1,A.a2a(75),!0,new A.wU(A.a6H("assets/images/main_button.png",B.hw,150,150),m),m,!0,m,m,m,m,m,m,m,m,m,n.gNZ(),m,m,m,m)
+q=A.a6K(!1,A.a2a(75),!0,new A.wU(A.a6H("assets/images/main_button.png",B.hw,125,125),m),m,!0,m,m,m,m,m,m,m,m,m,n.gNZ(),m,m,m,m)
 p=n.d
 o=A.b0(a).p2.e
 o=o==null?m:o.h3(B.j)
 return new A.rb(new A.o6(l,B.vV,new A.Fn(m,m,1/0,56),m),A.V6(B.ej,A.a([new A.kX(1/0,1/0,s,m),r,A.a2f(A.aeh(A.a([q,B.EI,A.a3D(""+p,o)],k),B.nH),m,m)],k),B.h5),m)}}
 A.ZF.prototype={
-$0(){var s,r,q,p=this.a,o=B.c.er(Math.log(++p.d)/0.6931471805599453)+1,n=p.e
-if(o!==n){s=Math.max(9-(o-1),0)
-n=Math.max(9-(n-1),0)
+$0(){var s,r,q,p=this.a,o=p.d=p.d+p.e,n=o>=1?B.c.er(Math.log(o)/0.6931471805599453)+1:1
+o=p.e
+if(n!==o){s=Math.max(9-(n-1),0)
+o=Math.max(9-(o-1),0)
 r=t.a7
 q=p.w
 q===$&&A.b()
-p.x=new A.aD(q,new A.aA(n,s,r),r.h("aD<ai.T>"))
-p.e=o
+p.x=new A.aD(q,new A.aA(o,s,r),r.h("aD<ai.T>"))
+p.e=n
 q.DU(0)}},
 $S:0}
 A.ZG.prototype={
