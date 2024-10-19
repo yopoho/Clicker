@@ -53040,7 +53040,7 @@ s=A.a6H("assets/images/background.jpg",B.hw,m,m)
 r=n.x
 r===$&&A.b()
 r=A.a7z(0,A.wd(r,new A.ZG(n),m))
-q=A.a6K(!1,A.a2a(75),!0,new A.wU(A.a6H("assets/images/main_button.jpg",B.hw,150,150),m),m,!0,m,m,m,m,m,m,m,m,m,n.gNZ(),m,m,m,m)
+q=A.a6K(!1,A.a2a(75),!0,new A.wU(A.a6H("assets/images/main_button.png",B.hw,150,150),m),m,!0,m,m,m,m,m,m,m,m,m,n.gNZ(),m,m,m,m)
 p=n.d
 o=A.b0(a).p2.e
 o=o==null?m:o.h3(B.j)
