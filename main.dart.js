@@ -53110,7 +53110,7 @@ s.l()
 this.Jt()},
 O3(){this.aL(new A.ZT(this))},
 R(a){var s,r,q,p,o,n=this,m=null,l=n.r,k=t.nA
-l=A.ahx(A.a([A.a3P(l==null?"":l,B.tE),A.a3P("Level: "+n.e,B.tE)],k),B.bv,B.nJ,B.fo)
+l=A.ahx(A.a([A.a3P(l==null?"":l,B.tE),A.a3P("\u0423\u0440\u043e\u0432\u0435\u043d\u044c: "+n.e,B.tE)],k),B.bv,B.nJ,B.fo)
 s=A.ahv(m,m,new A.oa("assets/images/background.jpg",m,m))
 r=n.x
 r===$&&A.b()
