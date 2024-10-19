@@ -52242,14 +52242,13 @@ return new A.qf(B.AW,"Clicker",A.a4d(s,A.a6a(B.I,s,s,B.cs),!0),s)}}
 A.qs.prototype={
 am(){return new A.ue()}}
 A.ue.prototype={
-MM(){this.aP(new A.a_k(this))},
-az(){var s,r
-this.aX()
-s=document.documentElement
+MM(){var s=document.documentElement
 if(s!=null)J.adZ(s)
-r=A.aiX().gE8()
-this.e=r.k(0,"token")
-this.f=r.k(0,"name")},
+this.aP(new A.a_k(this))},
+az(){this.aX()
+var s=A.aiX().gE8()
+this.e=s.k(0,"token")
+this.f=s.k(0,"name")},
 O(a){var s=this,r=null,q=A.a8Q(A.n(s.f)+" "+A.n(s.e),B.Fi),p=A.afD(r,r,B.eD,r,r,r,r,r,r,B.Eg,r,r,r,r,r,B.hX,r,r,r,r),o=s.d,n=A.aI(a).p2.e
 n=n==null?r:n.fM(B.j)
 return new A.rm(new A.of(q,B.vN,new A.G9(r,r,1/0,56),r),A.a2N(A.aeO(A.b([new A.xZ(s.gML(),r,r,r,p,r,r,!1,r,B.J2,r),B.Ej,A.a8Q(""+o,n)],t.eE),B.nD),r,r),B.vM,r)}}
