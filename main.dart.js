@@ -53392,7 +53392,7 @@ p=l.e
 r=A.U1(k,new A.dq(B.xc,A.a92(A.a([r,A.fI(B.ag,A.a([o,A.fK(p===-1?"":"\u0423\u0440\u043e\u0432\u0435\u043d\u044c: "+p,B.tB)],q),B.an)],q),B.nF,B.dn),k),k,k,0,0,0,k)
 p=l.d
 o=A.dN(a,k,t.w).w
-return A.a95(A.fI(B.ag,A.a([j,i,s,r,A.a9P(A.U1(k,A.a7N(!1,k,!0,A.hI(k,A.Oz("assets/images/leaderboard.png",B.cK,50,50),!1,k,!1,k,k,k,"Open Leaderboard",k,k,k,k,k,k,k,k,k,k,k),k,!0,k,k,k,k,k,k,k,k,k,new A.a_t(a),k),k,k,20,k,o.a.b/2,k),p>=0)],q),B.an))}}
+return A.a95(A.fI(B.ag,A.a([j,i,s,r,A.a9P(A.U1(k,A.a7N(!1,k,!0,A.hI(k,A.Oz("assets/images/leaderboard.png",B.cK,60,60),!1,k,!1,k,k,k,"Open Leaderboard",k,k,k,k,k,k,k,k,k,k,k),k,!0,k,k,k,k,k,k,k,k,k,new A.a_t(a),k),k,k,20,k,o.a.b/2,k),p>=0)],q),B.an))}}
 A.a_u.prototype={
 $1(a){var s,r=this.a,q=r.z
 if(q!=null){s=r.d
@@ -57600,7 +57600,7 @@ B.EX=new A.X(1e5,1e5)
 B.dP=new A.j8(0,0,null,null)
 B.EY=new A.j8(null,16,null,null)
 B.EZ=new A.j8(null,40,null,null)
-B.F_=new A.j8(null,50,null,null)
+B.F_=new A.j8(null,75,null,null)
 B.F0=new A.rV(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.LW=new A.rW(3,"hide")
 B.F1=new A.rW(5,"timeout")
