@@ -49752,10 +49752,11 @@ q.sfU(3)
 q.sak(B.o)
 return new A.qo(A.h9(B.aj,A.a([new A.m_(1/0,1/0,j,k),i,m,A.a0d(k,new A.lG(B.ww,A.a4C(A.a([s,A.h9(B.aj,A.a([A.hb("\u0423\u0440\u043e\u0432\u0435\u043d\u044c: "+r,A.fe(k,k,k,k,k,k,k,k,k,k,k,22,k,k,k,q,k,!0,k,k,k,k,k,k,k,k)),A.hb("\u0423\u0440\u043e\u0432\u0435\u043d\u044c: "+l.e,B.tf)],o),B.ao)],o),B.nj,B.df),k),k,k,0,0,0,k)],o),B.ao),k)}}
 A.WT.prototype={
-$0(){var s,r,q,p=this.a,o=p.d,n=p.e
-o=p.d=o+n
-p.f-=n
-s=o>=1?B.c.dZ(Math.log(o)/0.6931471805599453)+1:1
+$0(){var s,r,q,p=this.a,o=p.f,n=p.e
+o-=n
+if(o>=0){n=p.d+=n
+p.f=o
+s=n>=1?B.c.dZ(Math.log(n)/0.6931471805599453)+1:1
 o=p.e
 if(s!==o){r=Math.max(9-(s-1),0)
 o=Math.max(9-(o-1),0)
@@ -49764,7 +49765,7 @@ q=p.x
 q===$&&A.b()
 p.y=new A.aw(q,new A.at(o,r,n),n.h("aw<ad.T>"))
 p.e=s
-q.Cv(0)}},
+q.Cv(0)}}},
 $S:0}
 A.WU.prototype={
 $2(a,b){var s=null,r=this.a,q=r.y
