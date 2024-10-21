@@ -58014,12 +58014,12 @@ A.RB.prototype={
 $0(){this.a.f=J.cz(this.b)},
 $S:0}
 A.Rz.prototype={
-$1(a){var s,r=null,q=a.a,p=a.b,o=[B.xg,B.xh][B.f.aH(q,2)],n=A.pr(A.h0(""+(q+1),14,B.n,2.5,B.i),r,r),m=p.i(0,"name")
+$1(a){var s,r=null,q=a.a,p=a.b,o=[B.xg,B.xh][B.f.aH(q,2)],n=A.pr(A.h0(""+(q+1),14,B.n,2.25,B.i),r,r),m=p.i(0,"name")
 m=A.i(m==null?"":m)
 s=p.i(0,"last_name")
-m=A.pr(A.h0(m+" "+A.i(s==null?"":s),13,B.n,2.5,B.i),r,r)
+m=A.pr(A.h0(m+" "+A.i(s==null?"":s),13,B.n,2.25,B.i),r,r)
 s=A.Vd("#,##0","en_US").qo(A.eo(J.cz(p.i(0,"score")),r))
-return new A.dJ(new A.f0(o,r,r,r,r,r,B.aX),A.b([new A.d4(B.dn,n,r),new A.d4(B.dn,m,r),new A.d4(B.dn,A.pr(A.h0(A.fG(s,","," "),15,B.n,2.5,B.i),r,r),r),new A.d4(B.dn,A.pr(A.h0(J.cz(p.i(0,"level")),16,B.n,2.5,B.i),r,r),r)],t.W))},
+return new A.dJ(new A.f0(o,r,r,r,r,r,B.aX),A.b([new A.d4(B.dn,n,r),new A.d4(B.dn,m,r),new A.d4(B.dn,A.pr(A.h0(A.fG(s,","," "),15,B.n,2.25,B.i),r,r),r),new A.d4(B.dn,A.pr(A.h0(J.cz(p.i(0,"level")),16,B.n,2.25,B.i),r,r),r)],t.W))},
 $S:372}
 A.AQ.prototype={
 W(a){var s=null,r=A.a7o(s,A.a9y(B.Z,s,s,B.cF),!0)
