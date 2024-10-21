@@ -58196,7 +58196,7 @@ return A.a9c(A.MP(s,s,A.aS(0,0,0,0),s,s,s,s,s,s),r)},
 $S:134}
 A.a20.prototype={
 $0(){var s=new A.dA(Date.now(),0,!1),r=this.a,q=r.at
-if(q==null||B.f.c9(s.eO(q).a,1000)>166){r.SH()
+if(q==null||B.f.c9(s.eO(q).a,1000)>50){r.SH()
 r.at=s}},
 $S:0}
 A.a2_.prototype={
