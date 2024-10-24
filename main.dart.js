@@ -62678,7 +62678,7 @@ q===$&&A.a()
 q=q.b.a4(q.a.gm())
 p=A.lj("assets/images/roulette2.png",B.is,i,i)
 o=t.D
-p=A.uV(A.fP(B.L,A.b([new A.vz(A.arO(q),B.L,!0,k,p,k),new A.ei(B.L,k,k,new A.c1(new A.aX(h/2,0,0,0),A.lj("assets/images/roulette_pointer3.png",B.is,h,h),k),k)],o),B.aD),i,i)
+p=A.uV(A.fP(B.L,A.b([new A.vz(A.arO(q),B.L,!0,k,p,k),new A.ei(B.L,k,k,new A.c1(new A.aX(h/2,0,0,0),A.lj("assets/images/roulette_pointer4.png",B.is,h,h),k),k)],o),B.aD),i,i)
 q=l.r
 if(!q){n=l.x
 n=(n==null?0:n)<=0}else n=!0
