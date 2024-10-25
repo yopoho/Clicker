@@ -62711,7 +62711,7 @@ return A.Bv(k,A.abH(j,A.fP(B.au,A.b([s,r,A.i1(A.aaw(A.b([B.hQ,p,B.HA,new A.AX(n,
 R0(){var s=this.y
 if(s!=null)return A.F6(s,B.JB)
 else{s=this.x
-if(s!=null)return A.e8("\u041e\u0441\u0442\u0430\u043b\u043e\u0441\u044c \u0441\u043f\u0438\u043d\u043e\u0432: "+A.h(s),20,B.j,B.l,3,B.i)
+if(s!=null)return A.e8("\u041e\u0441\u0442\u0430\u043b\u043e\u0441\u044c \u0441\u043f\u0438\u043d\u043e\u0432: "+A.h(s),20,B.j,B.l,2.5,B.i)
 else return B.MB}},
 H7(){var s,r={},q=new A.df(Date.now(),0,!1).a5m(),p=A.agi(q),o=A.agh(q),n=A.agg(q),m=A.aqo(p,o,n,9,0,0,0,0,!0)
 if(m==null)m=864e14
