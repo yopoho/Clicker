@@ -77780,9 +77780,9 @@ g=J.av(j,"new_spins")
 if(i!=null&&h!=null&&g!=null)n.a2(new A.ahH(n,i,h,g))
 f=J.av(j,"added_to_score")
 e=J.av(j,"added_to_spins")
-d="\u0423\u0441\u043f\u0435\u0445!\n"
-if(J.arc(e,0))d=J.anD(d,"\u041e\u0447\u043a\u0438: +"+A.j(f)+"! ")
-if(J.arc(e,0))d=J.anD(d,"\u0421\u043f\u0438\u043d\u044b: +"+A.j(e)+"!")
+d="\u0423\u0441\u043f\u0435\u0445!"
+if(J.arc(e,0))d=J.anD(d,"\n\u041e\u0447\u043a\u0438: +"+A.j(f)+"!")
+if(J.arc(e,0))d=J.anD(d,"\n\u0421\u043f\u0438\u043d\u044b: +"+A.j(e)+"!")
 m.$1(d)}else m.$1("\u041d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \u043f\u0440\u043e\u043c\u043e\u043a\u043e\u0434!")}else m.$1("\u041e\u0448\u0438\u0431\u043a\u0430 \u0441\u0435\u0440\u0432\u0435\u0440\u0430!")
 p=2
 s=6
