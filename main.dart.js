@@ -66003,8 +66003,7 @@ s=this.Q
 if(s!=null)s.am(0)
 this.Qq()},
 MD(a){var s="Invalid input value: ",r=this.at
-r.toString
-if(r>=24)switch(a){case 3000:return 292.5
+if(r!=null&&r>=24)switch(a){case 3000:return 292.5
 case 5000:return 337.5
 case 1e4:return 22.5
 case 15e3:return 67.5
