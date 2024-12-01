@@ -78325,7 +78325,7 @@ g.toString
 if(g!==3e4){g=m.c
 g.toString
 g=g===1e5}else g=!0
-if(g)n.a2(new A.a9a(n))
+if(g&&n.at==null)n.a2(new A.a9a(n))
 g=m.c
 g.toString
 l=n.Tj(g)
@@ -78471,9 +78471,7 @@ s.r=!0
 s.f=0},
 $S:0}
 A.a9a.prototype={
-$0(){var s=this.a,r=s.at
-r.toString
-s.at=Math.max(r,24)},
+$0(){this.a.at=24},
 $S:0}
 A.a9b.prototype={
 $0(){var s=this.a
