@@ -78072,7 +78072,7 @@ e=J.av(j,"added_to_score")
 d=J.av(j,"added_to_spins")
 c="\u0423\u0441\u043f\u0435\u0445!"
 if(J.arD(e,0))c=J.VR(c,"\n\u041e\u0447\u043a\u0438: +"+A.j(e)+"!")
-if(J.aAU(e,0))c=J.VR(c,"\n\u041e\u0447\u043a\u0438: -"+A.j(e)+"!")
+if(J.aAU(e,0))c=J.VR(c,"\n\u041e\u0447\u043a\u0438: "+A.j(e)+"!")
 if(J.arD(d,0))c=J.VR(c,"\n\u0421\u043f\u0438\u043d\u044b: +"+A.j(d)+"!")
 m.$1(c)}else m.$1("\u041d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \u043f\u0440\u043e\u043c\u043e\u043a\u043e\u0434!")}else m.$1("\u041e\u0448\u0438\u0431\u043a\u0430 \u0441\u0435\u0440\u0432\u0435\u0440\u0430!")
 p=2
