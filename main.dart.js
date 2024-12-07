@@ -78646,7 +78646,7 @@ o=p.b.a5(0,o.gm(o))
 p=l.ax
 p.toString
 if(p>=25)p="assets/images/roulette250.png"
-else p=p===24?"assets/images/roulette3.png":"assets/images/roulette2.png"
+else p=p===24?"assets/images/roulette100.png":"assets/images/roulette50.png"
 p=A.jh(A.e6(B.D,A.b([A.aq_(o,A.j2(p,B.kv,i,i)),new A.ed(B.D,k,k,new A.bu(new A.ax(h/2,0,0,0),A.j2("assets/images/roulette_pointer2.png",B.kv,h,h),k),k)],r),B.F,B.aw),i,i)
 o=l.r
 if(!o){n=l.x
