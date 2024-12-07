@@ -23630,7 +23630,7 @@ _.f=a
 _.r=b
 _.w=0
 _.y=_.x=null
-_.z=10
+_.z=180
 _.at=_.as=_.Q=0
 _.ay=_.ax=null
 _.d1$=c
@@ -77829,12 +77829,12 @@ r.Gn(q)}},
 $S:18}
 A.agG.prototype={
 $1(a){var s,r,q,p,o,n,m=this.a
-if(m.z>0||m.at<1){s=m.r
+if(m.z>0||m.at<300){s=m.r
 r=s.ah1()
 q=m.c
 q.toString
 q=A.bt(q,null,t.w).w
-if(m.at<1){s=s.ah2(100)
+if(m.at<300){s=s.ah2(100)
 p=m.z>3?2.5:-1
 o=s/10<=p}else o=!0
 n=m.Tw(m.z)
@@ -77860,7 +77860,7 @@ q===$&&A.a()
 q.ed(0)
 q=r.ax
 s=r.w
-if(q.length!==0&&s>=0&&s<=r.yQ())A.anI(q,s)
+if(q.length!==0&&s>=0&&s<=300*r.yQ())A.anI(q,s)
 A.lA(B.cX,new A.agC(r),t.P)}},
 $S:0}
 A.agC.prototype={
