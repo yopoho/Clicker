@@ -78526,7 +78526,7 @@ case 2e4:return 112.5
 case 3e4:return 157.5
 case 5e4:return 202.5
 case 1e5:return 247.5
-default:return 0}else if(r&&s>=25)switch(a){case 0:return 292.5
+default:return 0}else if(r&&s===25)switch(a){case 0:return 292.5
 case 5000:return 292.5
 case 1e4:return 337.5
 case 2e4:return 22.5
@@ -78535,6 +78535,15 @@ case 5e4:return 112.5
 case 1e5:return 157.5
 case 125e3:return 202.5
 case 25e4:return 247.5
+default:return 0}else if(r&&s>=26)switch(a){case 0:return 292.5
+case 1e4:return 292.5
+case 2e4:return 337.5
+case 5e4:return 22.5
+case 75e3:return 67.5
+case 1e5:return 112.5
+case 15e4:return 157.5
+case 25e5:return 202.5
+case 5e5:return 247.5
 default:return 0}else switch(a){case 0:return 292.5
 case 1000:return 292.5
 case 2000:return 337.5
