@@ -77837,7 +77837,7 @@ q=m.c
 q.toString
 q=A.bt(q,null,t.w).w
 if(m.at<300){s=s.ah3(100)
-p=m.z>3?2.5:-1
+p=m.z>6?2.5:-1
 o=s/10<=p}else o=!0
 n=m.Tw(m.z)
 if(!o)++m.at
