@@ -79141,7 +79141,7 @@ if(p){r.toString
 p=q.x
 A.eS(r,!1).tu(p)}else{r.toString
 A.Js(r,A.y4(new A.a9V(),null,t.z))}},
-M(a){var s,r,q,p,o,n,m,l,k=this,j=null,i=t.w,h=Math.min(A.br(a,j,i).w.a.a,A.br(a,j,i).w.a.b)*0.75
+M(a){var s,r,q,p,o,n,m,l,k=this,j=null,i=t.w,h=Math.min(A.br(a,j,i).w.a.a,A.br(a,j,i).w.a.b)*0.5
 i=A.cY("The Island Roulette",27,B.k,B.l,3,B.j)
 i=A.WO(j,B.u,!0,0,A.r5(j,B.fw,j,new A.aag(k),j,j),i)
 s=A.acf(A.eQ("assets/images/the_island.jpg",B.aS,j,j))
@@ -79158,16 +79158,15 @@ p=A.d7(B.aa,A.b([A.cu(j,A.pG(new A.bn(B.iA,A.cY(q,37,B.k,B.lo,3,B.lt),j),!0),B.p
 q=k.e
 q===$&&A.a()
 n=q.a
-m=h*0.8
-l=h/7.6
-l=A.iv(A.d7(B.D,A.b([A.Ms(q.b.a4(0,n.gm(n)),A.eQ("assets/images/rb_roulette.png",B.dM,m,m)),A.eQ("assets/images/rb_roulette_border.png",B.dM,h,h),new A.dY(B.kz,j,j,A.eQ("assets/images/rb_pointer2.png",B.dM,l,l),j)],o),B.y,B.a4),h,h)
+m=h/7.6
+m=A.iv(A.d7(B.D,A.b([A.Ms(q.b.a4(0,n.gm(n)),A.eQ("assets/images/rb_roulette.png",B.dM,h,h)),A.eQ("assets/images/rb_roulette_border.png",B.dM,h,h),new A.dY(B.kz,j,j,A.eQ("assets/images/rb_pointer2.png",B.dM,m,m),j)],o),B.y,B.a4),h,h)
 q=k.r
 n=!0
-if(!q){m=k.x
-if((m==null?0:m)!==0){n=k.cx
+if(!q){l=k.x
+if((l==null?0:l)!==0){n=k.cx
 n=n!=null&&n<k.ch}}n=n?j:new A.aah(k)
-m=A.aui(j,j,j,j,j,j,j,j,j,j,j,j,B.lN,j,new A.cM(A.cP(20),B.q),j,j,j,j)
-return A.hu(j,A.KU(i,j,A.d7(B.aa,A.b([s,r,A.eH(A.nz(A.b([B.Mp,p,B.hm,l,B.jU,new A.ze(new A.aai(k),j),B.Mo,new A.AT(B.EE,new A.aaj(),new A.aak(k),j),B.jU,A.auh(q?B.wE:B.RL,n,m),B.hm,k.a7n(),B.jT,k.a7q()],o),B.ae,B.aE,B.b6),j,j)],o),B.y,B.a4),!0,j),B.a0,!1,j,j,j,j,k.ga7o(),j,j,j,j,j,j,j,j,j,j,j,j,j,j,j)},
+l=A.aui(j,j,j,j,j,j,j,j,j,j,j,j,B.lN,j,new A.cM(A.cP(20),B.q),j,j,j,j)
+return A.hu(j,A.KU(i,j,A.d7(B.aa,A.b([s,r,A.eH(A.nz(A.b([B.Mp,p,B.hm,m,B.jU,new A.ze(new A.aai(k),j),B.Mo,new A.AT(B.EE,new A.aaj(),new A.aak(k),j),B.jU,A.auh(q?B.wE:B.RL,n,l),B.hm,k.a7n(),B.jT,k.a7q()],o),B.ae,B.aE,B.b6),j,j)],o),B.y,B.a4),!0,j),B.a0,!1,j,j,j,j,k.ga7o(),j,j,j,j,j,j,j,j,j,j,j,j,j,j,j)},
 a7n(){var s=null,r=this.y
 if(r!=null)return A.dD(r,s,s,s,B.xV,s,s)
 else{r=this.x
@@ -79647,7 +79646,7 @@ this.a.ahN(0,a)},
 A8(a,b){var s,r=null,q=this.d,p=A.cP(12)
 q=q===b?A.atd(B.j,3):r
 s=A.cP(12)
-return A.ko(!1,p,!0,A.Ms(0.7853981633974483,A.cu(r,A.cu(r,r,B.p,r,r,new A.cf(a,r,r,A.cP(8),r,r,B.W),50,r,r,50),B.p,r,r,new A.cf(B.u,r,q,s,r,r,B.W),r,r,B.bH,r)),r,!0,r,r,r,r,r,r,r,r,r,new A.akE(this,b),r,r,r,r)},
+return A.ko(!1,p,!0,A.Ms(0.7853981633974483,A.cu(r,A.cu(r,r,B.p,r,r,new A.cf(a,r,r,A.cP(8),r,r,B.W),40,r,r,40),B.p,r,r,new A.cf(B.u,r,q,s,r,r,B.W),r,r,B.bH,r)),r,!0,r,r,r,r,r,r,r,r,r,new A.akE(this,b),r,r,r,r)},
 M(a){return A.mn(A.b([this.A8(B.rC,1),B.xA,this.A8(B.HW,0),B.xA,this.A8(B.l,2)],t.p),B.ae,B.ep,B.b6)}}
 A.akF.prototype={
 $0(){this.a.d=this.b},
@@ -85238,7 +85237,7 @@ B.jT=new A.ec(null,20,null,null)
 B.Mo=new A.ec(null,30,null,null)
 B.hm=new A.ec(null,40,null,null)
 B.jU=new A.ec(null,50,null,null)
-B.Mp=new A.ec(null,90,null,null)
+B.Mp=new A.ec(null,70,null,null)
 B.Mq=new A.zT(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Mr=new A.ack(1,"enabled")
 B.Ms=new A.acl(1,"enabled")
