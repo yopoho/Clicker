@@ -79044,7 +79044,7 @@ var $async$FS=A.M(function(b,c){if(b===1)return A.I(c,r)
 while(true)switch(s){case 0:try{J.ad($.vh().h(0,"Telegram"),"WebApp").ra("requestFullscreen")}catch(p){}return A.J(null,r)}})
 return A.K($async$FS,r)},
 z7(){var s,r
-try{s=A.eD(J.ad(J.ad(J.ad($.vh().h(0,"Telegram"),"WebApp"),"safeAreaInset"),"top"))
+try{s=A.eD(J.ad(J.ad(J.ad($.vh().h(0,"Telegram"),"WebApp"),"contentSafeAreaInset"),"top"))
 return s}catch(r){return 0}},
 aq(){var s,r,q,p=this,o=null
 p.aM()
