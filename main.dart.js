@@ -23983,9 +23983,9 @@ _.e=_.d=$
 _.f=0
 _.r=!1
 _.w=""
-_.as=_.Q=_.z=_.y=_.x=null
-_.at=a
-_.ay=_.ax=null
+_.at=_.as=_.Q=_.z=_.y=_.x=null
+_.ax=a
+_.ch=_.ay=null
 _.cO$=b
 _.aJ$=c
 _.c=_.a=null},
@@ -78991,7 +78991,7 @@ p.w=r
 if(s.h(0,"level")!=null){r=s.h(0,"level")
 r.toString
 r=A.JY(r,o)}else r=o
-p.ax=r
+p.ay=r
 r=A.bM(o,B.lD,o,o,p)
 p.d=r
 q=t.Y
@@ -79004,14 +79004,14 @@ q.b=!0
 q.a.push(new A.aaa(p))
 p.uI()
 p.Oq()
-p.as=A.pv(B.ch,new A.aab(p))},
+p.at=A.pv(B.ch,new A.aab(p))},
 l(){var s=this.d
 s===$&&A.a()
 s.l()
-s=this.as
+s=this.at
 if(s!=null)s.av(0)
 this.XJ()},
-yW(a){var s=this.ax,r=s!=null
+yW(a){var s=this.ay,r=s!=null
 if(r&&s===24)switch(a){case 0:return 292.5
 case 3000:return 292.5
 case 5000:return 337.5
@@ -79081,8 +79081,8 @@ e=A.ct(B.cg,e,null)
 e.T(0,new A.a9J(n))
 n.e=new A.ay(e,new A.az(g,i,f),f.i("ay<ar.T>"))
 n.z=m.c
-n.Q=m.e
-n.x=m.d
+n.as=m.e
+n.Q=m.d
 f=n.d
 f.sm(0,f.a)
 n.d.bH(0)}else n.a_(new A.a9K(n,m))
@@ -79124,7 +79124,7 @@ k=A.cS("\u041a\u043e\u043b\u0435\u0441\u043e \u0444\u043e\u0440\u0442\u0443\u043
 s=A.qY(l,B.fr,l,new A.a9W(m),l,l)
 r=t.p
 q=A.b([],r)
-p=m.ax
+p=m.ay
 p.toString
 if(p>=20)q.push(m.agc(a))
 k=A.WC(q,B.u,!0,0,s,k)
@@ -79136,7 +79136,7 @@ s=m.e
 s===$&&A.a()
 p=s.a
 p=s.b.a3(0,p.gm(p))
-s=m.ax
+s=m.ay
 s.toString
 s=A.iq(A.dh(B.D,A.b([A.Mf(p,A.eN(m.TS(s),B.dI,j,j)),new A.dG(B.D,l,l,new A.bj(new A.au(i/2,0,0,0),A.eN("assets/images/roulette_pointer2.png",B.dI,i,i),l),l)],r),B.z,B.a5),j,j)
 p=m.r
@@ -79159,7 +79159,7 @@ if(s)return r+" \u0441\u043f\u0438\u043d\u0430"
 else return r+" \u0441\u043f\u0438\u043d\u043e\u0432"}},
 agc(a){var s=null
 return A.qY(s,B.Dv,s,new A.aa3(this,a),s,s)},
-zt(){var s=this.ax
+zt(){var s=this.ay
 s.toString
 if(s===25)return B.c.a6(Math.pow(2,s-1)/73750)
 if(s===24)return B.c.a6(Math.pow(2,s-1)/29125)
@@ -79175,7 +79175,7 @@ if(r.t2(q))s.a=q
 else if(r.xy(p))s.a=q.nA(864e8)
 else s.a=p
 this.a_(new A.a9T(s,this,r))},
-aar(){var s=this,r=new A.a9R(),q=r.$1(B.e.bY(s.at.a,36e8)%24),p=r.$1(B.e.bY(s.at.a,6e7)%60),o=r.$1(B.e.bY(s.at.a,1e6)%60)
+aar(){var s=this,r=new A.a9R(),q=r.$1(B.e.bY(s.ax.a,36e8)%24),p=r.$1(B.e.bY(s.ax.a,6e7)%60),o=r.$1(B.e.bY(s.ax.a,1e6)%60)
 r=s.x
 return A.kR(A.cS(q+":"+p+":"+o,24,B.ck,B.k,3,B.j),!1,!1,!1,r===0)},
 a8E(a){var s,r,q,p,o,n=null,m=A.cN(12),l=A.cN(12),k=$.a3().iD(5,5,B.aR)
@@ -79183,7 +79183,7 @@ k=A.jM(A.cs(n,n,B.p,A.V(89,255,255,255),n,n,67,n,n,67),k)
 s=A.cN(12)
 r=t.p
 q=A.b([A.bS(n,new A.bj(B.d_,A.eN("assets/images/icon_roulette_rb.png",B.aS,55,55),n),!1,n,n,!1,n,n,n,n,"Open Roulette",n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n)],r)
-p=this.ay
+p=this.ch
 if(p!=null&&p!==0){o=A.cN(8)
 q.push(A.oV(n,A.cs(n,new A.bj(B.iu,A.cS(A.j(p),12,B.l,B.k,2,B.j),n),B.p,n,n,new A.cf(B.j3,n,n,o,n,n,B.V),n,n,B.iv,n),n,n,n,0,0,n))}return A.kf(!1,m,!0,A.Gp(l,A.dh(B.ad,A.b([k,A.cs(n,A.dh(B.ad,q,B.z,B.a5),B.p,n,n,new A.cf(n,n,n,s,n,n,B.V),67,n,n,67)],r),B.z,B.a5)),n,!0,n,n,n,n,n,n,n,n,n,new A.a9D(this,a),n,n,n,n)},
 uH(){var s=0,r=A.L(t.H),q=this,p
@@ -79202,11 +79202,11 @@ r===$&&A.a()
 q=r.a
 s.f=B.c.aV(r.b.a3(0,q.gm(q)),6.283185307179586)
 s.a_(new A.aa4(s))
-if(s.Q===!0){r=s.c.af(t.Pu)
+if(s.as===!0){r=s.c.af(t.Pu)
 r.toString
 r.f.pN(A.zL(A.Lm("\u0417\u0430\u043a\u0440\u044b\u0442\u044c",new A.aa5(),B.j),p,p,p,p,B.z,p,B.RE,p,B.e2,p,p,p,p,p,p,p,p,p))
 s.z=null
-s.Q=!1}else{r=s.z
+s.as=!1}else{r=s.z
 if(r!=null&&r>0){r=s.c.af(t.Pu)
 r.toString
 q=s.z
@@ -79215,10 +79215,12 @@ q=A.kr("#,##0","en_US").jm(q)
 q=A.e2("\u0412\u044b \u0432\u044b\u0438\u0433\u0440\u0430\u043b\u0438 "+A.dC(q,","," ")+"!",p,p,p,p,p,p)
 r.f.pN(A.zL(A.Lm("\u0417\u0430\u043a\u0440\u044b\u0442\u044c",new A.aa6(),B.j),p,p,p,p,B.z,p,q,p,B.e2,p,p,p,p,p,p,p,p,p))
 s.z=null
-s.Q=!1}}}},
+s.as=!1}}}},
 $S:7}
 A.aa4.prototype={
-$0(){this.a.r=!1},
+$0(){var s=this.a
+s.r=!1
+s.x=s.Q},
 $S:0}
 A.aa5.prototype={
 $0(){},
@@ -79245,7 +79247,7 @@ s.r=!0
 s.f=0},
 $S:0}
 A.a9I.prototype={
-$0(){this.a.ax=this.b.f},
+$0(){this.a.ay=this.b.f},
 $S:0}
 A.a9J.prototype={
 $0(){var s=this.a
@@ -79293,7 +79295,7 @@ A.aa1.prototype={
 $0(){A.fk(this.a,!1).dZ()},
 $S:0}
 A.a9T.prototype={
-$0(){this.b.at=this.a.a.fo(this.c)},
+$0(){this.b.ax=this.a.a.fo(this.c)},
 $S:0}
 A.a9R.prototype={
 $1(a){return B.d.fC(B.e.k(a),2,"0")},
@@ -79313,10 +79315,10 @@ return A.J(null,r)}})
 return A.K($async$$0,r)},
 $S:16}
 A.a9C.prototype={
-$0(){this.a.ay=this.b},
+$0(){this.a.ch=this.b},
 $S:0}
 A.a9v.prototype={
-$0(){this.a.ay=this.b.b},
+$0(){this.a.ch=this.b.b},
 $S:0}
 A.CX.prototype={
 bt(){this.ck()
