@@ -79984,7 +79984,7 @@ c=n.a2G(f)
 k=c==null?0:c
 A.bz("SpinResult: "+A.j(k))
 j=B.c.aZ(k,360)*0.017453292519943295
-i=5
+i=4
 h=i*2*3.141592653589793+j
 A.bz("Final angle: "+A.j(h))
 f=n.f
