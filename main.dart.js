@@ -79195,12 +79195,12 @@ r.HX()}},
 bi(){this.de()},
 UC(a){if(a<10)return 325
 if(a<20)return 300
-if(a<30)return 300
-if(a<45)return 287.5
-if(a<60)return 250
-if(a<90)return 250
-if(a<105)return 250
-return 250},
+if(a<30)return 287.5
+if(a<45)return 250
+if(a<60)return 225
+if(a<90)return 225
+if(a<105)return 200
+return 200},
 HY(){var s=this.x
 if(s!=null)s.ao(0)
 this.x=A.pH(B.D6,new A.aip(this))},
