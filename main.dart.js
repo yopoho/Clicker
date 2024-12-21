@@ -79963,22 +79963,29 @@ if(B.b.p(A.b([1,3,5,7,9,12,14,16,18,19,21,23,25,27,30,32,34,36],t.t),a))return B
 return B.k},
 az(){var s,r,q,p=this,o=null,n="appVersion"
 p.aP()
-p.w=A.au3()
-s=A.tZ().gpx()
-r=s.h(0,"token")
-r.toString
-p.Q=r
-if(s.h(0,"level")!=null){r=s.h(0,"level")
-r.toString
-r=A.yO(r,o)}else r=o
-p.cx=r
-r=p.D_(r)
+s=A.vi(n)
+if((s==null?0:s)!==2){window.localStorage.setItem("nrOfReds","0")
+window.localStorage.setItem("nrOfBlacks","0")
+window.localStorage.setItem("nrOfZeros","0")
+window.localStorage.setItem("lastZeroPoint","0")
+p.x=p.y=p.z=0
+s=B.e.k(2)
+window.localStorage.setItem(n,s)}p.w=A.au3()
+r=A.tZ().gpx()
+s=r.h(0,"token")
+s.toString
+p.Q=s
+if(r.h(0,"level")!=null){s=r.h(0,"level")
+s.toString
+s=A.yO(s,o)}else s=o
+p.cx=s
+s=p.D_(s)
 q=A.vi("default_bet_index")
-p.dx=r[q==null?1:q]
-r=A.bJ(o,B.lU,o,o,p)
-p.d=r
+p.dx=s[q==null?1:q]
+s=A.bJ(o,B.lU,o,o,p)
+p.d=s
 q=t.Y
-p.e=new A.ay(A.cB(B.cg,r,o),new A.aB(0,0,q),q.i("ay<at.T>"))
+p.e=new A.ay(A.cB(B.cg,s,o),new A.aB(0,0,q),q.i("ay<at.T>"))
 q=p.d
 q.b0()
 q=q.c6$
@@ -79991,14 +79998,7 @@ q.b=!0
 q.a.push(new A.aaX(p))
 p.vf()
 p.Mx()
-p.ch=A.pH(B.ch,new A.aaY(p))
-r=A.vi(n)
-if((r==null?0:r)===0){window.localStorage.setItem("nrOfReds","0")
-window.localStorage.setItem("nrOfBlacks","0")
-window.localStorage.setItem("nrOfZeros","0")
-window.localStorage.setItem("lastZeroPoint","0")
-r=B.e.k(1)
-window.localStorage.setItem(n,r)}},
+p.ch=A.pH(B.ch,new A.aaY(p))},
 l(){var s=this,r=s.d
 r===$&&A.a()
 r.l()
