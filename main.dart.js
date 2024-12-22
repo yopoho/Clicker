@@ -80560,7 +80560,7 @@ return new A.vK(A.fX(!1,A.cU(75),!0,new A.GT(A.eS("assets/images/main_button.png
 a7P(a){var s,r=null,q=A.cU(12),p=A.cU(12),o=$.a0().iN(5,5,B.aT)
 o=A.k8(A.cD(r,r,B.p,A.R(89,255,255,255),r,r,67,r,r,67),o)
 s=A.cU(12)
-return A.fX(!1,q,!0,A.GW(p,A.da(B.ac,A.b([o,A.cD(r,A.bQ(r,r,new A.bc(B.d2,A.eS("assets/images/leaderboard.png",B.b0,55,55),r),!1,r,r,!1,r,r,r,r,"Open Leaderboard",r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),B.p,r,r,new A.cn(r,r,r,s,r,r,B.Y),67,r,r,67)],t.p),B.A,B.a7)),r,!0,r,r,r,r,r,r,r,r,r,new A.akH(a),r,r,r,r)},
+return A.fX(!1,q,!0,A.GW(p,A.da(B.ac,A.b([o,A.cD(r,A.bQ(r,r,new A.bc(B.d2,A.eS("assets/images/icon_leaderboard_2.png",B.b0,55,55),r),!1,r,r,!1,r,r,r,r,"Open Leaderboard",r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),B.p,r,r,new A.cn(r,r,r,s,r,r,B.Y),67,r,r,67)],t.p),B.A,B.a7)),r,!0,r,r,r,r,r,r,r,r,r,new A.akH(a),r,r,r,r)},
 Qk(a,b){var s,r,q,p,o=window.location.href
 o.toString
 s=A.d1(o,0,null)
