@@ -80983,7 +80983,7 @@ h=Math.min(A.bw(a,i,h).w.a.a,A.bw(a,i,h).w.a.b)
 s=A.bV("The Island Roulette",27,B.k,B.l,3,B.i)
 s=A.Xh(i,B.q,!0,0,A.oq(i,B.fB,i,new A.aba(j),i,i),s)
 r=A.ad9(A.eS("assets/images/the_island.jpg",B.b0,i,i))
-q=$.a0().iN(0.5,0.5,B.aT)
+q=$.a0().iN(0.33,0.33,B.aT)
 q=A.Kq(0,A.k8(A.cD(i,i,B.p,A.R(0,0,0,0),i,i,i,i,i,i),q))
 p=j.fr
 if(p!=null){p=A.js("#,##0","en_US").iV(p)
@@ -81355,7 +81355,7 @@ if(p>=20)q.push(m.aiO(a))
 k=A.Xh(q,B.q,!0,0,s,k)
 s=A.ad9(A.eS("assets/images/background_hd4.jpg",B.b0,l,l))
 q=$.a0()
-p=q.iN(0.5,0.5,B.aT)
+p=q.iN(0.33,0.33,B.aT)
 p=A.b([s,A.Kq(0,A.k8(A.cD(l,l,B.p,A.R(0,0,0,0),l,l,l,l,l,l),p)),new A.dz(B.z2,l,l,new A.bc(B.m5,m.aaT(a),l),l)],r)
 s=m.y
 if(s!=null&&s>0){s=m.CW
