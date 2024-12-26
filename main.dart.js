@@ -80526,8 +80526,8 @@ s=A.q0().gnk().h(0,"token")
 s.toString
 r.d=s
 r.xX()},
-M(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h="\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c \u0434\u043b\u044f \u0441\u0434\u0430\u0447\u0438 \u0432 \u0430\u0440\u0435\u043d\u0434\u0443.",g="\u0426\u0435\u043d\u0430:",f="\u0414\u043e\u0445\u043e\u0434:",e="car_expensive_ferrari",d="car_expensive_porsche",c="car_expensive_lambo",b=A.bq("\u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438",27,B.k,B.i,3,B.j)
-b=A.Gi(i,B.q,!0,0,A.m8(i,B.ej,i,new A.akh(j),i,i),b)
+M(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h="\u0426\u0435\u043d\u0430:",g="\u0414\u043e\u0445\u043e\u0434:",f="car_expensive_ferrari",e="car_expensive_porsche",d="car_expensive_lambo",c=A.bq("\u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438",27,B.k,B.i,3,B.j)
+c=A.Gi(i,B.q,!0,0,A.m8(i,B.ej,i,new A.akh(j),i,i),c)
 s=A.M1(A.e7("assets/images/background_hd4.jpg",B.aW,i,i))
 r=$.a0().hB(0.33,0.33,B.av)
 r=A.z2(0,A.ie(A.cd(i,i,B.p,A.R(0,0,0,0),i,i,i,i,i,i),r))
@@ -80547,27 +80547,27 @@ o=A.cK(B.Z,A.b([A.cd(i,A.f6(new A.b2(B.iS,A.bq(o,30,B.k,B.iu,3,B.iz),i),!1,!1,!1
 n=j.f
 if(n==null)n=i
 else{n=n.aa(0,"car1")
-n=n}n=j.o3("assets/images/car1.jpg",f,"30 000/\u0434\u0435\u043d\u044c","car1",n,h,g,"450 000")
+n=n}n=j.o3("assets/images/car1.jpg",g,"30 000/\u0434\u0435\u043d\u044c","car1",n,"Mini Cooper Hatchback \u0434\u043b\u044f \u0441\u0434\u0430\u0447\u0438 \u0432 \u0430\u0440\u0435\u043d\u0434\u0443.",h,"450 000")
 m=j.f
 if(m==null)m=i
 else{m=m.aa(0,"car3")
-m=m}m=j.o3("assets/images/car3.jpg",f,"100 000/\u0434\u0435\u043d\u044c","car3",m,h,g,"1 250 000")
+m=m}m=j.o3("assets/images/car3.jpg",g,"100 000/\u0434\u0435\u043d\u044c","car3",m,"BMW M2 Coupe \u0434\u043b\u044f \u0441\u0434\u0430\u0447\u0438 \u0432 \u0430\u0440\u0435\u043d\u0434\u0443.",h,"1 250 000")
 l=j.f
 if(l==null)l=i
-else{l=l.aa(0,e)
-l=l}l=A.Ik(A.eQ(A.b([n,B.cL,m,B.cL,j.o3("assets/images/car_expensive_ferrari.jpg",f,"600 000/\u0434\u0435\u043d\u044c",e,l,h,g,"5 500 000")],q),B.cn,B.T,B.a1))
+else{l=l.aa(0,f)
+l=l}l=A.Ik(A.eQ(A.b([n,B.cL,m,B.cL,j.o3("assets/images/car_expensive_ferrari.jpg",g,"600 000/\u0434\u0435\u043d\u044c",f,l,"Ferrari 488 \u0434\u043b\u044f \u0441\u0434\u0430\u0447\u0438 \u0432 \u0430\u0440\u0435\u043d\u0434\u0443.",h,"5 500 000")],q),B.cn,B.T,B.a1))
 n=j.f
 if(n==null)n=i
 else{n=n.aa(0,"car2")
-n=n}n=j.o3("assets/images/car2.jpg",f,"75 000/\u0434\u0435\u043d\u044c","car2",n,h,g,"1 000 000")
+n=n}n=j.o3("assets/images/car2.jpg",g,"75 000/\u0434\u0435\u043d\u044c","car2",n,"BMW 3 Series \u0434\u043b\u044f \u0441\u0434\u0430\u0447\u0438 \u0432 \u0430\u0440\u0435\u043d\u0434\u0443.",h,"1 000 000")
 m=j.f
 if(m==null)m=i
-else{m=m.aa(0,d)
-m=m}m=j.o3("assets/images/car_expensive_porsche.jpg",f,"400 000/\u0434\u0435\u043d\u044c",d,m,h,g,"4 000 000")
+else{m=m.aa(0,e)
+m=m}m=j.o3("assets/images/car_expensive_porsche.jpg",g,"400 000/\u0434\u0435\u043d\u044c",e,m,"Porsche Cayman S \u0434\u043b\u044f \u0441\u0434\u0430\u0447\u0438 \u0432 \u0430\u0440\u0435\u043d\u0434\u0443.",h,"4 000 000")
 k=j.f
 if(k==null)k=i
-else{k=k.aa(0,c)
-k=k}p.push(A.eQ(A.b([new A.b2(B.bl,o,i),B.cL,A.Ik(A.ayg(A.eQ(A.b([new A.b2(B.mh,A.fA(A.b([l,B.O5,A.Ik(A.eQ(A.b([n,B.cL,m,B.cL,j.o3("assets/images/car_expensive_lambo.jpg",f,"900 000/\u0434\u0435\u043d\u044c",c,k,h,g,"7 500 000")],q),B.cn,B.T,B.a1))],q),B.c_,B.T,B.a1),i),B.cL],q),B.S,B.T,B.a1),B.aV))],q),B.S,B.T,B.a1))}return A.zP(b,i,A.cK(B.Z,A.b([s,r,A.Ls(!0,A.cK(B.Z,p,B.u,B.V),!0)],q),B.u,B.V),!0,i)},
+else{k=k.aa(0,d)
+k=k}p.push(A.eQ(A.b([new A.b2(B.bl,o,i),B.cL,A.Ik(A.ayg(A.eQ(A.b([new A.b2(B.mh,A.fA(A.b([l,B.O5,A.Ik(A.eQ(A.b([n,B.cL,m,B.cL,j.o3("assets/images/car_expensive_lambo.jpg",g,"900 000/\u0434\u0435\u043d\u044c",d,k,"Lamborghini Huracan \u0434\u043b\u044f \u0441\u0434\u0430\u0447\u0438 \u0432 \u0430\u0440\u0435\u043d\u0434\u0443.",h,"7 500 000")],q),B.cn,B.T,B.a1))],q),B.c_,B.T,B.a1),i),B.cL],q),B.S,B.T,B.a1),B.aV))],q),B.S,B.T,B.a1))}return A.zP(c,i,A.cK(B.Z,A.b([s,r,A.Ls(!0,A.cK(B.Z,p,B.u,B.V),!0)],q),B.u,B.V),!0,i)},
 o3(a,b,c,d,e,f,g,h){var s,r=this,q=null,p=A.cw(16),o=A.qY(B.zR,A.e7(a,B.la,120,q)),n=A.b([A.c1(q,q,q,f+"\n"),A.c1(q,q,q,b+" "),A.c1(q,q,B.bR,c),B.yI,B.yH,A.c1(q,q,q,g+" "),A.c1(q,q,B.Rf,h),B.yI],t.VO),m=e===!0
 if(m)n.push(B.yH)
 if(m)n.push(B.Pe)
