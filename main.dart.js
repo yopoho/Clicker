@@ -80860,7 +80860,7 @@ r.Q=$.FB
 s=$.lE
 if(s==null)s=-1
 r.d=s
-r.e=A.au0(s)
+if(s!==-1)r.e=A.au0(s)
 s=t.Y
 r.at=new A.aA(r.as,new A.az(9,9,s),s.i("aA<aw.T>"))
 s=r.r=A.q0().gnk().h(0,"token")
