@@ -80699,7 +80699,7 @@ n=A.cM(n,","," ")
 s=B.c.a4(Math.pow(2,m))
 s=A.eW("#,##0","en_US").fi(s)
 r=t.p
-q=A.hW(A.eX(A.b([k,B.y9,A.xd(A.c0(o,A.c0(o,A.cD(B.Z,A.b([f,A.eq(new A.Mo(n+" / "+A.cM(s,","," "),2.75,B.i,B.PH,o),o,o)],r),B.u,B.V),B.p,o,o,new A.c4(B.e4,o,g,h,o,o,B.U),o,B.b8,o,o),B.p,o,o,new A.c4(B.e4,o,i,j,o,o,B.U),25,o,o,o)),B.y9,A.bi(""+(m+1),16,B.k,B.i,3,B.j)],r),B.M,B.N,B.X),o,p.d)
+q=A.hW(A.eX(A.b([k,B.y9,A.xd(A.c0(o,A.c0(o,A.cD(B.Z,A.b([f,A.eq(new A.Mo(n+" / "+A.cM(s,","," "),1.5,B.i,B.PH,o),o,o)],r),B.u,B.V),B.p,o,o,new A.c4(B.e4,o,g,h,o,o,B.U),o,B.b8,o,o),B.p,o,o,new A.c4(B.e4,o,i,j,o,o,B.U),25,o,o,o)),B.y9,A.bi(""+(m+1),16,B.k,B.i,3,B.j)],r),B.M,B.N,B.X),o,p.d)
 return q}}
 A.JK.prototype={
 L(a){var s=null,r=A.tT(s,A.avp(B.ab,s,s,B.bw),!0)
@@ -87902,7 +87902,7 @@ B.Pg=new A.fD("\u041d\u0435 \u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u04
 B.Qu=new A.m(!0,B.cE,null,null,null,null,13,B.ef,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Ph=new A.fD("\u041c\u043e\u0436\u043d\u043e \u043a\u0443\u043f\u0438\u0442\u044c",null,null,B.aP,B.Qu)
 B.Pi=new A.fD("\n\n",null,null,B.aP,B.cc)
-B.PH=new A.m(!0,B.j,null,null,null,null,15,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.PH=new A.m(!0,B.j,null,null,null,null,10,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.yH=new A.m(!0,B.di,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.yI=new A.m(!1,null,null,null,null,null,14,B.k,null,-0.15,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.QA=new A.m(!1,null,null,null,null,null,15,B.k,null,-0.15,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
