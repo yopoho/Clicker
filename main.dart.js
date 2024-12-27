@@ -80699,7 +80699,7 @@ n=A.cM(n,","," ")
 s=B.c.a4(Math.pow(2,m))
 s=A.eW("#,##0","en_US").fi(s)
 r=t.p
-q=A.hW(A.eX(A.b([k,B.y9,A.xd(A.c0(o,A.c0(o,A.cD(B.Z,A.b([f,A.eq(new A.Mo(n+" / "+A.cM(s,","," "),2,B.i,B.PH,o),o,o)],r),B.u,B.V),B.p,o,o,new A.c4(B.e4,o,g,h,o,o,B.U),o,B.b8,o,o),B.p,o,o,new A.c4(B.e4,o,i,j,o,o,B.U),25,o,o,o)),B.y9,A.bi(""+(m+1),16,B.k,B.i,3,B.j)],r),B.M,B.N,B.X),o,p.d)
+q=A.hW(A.eX(A.b([k,B.y9,A.xd(A.c0(o,A.c0(o,A.cD(B.Z,A.b([f,A.eq(new A.Mo(n+" / "+A.cM(s,","," "),1.75,B.i,B.PH,o),o,o)],r),B.u,B.V),B.p,o,o,new A.c4(B.e4,o,g,h,o,o,B.U),o,B.b8,o,o),B.p,o,o,new A.c4(B.e4,o,i,j,o,o,B.U),25,o,o,o)),B.y9,A.bi(""+(m+1),16,B.k,B.i,3,B.j)],r),B.M,B.N,B.X),o,p.d)
 return q}}
 A.JK.prototype={
 L(a){var s=null,r=A.tT(s,A.avp(B.ab,s,s,B.bw),!0)
@@ -80901,7 +80901,7 @@ q=A.b([B.yc,f.a9r(f.d)],s)
 if(f.d>=0)q.push(B.yb)
 if(f.d>=0){p=A.aPM($.WF)
 p=A.eW(d,c).fi(p)
-q.push(A.bi("+ "+A.cM(p,","," ")+" / \u0434\u0435\u043d\u044c",15,B.k,B.i,2.75,B.j))}q.push(B.yc)
+q.push(A.bi("+ "+A.cM(p,","," ")+" / \u0434\u0435\u043d\u044c",15,B.k,B.i,2.5,B.j))}q.push(B.yc)
 if(f.e<25)q.push(f.a87())
 if(f.e<25)q.push(B.ka)
 if(f.e<25){p=f.f
