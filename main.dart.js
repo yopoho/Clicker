@@ -13012,7 +13012,7 @@ if(r==null)r=14
 s=A.cA(a,B.ch)
 s=s==null?null:s.gcU()
 if(s==null)s=B.af
-return A.avx(B.mi,B.Ew,B.Eu,r*s.a/14)},
+return A.avx(B.mj,B.Ew,B.Eu,r*s.a/14)},
 MG:function MG(a,b,c,d,e,f,g,h,i,j,k,l){var _=this
 _.c=a
 _.d=b
@@ -44656,7 +44656,7 @@ A.YI.prototype={
 G(){return"ButtonTextTheme."+this.b}}
 A.GN.prototype={
 gcE(a){var s
-switch(0){case 0:break}s=B.mj
+switch(0){case 0:break}s=B.Em
 return s},
 gbl(a){$label0$0:{break $label0$0}return B.jN},
 j(a,b){var s=this
@@ -49556,7 +49556,7 @@ return q.cc(r==null?s.k2:r)},
 gcO(a){return 6},
 gbl(a){return B.Mb},
 grP(){return B.yk},
-gtL(){return B.Em},
+gtL(){return B.El},
 gqm(){return!1},
 grW(){var s=this.gkf(),r=s.y1
 return r==null?s.k2:r},
@@ -80579,7 +80579,7 @@ l=l}l=i.k8("assets/images/car_expensive_lambo.jpg",e,"900 000/\u0434\u0435\u043d
 k=i.f
 if(k==null)k=h
 else{k=k.a5(0,a1)
-k=k}p.push(A.eQ(A.b([new A.b2(B.bl,o,h),B.bB,A.Ik(A.ayg(A.eQ(A.b([new A.b2(B.mj,A.fA(A.b([j,B.O6,A.Ik(A.eQ(A.b([n,B.bB,m,B.bB,l,B.bB,i.k8("assets/images/restaurant2.jpg",e,"2 250 000/\u0434\u0435\u043d\u044c",a1,k,"",f,"20 000 000","Burj Khalifa View Restaurant")],q),B.co,B.T,B.a1))],q),B.c_,B.T,B.a1),h),B.bB],q),B.S,B.T,B.a1),B.aV))],q),B.S,B.T,B.a1))}return A.zP(a2,h,A.cL(B.Z,A.b([s,r,A.Ls(!0,A.cL(B.Z,p,B.u,B.V),!0)],q),B.u,B.V),!0,h)},
+k=k}p.push(A.eQ(A.b([new A.b2(B.bl,o,h),B.bB,A.Ik(A.ayg(A.eQ(A.b([new A.b2(B.mi,A.fA(A.b([j,B.O6,A.Ik(A.eQ(A.b([n,B.bB,m,B.bB,l,B.bB,i.k8("assets/images/restaurant2.jpg",e,"2 250 000/\u0434\u0435\u043d\u044c",a1,k,"",f,"20 000 000","Burj Khalifa View Restaurant")],q),B.co,B.T,B.a1))],q),B.c_,B.T,B.a1),h),B.bB],q),B.S,B.T,B.a1),B.aV))],q),B.S,B.T,B.a1))}return A.zP(a2,h,A.cL(B.Z,A.b([s,r,A.Ls(!0,A.cL(B.Z,p,B.u,B.V),!0)],q),B.u,B.V),!0,h)},
 k8(a,b,c,d,e,f,g,h,i){var s,r,q=this,p=null,o=B.d.b1(d,"car"),n=o?B.lb:B.f4,m=A.cx(16),l=A.b([A.qY(B.cW,A.e7(a,n,110,p)),B.Ob],t.p)
 if(o)l.push(B.Dc)
 l.push(B.yj)
@@ -80602,7 +80602,7 @@ if(q.f!=null&&e!=null&&!e){r=q.e
 if(r!=null)s=r<A.fb(A.d6(h," ",""),p)}if(s)o.push(B.Ph)
 l.push(A.ayy(A.bY(o,p,A.hZ(p,p,B.i,p,p,p,p,p,p,p,p,10,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p),p,B.dI))
 l.push(B.yj)
-return A.ew(!1,p,!0,new A.GR(B.j,4,new A.cK(m,B.r),B.bl,new A.b2(B.mi,A.eQ(l,B.S,B.dl,B.a1),p),p),p,!0,p,p,p,p,p,p,p,p,p,new A.ak8(q,e,h,d),p,p,p,p)},
+return A.ew(!1,p,!0,new A.GR(B.j,4,new A.cK(m,B.r),B.bl,new A.b2(B.mj,A.eQ(l,B.S,B.dl,B.a1),p),p),p,!0,p,p,p,p,p,p,p,p,p,new A.ak8(q,e,h,d),p,p,p,p)},
 we(a){return this.a8R(a)},
 a8R(a){var s=0,r=A.A(t.z),q=1,p,o=this,n,m,l,k,j,i
 var $async$we=A.B(function(b,c){if(b===1){p=c
@@ -81058,7 +81058,7 @@ n=A.d6(m,","," ")}r.push(A.fA(A.b([q,o,A.bq(n,20,B.k,B.i,3,B.j)],s),B.S,B.dl,B.a
 q=g.w
 q=A.bq(q==null?"":q,22,B.k,B.i,3,B.j)
 o=g.e
-q=A.mF(f,new A.b2(B.El,A.fA(A.b([q,A.bq(o===-1?"":"\u0423\u0440\u043e\u0432\u0435\u043d\u044c: "+o,22,B.k,B.i,3,B.j)],s),B.S,B.fY,B.a1),f),f,f,0,0,0,f)
+q=A.mF(f,new A.b2(B.Ek,A.fA(A.b([q,A.bq(o===-1?"":"\u0423\u0440\u043e\u0432\u0435\u043d\u044c: "+o,22,B.k,B.i,3,B.j)],s),B.S,B.fY,B.a1),f),f,f,0,0,0,f)
 o=g.d
 o=A.f6(g.a83(a),!1,!1,!1,!1,o>=0)
 m=g.d
@@ -82225,7 +82225,7 @@ j=A.f6(A.ew(!1,k,!0,new A.b2(B.d9,A.bq("\u21bb",35,B.k,B.i,3,B.j),k),k,!0,k,k,k,
 q=s?l.ga2g():k
 q=A.f6(A.ew(!1,k,!0,new A.b2(B.d9,A.bq("\u2212",35,B.k,B.i,3,B.j),k),k,!0,k,k,k,k,k,k,k,k,k,q,k,k,k,k),!0,!1,!0,!0,s)
 p=l.a
-p=A.ew(!1,k,!0,A.cd(k,A.bq(p.ahR(p.c[l.d]),25,B.k,B.i,3,B.j),B.p,k,k,k,k,k,B.Ek,k),k,!0,k,k,k,k,k,k,k,k,new A.aoQ(l),k,k,k,k,k)
+p=A.ew(!1,k,!0,A.cd(k,A.bq(p.ahR(p.c[l.d]),25,B.k,B.i,3,B.j),B.p,k,k,k,k,k,B.mi,k),k,!0,k,k,k,k,k,k,k,k,new A.aoQ(l),k,k,k,k,k)
 o=r?l.gMv():k
 o=A.f6(A.ew(!1,k,!0,new A.b2(B.d9,A.bq("+",35,B.k,B.i,3,B.j),k),k,!0,k,k,k,k,k,k,k,k,k,o,k,k,k,k),!0,!1,!0,!0,r)
 n=l.d
@@ -86240,11 +86240,11 @@ B.Ef=new A.aw(0,0,0,14)
 B.Eg=new A.aw(0,0,0,20)
 B.Eh=new A.aw(0,0,0,8)
 B.Ei=new A.aw(0,14,0,14)
-B.Ek=new A.aw(12,0,12,0)
-B.El=new A.aw(12,8,12,0)
-B.mi=new A.aw(12,8,12,8)
-B.Em=new A.aw(15,5,15,10)
-B.mj=new A.aw(16,0,16,0)
+B.mi=new A.aw(12,0,12,0)
+B.Ek=new A.aw(12,8,12,0)
+B.mj=new A.aw(12,8,12,8)
+B.El=new A.aw(15,5,15,10)
+B.Em=new A.aw(16,0,16,0)
 B.mk=new A.aw(16,16,16,16)
 B.En=new A.aw(16,18,16,18)
 B.Eo=new A.aw(16,4,16,4)
@@ -87960,7 +87960,7 @@ B.O3=new A.I(48,36)
 B.ye=new A.I(48,48)
 B.O5=new A.I(77.37,37.9)
 B.aD=new A.dm(0,0,null,null)
-B.O6=new A.dm(16,null,null,null)
+B.O6=new A.dm(12,null,null,null)
 B.yf=new A.dm(20,null,null,null)
 B.O9=new A.dm(null,100,null,null)
 B.Oa=new A.dm(null,110,null,null)
