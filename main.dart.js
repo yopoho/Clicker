@@ -80894,7 +80894,7 @@ q=A.b([B.yc,f.a9r(f.d)],s)
 if(f.d>=0)q.push(B.yb)
 if(f.d>=0){p=A.aPL($.WE)
 p=A.eW(d,c).fi(p)
-q.push(A.bh("+ "+A.cM(p,","," ")+" / \u0434\u0435\u043d\u044c",15,B.k,B.i,2.75,B.j))}q.push(B.yc)
+q.push(A.bh("+ "+A.cM(p,","," ")+" / \u0434\u0435\u043d\u044c",15,B.k,B.i,3,B.j))}q.push(B.yc)
 if(f.e<25)q.push(f.a87())
 if(f.e<25)q.push(B.ka)
 if(f.e<25){p=f.f
