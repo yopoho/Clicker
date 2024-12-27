@@ -81071,7 +81071,7 @@ n=A.cG(n,","," ")
 s=B.c.a4(Math.pow(2,m))
 s=A.f_("#,##0","en_US").fi(s)
 r=t.p
-q=A.bV(o,A.f0(A.b([k,B.yf,A.xo(A.bV(o,A.bV(o,A.cD(B.Z,A.b([f,A.et(A.bi(n+" / "+A.cG(s,","," "),10,B.k,B.i,2.25,B.j),o,o)],r),B.u,B.V),B.p,o,o,new A.c5(B.e9,o,g,h,o,o,B.U),o,new A.au(0,0,0,0),o,o),B.p,o,o,new A.c5(B.e9,o,i,j,o,o,B.U),20,o,o,o)),B.yf,A.bi(""+(m+1),16,B.k,B.i,3,B.j)],r),B.M,B.N,B.X),B.p,o,o,o,o,o,o,p.d)
+q=A.bV(o,A.f0(A.b([k,B.yf,A.xo(A.bV(o,A.bV(o,A.cD(B.Z,A.b([f,A.et(A.bi(n+" / "+A.cG(s,","," "),10,B.k,B.i,2.4,B.j),o,o)],r),B.u,B.V),B.p,o,o,new A.c5(B.e9,o,g,h,o,o,B.U),o,new A.au(0,0,0,0),o,o),B.p,o,o,new A.c5(B.e9,o,i,j,o,o,B.U),20,o,o,o)),B.yf,A.bi(""+(m+1),16,B.k,B.i,3,B.j)],r),B.M,B.N,B.X),B.p,o,o,o,o,o,o,p.d)
 return q}}
 A.JZ.prototype={
 M(a){var s=null,r=A.u0(s,A.avT(B.ac,s,s,B.bx),!0)
