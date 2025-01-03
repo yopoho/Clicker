@@ -80414,7 +80414,7 @@ k=k}k=h.jl("assets/images/restaurant2.jpg",d,"2 250 000/\u0434\u0435\u043d\u044c
 i=h.f
 if(i==null)i=g
 else{i=i.a6(0,"hotel1")
-i=i}p.push(A.es(A.b([new A.b1(B.b8,o,g),B.ka,A.xd(A.ay_(A.es(A.b([new A.b1(B.me,A.eX(A.b([j,B.O7,A.xd(A.es(A.b([n,B.cc,m,B.cc,l,B.cc,k,B.cc,h.jl("assets/images/hotel1.jpg",d,"25 000 000/\u0434\u0435\u043d\u044c","hotel1",i,"",e,"200 000 000","Burj Al Arab Hotel")],q),B.cp,B.N,B.X))],q),B.c_,B.N,B.X),g),B.ka],q),B.M,B.N,B.X),B.aV))],q),B.M,B.N,B.X))}return A.zH(a3,g,A.cD(B.Z,A.b([s,r,A.Lk(!0,A.cD(B.Z,p,B.u,B.V),!0)],q),B.u,B.V),!0,g)},
+i=i}p.push(A.es(A.b([new A.b1(B.b8,o,g),B.ka,A.xd(A.ay_(A.es(A.b([new A.b1(B.me,A.eX(A.b([j,B.O7,A.xd(A.es(A.b([n,B.cc,m,B.cc,l,B.cc,k,B.cc,h.jl("assets/images/hotel1.jpg",d,"25 000 000/\u0434\u0435\u043d\u044c","hotel1",i,"",e,"200 000 000","Burj Al Arab")],q),B.cp,B.N,B.X))],q),B.c_,B.N,B.X),g),B.ka],q),B.M,B.N,B.X),B.aV))],q),B.M,B.N,B.X))}return A.zH(a3,g,A.cD(B.Z,A.b([s,r,A.Lk(!0,A.cD(B.Z,p,B.u,B.V),!0)],q),B.u,B.V),!0,g)},
 jl(a,b,c,d,e,f,g,h,i){var s,r,q=this,p=null,o=B.d.aV(d,"car"),n=o?B.l9:B.f0,m=A.cc(16),l=A.b([A.nT(B.cW,A.e8(a,n,110,p)),B.Ob],t.p)
 if(o)l.push(B.Dc)
 l.push(B.yf)
