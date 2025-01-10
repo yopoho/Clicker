@@ -80398,7 +80398,7 @@ j=j}j=g.hp("assets/images/restaurant3.jpg",c,"7 000 000/\u0434\u0435\u043d\u044c
 i=g.f
 if(i==null)i=f
 else{i=i.a2(0,"hotel2")
-i=i}i=g.hp("assets/images/hotel2.jpg",c,"55 000 000/\u0434\u0435\u043d\u044c","hotel2",i,"",d,"500 000 000","Atlantis The Palm")
+i=i}i=g.hp("assets/images/hotel2.jpg",c,"65 000 000/\u0434\u0435\u043d\u044c","hotel2",i,"",d,"500 000 000","Atlantis The Palm")
 h=g.f
 if(h==null)h=f
 else{h=h.a2(0,a1)
