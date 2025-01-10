@@ -80378,15 +80378,15 @@ o=A.cD(B.Z,A.b([A.c0(f,A.f4(new A.b1(B.iP,A.bi(o,30,B.k,B.is,3,B.iw),f),!1,!1,!1
 n=g.f
 if(n==null)n=f
 else{n=n.a2(0,"car1")
-n=n}n=g.hp("assets/images/car1.jpg",c,"32 000/\u0434\u0435\u043d\u044c","car1",n,e,d,"450 000","Mini Cooper")
+n=n}n=g.hp("assets/images/car1.jpg",c,"35 000/\u0434\u0435\u043d\u044c","car1",n,e,d,"450 000","Mini Cooper")
 m=g.f
 if(m==null)m=f
 else{m=m.a2(0,"car3")
-m=m}m=g.hp("assets/images/car3.jpg",c,"100 000/\u0434\u0435\u043d\u044c","car3",m,e,d,"1 250 000","BMW M2 Coupe")
+m=m}m=g.hp("assets/images/car3.jpg",c,"125 000/\u0434\u0435\u043d\u044c","car3",m,e,d,"1 250 000","BMW M2 Coupe")
 l=g.f
 if(l==null)l=f
 else{l=l.a2(0,b)
-l=l}l=g.hp("assets/images/car_expensive_ferrari.jpg",c,"600 000/\u0434\u0435\u043d\u044c",b,l,e,d,"5 500 000","Ferrari 488")
+l=l}l=g.hp("assets/images/car_expensive_ferrari.jpg",c,"675 000/\u0434\u0435\u043d\u044c",b,l,e,d,"5 500 000","Ferrari 488")
 k=g.f
 if(k==null)k=f
 else{k=k.a2(0,a)
@@ -80406,15 +80406,15 @@ h=h}h=A.xd(A.es(A.b([n,B.bo,m,B.bo,l,B.bo,k,B.bo,j,B.bo,i,B.bo,g.hp("assets/imag
 n=g.f
 if(n==null)n=f
 else{n=n.a2(0,"car2")
-n=n}n=g.hp("assets/images/car2.jpg",c,"75 000/\u0434\u0435\u043d\u044c","car2",n,e,d,"1 000 000","BMW 3 Series")
+n=n}n=g.hp("assets/images/car2.jpg",c,"90 000/\u0434\u0435\u043d\u044c","car2",n,e,d,"1 000 000","BMW 3 Series")
 m=g.f
 if(m==null)m=f
 else{m=m.a2(0,a2)
-m=m}m=g.hp("assets/images/car_expensive_porsche.jpg",c,"400 000/\u0434\u0435\u043d\u044c",a2,m,e,d,"4 000 000","Porsche Cayman S")
+m=m}m=g.hp("assets/images/car_expensive_porsche.jpg",c,"450 000/\u0434\u0435\u043d\u044c",a2,m,e,d,"4 000 000","Porsche Cayman S")
 l=g.f
 if(l==null)l=f
 else{l=l.a2(0,a3)
-l=l}l=g.hp("assets/images/car_expensive_lambo.jpg",c,"900 000/\u0434\u0435\u043d\u044c",a3,l,e,d,"7 500 000","Lamborghini Huracan")
+l=l}l=g.hp("assets/images/car_expensive_lambo.jpg",c,"1 000 000/\u0434\u0435\u043d\u044c",a3,l,e,d,"7 500 000","Lamborghini Huracan")
 k=g.f
 if(k==null)k=f
 else{k=k.a2(0,a4)
