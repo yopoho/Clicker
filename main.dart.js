@@ -81458,7 +81458,7 @@ h=Math.min(A.bv(a,i,h).w.a.a,A.bv(a,i,h).w.a.b)
 s=A.bi("The Island Roulette",27,B.k,B.i,3,B.j)
 s=A.G9(i,B.q,!0,0,A.m2(i,B.eg,i,new A.abd(j),i,i),s)
 r=A.LU(A.e8("assets/images/the_island.jpg",B.aX,i,i))
-q=$.a_().hB(0.2,0.2,B.av)
+q=$.a_().hB(0.15,0.15,B.av)
 q=A.yV(0,A.id(A.c0(i,i,B.p,A.R(0,0,0,0),i,i,i,i,i,i),q))
 p=j.dy
 if(p!=null){p=A.eX("#,##0","en_US").fj(p)
