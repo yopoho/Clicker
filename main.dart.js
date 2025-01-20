@@ -81805,6 +81805,7 @@ return A.A($async$oj,r)},
 oG(){var s=0,r=A.B(t.H),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e,d,c
 var $async$oG=A.C(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:if(n.w){s=1
+break}if(n.c==null){s=1
 break}n.Z(new A.aaY(n))
 p=4
 s=7
@@ -81827,8 +81828,8 @@ n.at=m.e
 n.as=m.d
 f=n.d
 f.sm(0,f.a)
-n.d.bu(0)}else n.Z(new A.ab_(n,m))
-p=2
+n.d.bu(0)}else{if(n.c==null){s=1
+break}n.Z(new A.ab_(n,m))}p=2
 s=6
 break
 case 4:p=3
@@ -81838,7 +81839,8 @@ A.b7("Error during normal spin: "+A.j(h))
 s=8
 return A.E(A.eW(B.bm,null,t.z),$async$oG)
 case 8:n.w=!1
-n.Z(new A.ab0(n))
+if(n.c==null){s=1
+break}n.Z(new A.ab0(n))
 n.oj()
 s=6
 break
