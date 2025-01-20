@@ -80662,7 +80662,7 @@ A.Ja.prototype={
 aA(){var s=this
 s.aK()
 s.qW()
-s.r=A.mX(B.E8,new A.a4B(s))},
+s.r=A.mX(B.E9,new A.a4B(s))},
 qW(){var s=0,r=A.B(t.H),q=1,p,o=this,n,m,l,k
 var $async$qW=A.C(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
@@ -81708,7 +81708,7 @@ if(s.h(0,"level")!=null){r=s.h(0,"level")
 r.toString
 r=A.yX(r,p)}else r=p
 q.ch=r
-r=q.d=A.by(p,B.E9,p,p,q)
+r=q.d=A.by(p,B.E8,p,p,q)
 r.b2()
 r=r.bW$
 r.b=!0
@@ -81855,7 +81855,7 @@ p.toString
 if(p>=20)q.push(m.aiS(a))
 k=A.G9(q,B.q,!0,0,s,k)
 s=A.LU(A.e8("assets/images/background_20_01.jpg",B.aX,l,l))
-q=$.a_().hB(0.33,0.33,B.av)
+q=$.a_().hB(0,0,B.av)
 q=A.b([s,A.yV(0,A.ic(A.c0(l,l,B.p,A.R(0,0,0,0),l,l,l,l,l,l),q)),new A.dt(B.zn,l,l,new A.b1(B.mg,m.ab_(a),l),l)],r)
 s=m.y
 if(s!=null&&s>0)q.push(new A.dt(B.kS,l,l,new A.b1(B.mg,A.eX(A.b([new A.wd(m.CW,new A.abc(m),B.q,B.j,B.A4,l),A.bi("\u0410\u0432\u0442\u043e",16,B.k,B.i,3,B.j)],r),B.M,B.N,B.X),l),l))
@@ -86069,10 +86069,10 @@ B.E6=new A.az(4e6)
 B.E7=new A.az(45e3)
 B.iN=new A.az(5e4)
 B.d8=new A.az(5e5)
-B.E8=new A.az(5e6)
 B.ec=new A.az(6e5)
-B.E9=new A.az(6e6)
+B.E8=new A.az(6e6)
 B.mc=new A.az(7e4)
+B.E9=new A.az(7e6)
 B.iO=new A.az(75e3)
 B.Ea=new A.az(75e4)
 B.Eb=new A.az(864e8)
