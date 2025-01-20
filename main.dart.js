@@ -80400,7 +80400,7 @@ i=i}i=e.eP("assets/images/hotel1.jpg",a,"25 000 000/\u0434\u0435\u043d\u044c","h
 h=e.f
 if(h==null)h=d
 else{h=h.a1(0,"hotel3")
-h=h}h=e.eP("assets/images/hotel3.jpg",a,"90 000 000/\u0434\u0435\u043d\u044c","hotel3",h,"",b,"700 000 000","Atlantis The Royal")
+h=h}h=e.eP("assets/images/hotel3.jpg",a,"100 000 000/\u0434\u0435\u043d\u044c","hotel3",h,"",b,"700 000 000","Atlantis The Royal")
 g=e.f
 if(g==null)g=d
 else{g=g.a1(0,a3)
