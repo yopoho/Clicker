@@ -81482,12 +81482,12 @@ if(j.Q===0)k.push(j.a9z())
 return A.h1(i,A.zH(s,i,A.cD(B.Z,A.b([r,q,A.eP(A.er(A.b([B.Od,o,B.ye,h,B.ye,new A.zx(new A.abg(j),i),B.yc,new A.Bd(p,new A.abh(),new A.abi(j),new A.abj(j),m,i),B.yc,l,B.kc,new A.ds(B.hW,i,i,new A.b1(B.Em,A.er(k,B.M,B.N,B.X),i),i)],n),B.M,B.N,B.X),i,i),A.mz(0,new A.b1(B.d9,j.a2j(),i),i,i,i,0,i,i)],n),B.u,B.V),!0,i),B.a5,!1,i,i,i,i,j.ga9x(),i,i,i,i,i,i,i,i,i,i,i,i,i,i,i)},
 w2(){var s=this.z
 return B.d.aT(s,"f00b3")||B.d.aT(s,"e4638")||B.d.aT(s,"98fd8")},
-acr(){var s,r=this,q=null,p=r.r,o=!0
-if(!p){s=r.Q
-if((s==null?0:s)!==0){o=r.dy
-o=o!=null&&r.as==null&&o<r.db}}o=o?q:new A.aaX(r)
+acr(){var s,r=this,q=null,p=!0
+if(r.as==null)if(!r.r){s=r.Q
+if((s==null?0:s)!==0){p=r.dy
+p=p!=null&&p<r.db}}p=p?q:new A.aaX(r)
 s=A.aw8(q,q,q,q,q,q,q,q,q,q,q,q,B.mh,q,new A.cC(A.cc(20),B.r),q,q,q,q)
-return A.aw7(p?B.xb:B.yN,o,s)},
+return A.aw7(r.r?B.xb:B.yN,p,s)},
 an2(a){var s=null,r=a/7.6
 return A.hX(A.cD(B.F,A.b([new A.lb(this.fr,new A.abx(this,a),s,s,t.j3),A.e8("assets/images/rb_roulette_border.png",B.dT,a,a),new A.ds(B.hX,s,s,A.e8("assets/images/rb_pointer2.png",B.dT,r,r),s)],t.p),B.u,B.V),a,a)},
 a9w(){var s=null,r=this.as
