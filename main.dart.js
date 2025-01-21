@@ -80393,11 +80393,11 @@ l=l}l=e.eP("assets/images/car_expensive_ferrari.jpg",a,"675 000/\u0434\u0435\u04
 k=e.f
 if(k==null)k=d
 else{k=k.a1(0,a1)
-k=k}k=e.eP("assets/images/restaurant1.jpg",a,"1 250 000/\u0434\u0435\u043d\u044c",a1,k,"",b,"12 500 000","Dubai View Restaurant")
+k=k}k=e.eP("assets/images/restaurant1.jpg",a,"1 400 000/\u0434\u0435\u043d\u044c",a1,k,"",b,"12 500 000","Dubai View Restaurant")
 j=e.f
 if(j==null)j=d
 else{j=j.a1(0,a2)
-j=j}j=e.eP("assets/images/restaurant3.jpg",a,"7 000 000/\u0434\u0435\u043d\u044c",a2,j,"",b,"50 000 000","Aquarium Restaurant")
+j=j}j=e.eP("assets/images/restaurant3.jpg",a,"7 250 000/\u0434\u0435\u043d\u044c",a2,j,"",b,"50 000 000","Aquarium Restaurant")
 i=e.f
 if(i==null)i=d
 else{i=i.a1(0,"hotel1")
@@ -80425,11 +80425,11 @@ m=m}m=e.eP("assets/images/car_expensive_porsche.jpg",a,"450 000/\u0434\u0435\u04
 l=e.f
 if(l==null)l=d
 else{l=l.a1(0,a6)
-l=l}l=e.eP("assets/images/car_expensive_lambo.jpg",a,"1 000 000/\u0434\u0435\u043d\u044c",a6,l,c,b,"7 500 000","Lamborghini Huracan")
+l=l}l=e.eP("assets/images/car_expensive_lambo.jpg",a,"1 000 000/\u0434\u0435\u043d\u044c",a6,l,c,b,"7 000 000","Lamborghini Huracan")
 k=e.f
 if(k==null)k=d
 else{k=k.a1(0,a7)
-k=k}k=e.eP("assets/images/restaurant2.jpg",a,"2 250 000/\u0434\u0435\u043d\u044c",a7,k,"",b,"20 000 000","Burj Khalifa View Restaurant")
+k=k}k=e.eP("assets/images/restaurant2.jpg",a,"2 500 000/\u0434\u0435\u043d\u044c",a7,k,"",b,"20 000 000","Burj Khalifa View Restaurant")
 j=e.f
 if(j==null)j=d
 else{j=j.a1(0,a8)
