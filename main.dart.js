@@ -80441,7 +80441,7 @@ i=i}i=e.eP("assets/images/hotel2.jpg",a,"65 000 000/\u0434\u0435\u043d\u044c","h
 h=e.f
 if(h==null)h=d
 else{h=h.a1(0,a9)
-h=h}h=e.eP("assets/images/burj_khalifa.jpg",a,"150 000 000/\u0434\u0435\u043d\u044c",a9,h,"",b,"1 000 000 000","Burj Khalifa")
+h=h}h=e.eP("assets/images/burj_khalifa.jpg",a,"175 000 000/\u0434\u0435\u043d\u044c",a9,h,"",b,"1 000 000 000","Burj Khalifa")
 g=e.f
 if(g==null)g=d
 else{g=g.a1(0,b0)
