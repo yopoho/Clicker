@@ -80412,7 +80412,7 @@ g=g}g=e.eP("assets/images/oil_derricks_small.jpeg",a,"300 000 000/\u0434\u0435\u
 f=e.f
 if(f==null)f=d
 else{f=f.a1(0,a4)
-f=f}f=A.xe(A.er(A.b([n,B.aU,m,B.aU,l,B.aU,k,B.aU,j,B.aU,i,B.aU,h,B.aU,g,B.aU,e.eP("assets/images/palm_jumeirah.jpg",a,"4 000 000 000/\u0434\u0435\u043d\u044c",a4,f,"",b,"25 000 000 000","Palm Jumeirah")],q),B.cq,B.N,B.X))
+f=f}f=A.xe(A.er(A.b([n,B.aU,m,B.aU,l,B.aU,k,B.aU,j,B.aU,i,B.aU,h,B.aU,g,B.aU,e.eP("assets/images/palm_jumeirah.jpg",a,"4 500 000 000/\u0434\u0435\u043d\u044c",a4,f,"",b,"25 000 000 000","Palm Jumeirah")],q),B.cq,B.N,B.X))
 n=e.f
 if(n==null)n=d
 else{n=n.a1(0,"car2")
