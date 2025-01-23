@@ -80444,7 +80444,7 @@ h=h}h=e.eP("assets/images/burj_khalifa.jpg",a,"175 000 000/\u0434\u0435\u043d\u0
 g=e.f
 if(g==null)g=d
 else{g=g.a1(0,b0)
-g=g}p.push(A.er(A.b([new A.b1(B.b9,o,d),B.kb,A.xe(A.axW(A.er(A.b([new A.b1(B.md,A.eY(A.b([f,B.O7,A.xe(A.er(A.b([n,B.aU,m,B.aU,l,B.aU,k,B.aU,j,B.aU,i,B.aU,h,B.aU,e.eP("assets/images/oil_derrick_sea.jpeg",a,"1 000 000 000/\u0434\u0435\u043d\u044c",b0,g,"",b,"7 500 000 000","\u041d\u0435\u0444\u0442\u044f\u043d\u0430\u044f \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430")],q),B.cq,B.N,B.X))],q),B.c1,B.N,B.X),d),B.kb],q),B.M,B.N,B.X),B.aW))],q),B.M,B.N,B.X))}return A.zI(b1,d,A.cD(B.Z,A.b([s,r,A.Ll(!0,A.cD(B.Z,p,B.u,B.V),!0)],q),B.u,B.V),!0,d)},
+g=g}p.push(A.er(A.b([new A.b1(B.b9,o,d),B.kb,A.xe(A.axW(A.er(A.b([new A.b1(B.md,A.eY(A.b([f,B.O7,A.xe(A.er(A.b([n,B.aU,m,B.aU,l,B.aU,k,B.aU,j,B.aU,i,B.aU,h,B.aU,e.eP("assets/images/oil_derrick_sea.jpeg",a,"1 000 000 000/\u0434\u0435\u043d\u044c",b0,g,"",b,"7 000 000 000","\u041d\u0435\u0444\u0442\u044f\u043d\u0430\u044f \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430")],q),B.cq,B.N,B.X))],q),B.c1,B.N,B.X),d),B.kb],q),B.M,B.N,B.X),B.aW))],q),B.M,B.N,B.X))}return A.zI(b1,d,A.cD(B.Z,A.b([s,r,A.Ll(!0,A.cD(B.Z,p,B.u,B.V),!0)],q),B.u,B.V),!0,d)},
 eP(a,b,c,d,e,f,g,h,i){var s,r,q,p,o,n=this,m=null,l=B.d.aT(d,"car"),k=l?B.i3:B.f0
 if(B.d.aT(d,"palm_jumeirah")){s=80
 k=B.i3}else s=110
