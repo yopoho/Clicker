@@ -80264,9 +80264,9 @@ A.aj1.prototype={
 $0(){this.a.Wu()},
 $S:12}
 A.aj0.prototype={
-$1(a){var s=null,r=this.a,q=r.w,p=r.as
-p=A.ei("#,##0","en_US").eM(p)
-q=A.dN("\u0412\u0430\u0448 \u0441\u0447\u0451\u0442 "+q+". \u0423\u043f\u0443\u0449\u0435\u043d\u043e: "+A.cx(p,","," ")+".",s,s,s,s,s,s,s)
+$1(a){var s=null,r=this.a,q=r.w
+q=A.ei("#,##0","en_US").eM(q)
+q=A.dN("\u0412\u0430\u0448 \u0441\u0447\u0451\u0442 "+A.cx(q,","," ")+". \u0423\u043f\u0443\u0449\u0435\u043d\u043e: "+r.as+".",s,s,s,s,s,s,s)
 return A.G2(A.b([A.mV(B.yM,new A.aj_(r,a),s)],t.p),q,B.TK)},
 $S:51}
 A.aj_.prototype={
