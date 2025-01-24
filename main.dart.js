@@ -80346,7 +80346,7 @@ s=A.pW().gnp().h(0,"token")
 s.toString
 r.d=s
 r.y0()},
-L(b4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c=null,b="\u0434\u043b\u044f \u0441\u0434\u0430\u0447\u0438 \u0432 \u0430\u0440\u0435\u043d\u0434\u0443.",a="\u0426\u0435\u043d\u0430:",a0="\u0414\u043e\u0445\u043e\u0434:",a1="car_expensive_ferrari",a2="restaurant1",a3="restaurant3",a4="dubai_yacht",a5="oil_derricks_small",a6="car_expensive_porsche",a7="car_expensive_lambo",a8="restaurant2",a9="ain_dubai",b0="burj_khalifa",b1="oil_derrick_sea",b2="palm_jumeirah",b3=A.bi("\u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438",27,B.k,B.i,3,B.j)
+L(b4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c=null,b="\u0434\u043b\u044f \u0441\u0434\u0430\u0447\u0438 \u0432 \u0430\u0440\u0435\u043d\u0434\u0443.",a="\u0426\u0435\u043d\u0430:",a0="\u0414\u043e\u0445\u043e\u0434:",a1="car_expensive_ferrari",a2="restaurant1",a3="restaurant3",a4="dubai_yacht",a5="burj_khalifa",a6="oil_derrick_sea",a7="car_expensive_porsche",a8="car_expensive_lambo",a9="restaurant2",b0="ain_dubai",b1="oil_derricks_small",b2="palm_jumeirah",b3=A.bi("\u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438",27,B.k,B.i,3,B.j)
 b3=A.Ga(c,B.q,!0,0,A.m2(c,B.eg,c,new A.ak_(d),c,c),b3)
 s=A.LV(A.e8("assets/images/background_20_01.jpg",B.aX,c,c))
 r=$.a_().hB(0.33,0.33,B.av)
@@ -80394,44 +80394,44 @@ else{h=h.a1(0,"hotel2")
 h=h}h=d.eA("assets/images/hotel2.jpg",a0,"65 000 000/\u0434\u0435\u043d\u044c","hotel2",h,"",a,"500 000 000","Atlantis The Palm")
 g=d.f
 if(g==null)g=c
-else{g=g.a1(0,"hotel3")
-g=g}g=d.eA("assets/images/hotel3.jpg",a0,"100 000 000/\u0434\u0435\u043d\u044c","hotel3",g,"",a,"700 000 000","Atlantis The Royal")
+else{g=g.a1(0,a5)
+g=g}g=d.eA("assets/images/burj_khalifa.jpg",a0,"175 000 000/\u0434\u0435\u043d\u044c",a5,g,"",a,"1 000 000 000","Burj Khalifa")
 f=d.f
 if(f==null)f=c
-else{f=f.a1(0,a5)
-f=f}f=A.xe(A.er(A.b([n,B.aK,m,B.aK,l,B.aK,k,B.aK,j,B.aK,i,B.aK,h,B.aK,g,B.aK,d.eA("assets/images/oil_derricks_small.jpeg",a0,"300 000 000/\u0434\u0435\u043d\u044c",a5,f,"",a,"2 500 000 000","\u041d\u0435\u0444\u0442\u0435\u0432\u044b\u0448\u043a\u0438")],q),B.cq,B.N,B.X))
+else{f=f.a1(0,a6)
+f=f}f=A.xe(A.er(A.b([n,B.aK,m,B.aK,l,B.aK,k,B.aK,j,B.aK,i,B.aK,h,B.aK,g,B.aK,d.eA("assets/images/oil_derrick_sea.jpeg",a0,"1 000 000 000/\u0434\u0435\u043d\u044c",a6,f,"",a,"7 000 000 000","\u041d\u0435\u0444\u0442\u044f\u043d\u0430\u044f \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430")],q),B.cq,B.N,B.X))
 n=d.f
 if(n==null)n=c
 else{n=n.a1(0,"car2")
 n=n}n=d.eA("assets/images/car2.jpg",a0,"90 000/\u0434\u0435\u043d\u044c","car2",n,b,a,"1 000 000","BMW 3 Series")
 m=d.f
 if(m==null)m=c
-else{m=m.a1(0,a6)
-m=m}m=d.eA("assets/images/car_expensive_porsche.jpg",a0,"450 000/\u0434\u0435\u043d\u044c",a6,m,b,a,"4 000 000","Porsche Cayman S")
+else{m=m.a1(0,a7)
+m=m}m=d.eA("assets/images/car_expensive_porsche.jpg",a0,"450 000/\u0434\u0435\u043d\u044c",a7,m,b,a,"4 000 000","Porsche Cayman S")
 l=d.f
 if(l==null)l=c
-else{l=l.a1(0,a7)
-l=l}l=d.eA("assets/images/car_expensive_lambo.jpg",a0,"1 000 000/\u0434\u0435\u043d\u044c",a7,l,b,a,"7 000 000","Lamborghini Huracan")
+else{l=l.a1(0,a8)
+l=l}l=d.eA("assets/images/car_expensive_lambo.jpg",a0,"1 000 000/\u0434\u0435\u043d\u044c",a8,l,b,a,"7 000 000","Lamborghini Huracan")
 k=d.f
 if(k==null)k=c
-else{k=k.a1(0,a8)
-k=k}k=d.eA("assets/images/restaurant2.jpg",a0,"2 500 000/\u0434\u0435\u043d\u044c",a8,k,"",a,"20 000 000","Burj Khalifa View Restaurant")
+else{k=k.a1(0,a9)
+k=k}k=d.eA("assets/images/restaurant2.jpg",a0,"2 500 000/\u0434\u0435\u043d\u044c",a9,k,"",a,"20 000 000","Burj Khalifa View Restaurant")
 j=d.f
 if(j==null)j=c
-else{j=j.a1(0,a9)
-j=j}j=d.eA("assets/images/ain_dubai.jpg",a0,"10 000 000/\u0434\u0435\u043d\u044c",a9,j,"",a,"100 000 000","Ain Dubai")
+else{j=j.a1(0,b0)
+j=j}j=d.eA("assets/images/ain_dubai.jpg",a0,"10 000 000/\u0434\u0435\u043d\u044c",b0,j,"",a,"100 000 000","Ain Dubai")
 i=d.f
 if(i==null)i=c
 else{i=i.a1(0,"hotel1")
 i=i}i=d.eA("assets/images/hotel1.jpg",a0,"25 000 000/\u0434\u0435\u043d\u044c","hotel1",i,"",a,"200 000 000","Burj Al Arab")
 h=d.f
 if(h==null)h=c
-else{h=h.a1(0,b0)
-h=h}h=d.eA("assets/images/burj_khalifa.jpg",a0,"175 000 000/\u0434\u0435\u043d\u044c",b0,h,"",a,"1 000 000 000","Burj Khalifa")
+else{h=h.a1(0,"hotel3")
+h=h}h=d.eA("assets/images/hotel3.jpg",a0,"100 000 000/\u0434\u0435\u043d\u044c","hotel3",h,"",a,"700 000 000","Atlantis The Royal")
 g=d.f
 if(g==null)g=c
 else{g=g.a1(0,b1)
-g=g}g=d.eA("assets/images/oil_derrick_sea.jpeg",a0,"1 000 000 000/\u0434\u0435\u043d\u044c",b1,g,"",a,"7 000 000 000","\u041d\u0435\u0444\u0442\u044f\u043d\u0430\u044f \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430")
+g=g}g=d.eA("assets/images/oil_derricks_small.jpeg",a0,"300 000 000/\u0434\u0435\u043d\u044c",b1,g,"",a,"2 500 000 000","\u041d\u0435\u0444\u0442\u0435\u0432\u044b\u0448\u043a\u0438")
 e=d.f
 if(e==null)e=c
 else{e=e.a1(0,b2)
