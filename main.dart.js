@@ -80892,7 +80892,7 @@ p.toString
 A.bQ(B.zs,p)
 p=q.c
 p.toString
-A.bQ(B.zG,p)
+A.bQ(B.zH,p)
 p=q.c
 p.toString
 A.bQ(B.zU,p)
@@ -80943,7 +80943,7 @@ p.toString
 A.bQ(B.zI,p)
 p=q.c
 p.toString
-A.bQ(B.zH,p)
+A.bQ(B.zG,p)
 p=q.c
 p.toString
 A.bQ(B.zu,p)
@@ -85513,9 +85513,9 @@ B.zB=new A.bJ("assets/images/wheel_icon2.png",null,null)
 B.zC=new A.bJ("assets/images/car_expensive_ferrari.jpg",null,null)
 B.zD=new A.bJ("assets/images/oil_derricks_small.jpg",null,null)
 B.zE=new A.bJ("assets/images/roulette100.png",null,null)
-B.zG=new A.bJ("assets/images/roulette10M.png",null,null)
 B.zF=new A.bJ("assets/images/roulette500.png",null,null)
-B.zH=new A.bJ("assets/images/ain_dubai.jpg",null,null)
+B.zG=new A.bJ("assets/images/ain_dubai.jpg",null,null)
+B.zH=new A.bJ("assets/images/roulette10M_.png",null,null)
 B.zI=new A.bJ("assets/images/oil_derrick_sea.jpg",null,null)
 B.zJ=new A.bJ("assets/images/background_20_01.jpg",null,null)
 B.zK=new A.bJ("assets/images/icon_roulette_rb.png",null,null)
