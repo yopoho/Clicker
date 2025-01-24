@@ -81880,7 +81880,7 @@ o=A.aw6(m,m,m,m,m,m,m,m,m,m,m,m,B.mf,m,new A.cC(A.cc(20),B.r),m,m,m,m)
 q.push(A.eP(A.er(A.b([B.Oa,s,B.Od,A.aw5(n.w?B.xa:B.yN,p,o),B.ye,n.a0I(),B.yc,n.acS()],r),B.M,B.N,B.X),m,m))
 return A.h1(m,A.zI(l,m,A.cD(B.Z,q,B.u,B.V),!0,m),B.a5,!1,m,m,m,m,n.ga6J(),m,m,m,m,m,m,m,m,m,m,m,m,m,m,m)},
 VB(a){A.b7("Level = "+a)
-if(a>=32)return"assets/images/roulette10M.png"
+if(a>=32)return"assets/images/roulette10M_.png"
 if(a>=27)return"assets/images/roulette1M.png"
 if(a===26)return"assets/images/roulette500.png"
 if(a===25)return"assets/images/roulette250.png"
