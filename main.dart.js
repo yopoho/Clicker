@@ -80871,7 +80871,7 @@ p.toString
 A.bQ(B.kU,p)
 p=q.c
 p.toString
-A.bQ(B.zB,p)
+A.bQ(B.zD,p)
 p=q.c
 p.toString
 A.bQ(B.zK,p)
@@ -80880,19 +80880,19 @@ p.toString
 A.bQ(B.zM,p)
 p=q.c
 p.toString
-A.bQ(B.zE,p)
+A.bQ(B.zF,p)
 p=q.c
 p.toString
 A.bQ(B.zt,p)
 p=q.c
 p.toString
-A.bQ(B.zF,p)
+A.bQ(B.zG,p)
 p=q.c
 p.toString
 A.bQ(B.zs,p)
 p=q.c
 p.toString
-A.bQ(B.zH,p)
+A.bQ(B.zI,p)
 p=q.c
 p.toString
 A.bQ(B.zU,p)
@@ -80907,22 +80907,22 @@ p.toString
 A.bQ(B.zT,p)
 p=q.c
 p.toString
-A.bQ(B.zA,p)
-p=q.c
-p.toString
 A.bQ(B.zC,p)
 p=q.c
 p.toString
-A.bQ(B.zz,p)
+A.bQ(B.zE,p)
 p=q.c
 p.toString
-A.bQ(B.zw,p)
+A.bQ(B.zA,p)
 p=q.c
 p.toString
 A.bQ(B.zx,p)
 p=q.c
 p.toString
 A.bQ(B.zy,p)
+p=q.c
+p.toString
+A.bQ(B.zz,p)
 p=q.c
 p.toString
 A.bQ(B.zN,p)
@@ -80937,19 +80937,19 @@ p.toString
 A.bQ(B.zQ,p)
 p=q.c
 p.toString
-A.bQ(B.zD,p)
+A.bQ(B.zB,p)
 p=q.c
 p.toString
-A.bQ(B.zI,p)
+A.bQ(B.zv,p)
 p=q.c
 p.toString
-A.bQ(B.zG,p)
+A.bQ(B.zH,p)
 p=q.c
 p.toString
 A.bQ(B.zu,p)
 p=q.c
 p.toString
-A.bQ(B.zv,p)
+A.bQ(B.zw,p)
 return A.z(null,r)}})
 return A.A($async$H1,r)},
 l(){var s=this.as
@@ -85499,24 +85499,24 @@ B.i0=new A.vW(1,"assertive")
 B.zs=new A.bJ("assets/images/roulette1M.png",null,null)
 B.zt=new A.bJ("assets/images/roulette250.png",null,null)
 B.zu=new A.bJ("assets/images/palm_jumeirah.jpg",null,null)
+B.zv=new A.bJ("assets/images/oil_derrick_sea.jpeg",null,null)
 B.kU=new A.bJ("assets/images/rb_pointer2.png",null,null)
 B.kV=new A.bJ("assets/images/rb_roulette.png",null,null)
-B.zv=new A.bJ("assets/images/dubai_yacht.jpg",null,null)
-B.zw=new A.bJ("assets/images/restaurant1.jpg",null,null)
-B.zx=new A.bJ("assets/images/restaurant2.jpg",null,null)
-B.zy=new A.bJ("assets/images/restaurant3.jpg",null,null)
+B.zw=new A.bJ("assets/images/dubai_yacht.jpg",null,null)
+B.zx=new A.bJ("assets/images/restaurant1.jpg",null,null)
+B.zy=new A.bJ("assets/images/restaurant2.jpg",null,null)
+B.zz=new A.bJ("assets/images/restaurant3.jpg",null,null)
 B.kW=new A.bJ("assets/images/the_island.jpg",null,null)
-B.zz=new A.bJ("assets/images/car_expensive_porsche.jpg",null,null)
+B.zA=new A.bJ("assets/images/car_expensive_porsche.jpg",null,null)
+B.zB=new A.bJ("assets/images/oil_derricks_small.jpeg",null,null)
 B.cW=new A.bJ("assets/images/game_background_winter.jpg",null,null)
-B.zA=new A.bJ("assets/images/car_expensive_lambo.jpg",null,null)
-B.zB=new A.bJ("assets/images/wheel_icon2.png",null,null)
-B.zC=new A.bJ("assets/images/car_expensive_ferrari.jpg",null,null)
-B.zD=new A.bJ("assets/images/oil_derricks_small.jpg",null,null)
-B.zE=new A.bJ("assets/images/roulette100.png",null,null)
-B.zF=new A.bJ("assets/images/roulette500.png",null,null)
-B.zG=new A.bJ("assets/images/ain_dubai.jpg",null,null)
-B.zH=new A.bJ("assets/images/roulette10M_.png",null,null)
-B.zI=new A.bJ("assets/images/oil_derrick_sea.jpg",null,null)
+B.zC=new A.bJ("assets/images/car_expensive_lambo.jpg",null,null)
+B.zD=new A.bJ("assets/images/wheel_icon2.png",null,null)
+B.zE=new A.bJ("assets/images/car_expensive_ferrari.jpg",null,null)
+B.zF=new A.bJ("assets/images/roulette100.png",null,null)
+B.zG=new A.bJ("assets/images/roulette500.png",null,null)
+B.zH=new A.bJ("assets/images/ain_dubai.jpg",null,null)
+B.zI=new A.bJ("assets/images/roulette10M_.png",null,null)
 B.zJ=new A.bJ("assets/images/background_20_01.jpg",null,null)
 B.zK=new A.bJ("assets/images/icon_roulette_rb.png",null,null)
 B.zL=new A.bJ("assets/images/gold.png",null,null)
