@@ -80387,7 +80387,7 @@ j=j}j=d.eA("assets/images/restaurant3.jpg",a0,"7 250 000/\u0434\u0435\u043d\u044
 i=d.f
 if(i==null)i=c
 else{i=i.a1(0,a4)
-i=i}i=d.eA("assets/images/dubai_yacht.jpg",a0,"17 500 000/\u0434\u0435\u043d\u044c",a4,i,"\u0414\u043b\u044f \u0441\u0434\u0430\u0447\u0438 \u0432 \u0430\u0440\u0435\u043d\u0434\u0443",a,"140 000 000","\u042f\u0445\u0442\u0430 Dubai")
+i=i}i=d.eA("assets/images/dubai_yacht.jpg",a0,"18 000 000/\u0434\u0435\u043d\u044c",a4,i,"\u0414\u043b\u044f \u0441\u0434\u0430\u0447\u0438 \u0432 \u0430\u0440\u0435\u043d\u0434\u0443",a,"140 000 000","\u042f\u0445\u0442\u0430 Dubai")
 h=d.f
 if(h==null)h=c
 else{h=h.a1(0,"hotel2")
