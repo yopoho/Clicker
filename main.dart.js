@@ -80413,7 +80413,7 @@ f=f}f=b.dM("assets/images/oil_derrick_sea.jpeg",a2,"1 000 000 000/\u0434\u0435\u
 e=b.f
 if(e==null)e=a
 else{e=e.a0(0,b0)
-e=e}e=b.dM(b1,b4,"+3%",b0,e,"",a1,b3,b2)
+e=e}e=b.dM(b1,b4,"+2%",b0,e,"",a1,b3,b2)
 d=b.f
 if(d==null)d=a
 else{d=d.a0(0,b5)
