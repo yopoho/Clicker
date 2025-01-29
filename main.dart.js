@@ -81065,7 +81065,7 @@ A.WU(!0,new A.ali(this),s,t.z)},
 a3A(a){var s,r=this,q=null,p=r.ch===0?new A.akZ(r,a):new A.al_(r),o=A.ce(12),n=A.ce(12),m=$.a_().hB(5,5,B.aw)
 m=A.ie(A.c1(q,q,B.p,A.R(89,255,255,255),q,q,62,q,q,62),m)
 s=A.ce(12)
-s=A.b([m,A.c1(q,A.eQ(A.bM(q,q,new A.b1(B.cr,A.e8("assets/images/candy.png",B.f0,50,50),q),!1,q,q,!1,q,q,q,q,"Open Game",q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),q,q),B.p,q,q,new A.c6(q,q,q,s,q,q,B.U),62,q,q,62)],t.p)
+s=A.b([m,A.c1(q,A.eQ(A.bM(q,q,new A.b1(B.cr,A.e8("assets/images/snowflake.png",B.f0,50,50),q),!1,q,q,!1,q,q,q,q,"Open Game",q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),q,q),B.p,q,q,new A.c6(q,q,q,s,q,q,B.U),62,q,q,62)],t.p)
 if(r.ch===0){m=A.ce(8)
 s.push(A.mz(q,A.c1(q,new A.b1(B.iP,A.bi("1",12,B.k,B.i,2,B.j),q),B.p,q,q,new A.c6(B.fV,q,q,m,q,q,B.U),q,q,B.iR,q),q,q,q,0,0,q))}return A.ew(!1,o,!0,A.nS(n,A.cF(B.Z,s,B.u,B.V)),q,!0,q,q,q,q,q,q,q,q,q,p,q,q,q,q)},
 vw(a){return this.a0E(a)},
