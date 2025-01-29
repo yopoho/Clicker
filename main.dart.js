@@ -80873,7 +80873,7 @@ p.toString
 A.c4(B.cW,p)
 p=q.c
 p.toString
-A.c4(B.zy,p)
+A.c4(B.zC,p)
 p=q.c
 p.toString
 A.c4(B.zV,p)
@@ -80894,7 +80894,7 @@ p.toString
 A.c4(B.zs,p)
 p=q.c
 p.toString
-A.c4(B.zC,p)
+A.c4(B.zB,p)
 p=q.c
 p.toString
 A.c4(B.zJ,p)
@@ -80930,13 +80930,13 @@ p.toString
 A.c4(B.zS,p)
 p=q.c
 p.toString
-A.c4(B.zB,p)
+A.c4(B.zA,p)
 p=q.c
 p.toString
 A.c4(B.zD,p)
 p=q.c
 p.toString
-A.c4(B.zz,p)
+A.c4(B.zy,p)
 p=q.c
 p.toString
 A.c4(B.zv,p)
@@ -80960,7 +80960,7 @@ p.toString
 A.c4(B.zP,p)
 p=q.c
 p.toString
-A.c4(B.zA,p)
+A.c4(B.zz,p)
 p=q.c
 p.toString
 A.c4(B.zr,p)
@@ -81520,7 +81520,7 @@ L(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=t.w
 h=Math.min(A.bv(a,i,h).w.a.a,A.bv(a,i,h).w.a.b)
 s=A.bi("The Island Roulette",27,B.k,B.i,3,B.j)
 s=A.Ga(i,B.q,!0,0,A.m2(i,B.eg,i,new A.abg(j),i,i),s)
-r=A.LV(A.e8("assets/images/the_island.jpg",B.aX,i,i))
+r=A.LV(A.e8("assets/images/the_island2.jpg",B.aX,i,i))
 q=$.a_().hB(0.1,0.1,B.aw)
 q=A.yW(0,A.ie(A.c1(i,i,B.p,A.R(0,0,0,0),i,i,i,i,i,i),q))
 p=j.dy
@@ -85540,12 +85540,12 @@ B.zu=new A.bJ("assets/images/dubai_yacht.jpg",null,null)
 B.zv=new A.bJ("assets/images/restaurant1.jpg",null,null)
 B.zw=new A.bJ("assets/images/restaurant2.jpg",null,null)
 B.zx=new A.bJ("assets/images/restaurant3.jpg",null,null)
-B.zy=new A.bJ("assets/images/the_island.jpg",null,null)
-B.zz=new A.bJ("assets/images/car_expensive_porsche.jpg",null,null)
-B.zA=new A.bJ("assets/images/oil_derricks_small.jpeg",null,null)
+B.zy=new A.bJ("assets/images/car_expensive_porsche.jpg",null,null)
+B.zz=new A.bJ("assets/images/oil_derricks_small.jpeg",null,null)
 B.cW=new A.bJ("assets/images/game_background_winter.jpg",null,null)
-B.zB=new A.bJ("assets/images/car_expensive_lambo.jpg",null,null)
-B.zC=new A.bJ("assets/images/wheel_icon2.png",null,null)
+B.zA=new A.bJ("assets/images/car_expensive_lambo.jpg",null,null)
+B.zB=new A.bJ("assets/images/wheel_icon2.png",null,null)
+B.zC=new A.bJ("assets/images/the_island2.jpg",null,null)
 B.zD=new A.bJ("assets/images/car_expensive_ferrari.jpg",null,null)
 B.zE=new A.bJ("assets/images/roulette100.png",null,null)
 B.zF=new A.bJ("assets/images/roulette500.png",null,null)
