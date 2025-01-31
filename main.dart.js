@@ -81358,7 +81358,7 @@ r=A.ny("nrOfZeros")
 if(r==null)r=0
 return new A.zD(q,s,r,B.t,new A.cc(0,$.aB()),null,null)}}
 A.zD.prototype={
-mD(a){if(a==null)throw A.d(A.ch(null))
+mD(a){if(a==null)throw A.d(A.ch("lvl"))
 if(a<27)return A.b([1e4,25e3,5e4,75e3,1e5,125e3,15e4,175e3,2e5,225e3,25e4,275e3,3e5,325e3,35e4,375e3,4e5,425e3,45e4,475e3,5e5,6e5,7e5,8e5,9e5,1e6,125e4,15e5,175e4,2e6,225e4,25e5,275e4,3e6,325e4,35e5,375e4,4e6,425e4,45e5,475e4,5e6,55e5,6e6,65e5,7e6,75e5,8e6,85e5,9e6,95e5,1e7],t.t)
 else if(a===27||a===28)return A.b([1e4,25e3,5e4,75e3,1e5,125e3,15e4,175e3,2e5,225e3,25e4,275e3,3e5,325e3,35e4,375e3,4e5,425e3,45e4,475e3,5e5,6e5,7e5,8e5,9e5,1e6,125e4,15e5,175e4,2e6,225e4,25e5,275e4,3e6,325e4,35e5,375e4,4e6,425e4,45e5,475e4,5e6,55e5,6e6,65e5,7e6,75e5,8e6,85e5,9e6,95e5,1e7,125e5,15e6,175e5,2e7,25e6],t.t)
 else{if(a===29)return A.b([1e4,25e3,5e4,75e3,1e5,125e3,15e4,175e3,2e5,225e3,25e4,275e3,3e5,325e3,35e4,375e3,4e5,425e3,45e4,475e3,5e5,6e5,7e5,8e5,9e5,1e6,125e4,15e5,175e4,2e6,225e4,25e5,275e4,3e6,325e4,35e5,375e4,4e6,425e4,45e5,475e4,5e6,55e5,6e6,65e5,7e6,75e5,8e6,85e5,9e6,95e5,1e7,125e5,15e6,175e5,2e7,25e6,3e7,35e6,4e7,45e6,5e7],t.t)
@@ -81380,10 +81380,6 @@ window.localStorage.setItem("nrOfZeros","0")
 window.localStorage.setItem("lastZeroPoint","0")
 o.w=o.x=o.y=0
 s=B.e.k(2)
-window.localStorage.setItem(m,s)}s=A.ny(m)
-if((s==null?0:s)===2){s=B.e.k(o.mD(o.CW).length-1)
-window.localStorage.setItem(l,s)
-s=B.e.k(3)
 window.localStorage.setItem(m,s)}o.fx=o.gmt()
 o.fy=o.w
 o.go=o.x
@@ -81396,7 +81392,11 @@ if(r.h(0,"level")!=null){s=r.h(0,"level")
 s.toString
 s=A.yY(s,n)}else s=n
 o.CW=s
-s=A.ny(l)
+s=A.ny(m)
+if((s==null?0:s)===2){s=B.e.k(o.mD(o.CW).length-1)
+window.localStorage.setItem(l,s)
+s=B.e.k(3)
+window.localStorage.setItem(m,s)}s=A.ny(l)
 if(s==null)s=1
 if(s>=o.mD(o.CW).length){s=B.e.k(o.mD(o.CW).length-1)
 window.localStorage.setItem(l,s)}s=o.mD(o.CW)
