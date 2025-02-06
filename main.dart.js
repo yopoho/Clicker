@@ -80453,7 +80453,7 @@ h=h}h=a.dj("assets/images/hotel3.jpg",a3,"100 000 000/\u0434\u0435\u043d\u044c",
 g=a.f
 if(g==null)g=a0
 else{g=g.a0(0,c1)
-g=g}g=a.dj("assets/images/oil_derricks_small.jpeg",a3,"300 000 000/\u0434\u0435\u043d\u044c",c1,g,"",a2,"2 500 000 000","\u041d\u0435\u0444\u0442\u0435\u0432\u044b\u0448\u043a\u0438")
+g=g}g=a.dj("assets/images/oil_derricks_small.jpeg",a3,"325 000 000/\u0434\u0435\u043d\u044c",c1,g,"",a2,"2 500 000 000","\u041d\u0435\u0444\u0442\u0435\u0432\u044b\u0448\u043a\u0438")
 f=a.f
 if(f==null)f=a0
 else{f=f.a0(0,c2)
