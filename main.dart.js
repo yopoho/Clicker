@@ -80785,7 +80785,7 @@ j=A.es(A.bh(B.d.kX(j+" "+A.j(s==null?"":s)),13,B.k,B.i,1.75,B.j),q,q)
 m=A.es(A.bh(m.ahI(k.h(o,"score")),15,B.k,B.i,1.75,B.j),q,q)
 s=k.h(o,"income")
 r=t.p
-return new A.fD(new A.c7(n,q,q,q,q,q,B.U),A.b([new A.b1(B.fm,l,q),new A.b1(B.fm,j,q),new A.b1(B.fm,A.eh(A.b([m,B.hv,A.es(A.bh("+"+A.aOW(s==null?0:s)+"/\u0434\u0435\u043d\u044c",8,B.k,B.i,1.5,B.j),q,q)],r),B.K,B.cH,B.V),q),new A.b1(B.fm,A.es(A.bh(J.ds(k.h(o,"level")),16,B.k,B.i,1.75,B.j),q,q),q)],r))},
+return new A.fD(new A.c7(n,q,q,q,q,q,B.U),A.b([new A.b1(B.fm,l,q),new A.b1(B.fm,j,q),new A.b1(B.fm,A.eh(A.b([m,B.hv,A.es(A.bh("+"+A.aOW(s==null?0:s)+"/\u0434\u0435\u043d\u044c",8,B.k,B.i,1.3,B.j),q,q)],r),B.K,B.cH,B.V),q),new A.b1(B.fm,A.es(A.bh(J.ds(k.h(o,"level")),16,B.k,B.i,1.75,B.j),q,q),q)],r))},
 $S:505}
 A.Jh.prototype={
 aeK(a){if(a>=1)return B.c.er(Math.log(a)/0.6931471805599453)+1
