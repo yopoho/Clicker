@@ -72463,7 +72463,6 @@ if(r!=null)for(s=r.length,q=0;q<r.length;r.length===s||(0,A.N)(r),++q){p=r[q]
 p.YM()
 o=p.r
 if(o!=null&&o.length!==0){o=$.i9
-if(o==null)o=-1
 p.d=o
 p.e=A.WI(o)
 p.z=p.d
@@ -81230,7 +81229,6 @@ if(n==null)n=-1
 o.e=n
 r=s
 r=r==null?p:r.d
-if(r==null)r=-1
 $.i9=o.d=r
 q=s
 q=q==null?p:q.f.b
@@ -81379,16 +81377,18 @@ s=r.e
 if(s!=null)q.f=s},
 $S:0}
 A.al3.prototype={
-$0(){var s=0,r=A.B(t.H),q=this,p,o,n
+$0(){var s=0,r=A.B(t.H),q=this,p,o,n,m,l
 var $async$$0=A.C(function(a,b){if(a===1)return A.y(b,r)
-while(true)switch(s){case 0:o=q.a
-o.El("level",B.e.k(o.e))
-$.i9=o.d
+while(true)switch(s){case 0:p=q.a
+p.El("level",B.e.k(p.e))
+$.i9=p.d
+o=p
 n=A
+m=p
+l=A
 s=2
 return A.G(A.JV(q.b,"investments",t.X),$async$$0)
-case 2:p=n.dq(b)
-o.a_(new A.al2(o,p==null?-1:p))
+case 2:o.a_(new n.al2(m,l.dq(b)))
 return A.z(null,r)}})
 return A.A($async$$0,r)},
 $S:10}
