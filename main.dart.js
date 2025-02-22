@@ -81624,7 +81624,7 @@ A.b_("ok2")
 j=B.c.b_(k,360)*0.017453292519943295
 i=A.au3()
 A.b_("getAnimationDuration "+A.j(i))
-h=B.c.a3((i<=0?6:i)/1.5)
+h=Math.max(B.c.a3((i<=0?6:i)/1.5),1)
 A.b_("fullRotations "+A.j(h))
 g=h*2*3.141592653589793+j
 e=n.f
