@@ -80878,15 +80878,14 @@ o=h.h(i,"name")
 o=A.j(o==null?"":o)
 n=h.h(i,"last_name")
 o=A.e9(A.bi(B.d.kX(o+" "+A.j(n==null?"":n)),13,B.k,B.j,1.75,B.i),k,k)
-n=t.p
-q=A.b([A.e9(A.bi(q.ahP(h.h(i,"score")),15,B.k,B.j,1.75,B.i),k,k)],n)
-m=J.hx(g)
-if(!m.j(g,0))q.push(B.eM)
-if(!m.j(g,0)){l=m.nL(g,0)?"+"+s:s
-q.push(A.e9(A.dp(l,k,k,k,A.f6(k,k,m.nD(g,0)?B.C6:B.cJ,k,k,k,k,k,k,k,k,10.5,k,k,B.a_,k,k,!0,k,k,k,k,k,k,k,k),k,k,k),k,k))}q.push(B.eM)
-m=h.h(i,"income")
-q.push(A.e9(A.dp("+"+A.aAX(m==null?0:m)+"/\u0434\u0435\u043d\u044c",k,k,k,B.Sk,k,k,k),k,k))
-return new A.fF(new A.bZ(r,k,k,k,k,k,B.N),A.b([new A.b2(B.fn,p,k),new A.b2(B.fn,o,k),new A.b2(B.fn,A.ea(q,B.H,B.cb,B.P),k),new A.b2(B.fn,A.e9(A.bi(J.du(h.h(i,"level")),16,B.k,B.j,1.75,B.i),k,k),k)],n))},
+q=A.e9(A.bi(q.ahP(h.h(i,"score")),15,B.k,B.j,1.75,B.i),k,k)
+n=h.h(i,"income")
+m=t.p
+n=A.b([q,B.eM,A.e9(A.dp("+"+A.aAX(n==null?0:n)+"/\u0434\u0435\u043d\u044c",k,k,k,B.Sk,k,k,k),k,k)],m)
+q=J.hx(g)
+if(!q.j(g,0))n.push(B.eM)
+if(!q.j(g,0)){l=q.nL(g,0)?"+"+s:s
+n.push(A.e9(A.dp(l,k,k,k,A.f6(k,k,q.nD(g,0)?B.C6:B.cJ,k,k,k,k,k,k,k,k,10.5,k,k,B.a_,k,k,!0,k,k,k,k,k,k,k,k),k,k,k),k,k))}return new A.fF(new A.bZ(r,k,k,k,k,k,B.N),A.b([new A.b2(B.fn,p,k),new A.b2(B.fn,o,k),new A.b2(B.fn,A.ea(n,B.H,B.cb,B.P),k),new A.b2(B.fn,A.e9(A.bi(J.du(h.h(i,"level")),16,B.k,B.j,1.75,B.i),k,k),k)],m))},
 $S:504}
 A.Jm.prototype={
 aeR(a){if(a>=1)return B.c.eM(Math.log(a)/0.6931471805599453)+1
