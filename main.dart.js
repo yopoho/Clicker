@@ -81739,8 +81739,8 @@ if(r.w6())s.push(A.em(A.b([A.bi(B.c.ab(100*(r.y/r.gmv()),2)+"% ",16,B.k,B.j,3,B.
 return A.f7(A.ey(!1,q,!0,A.e9(s,B.cq,B.J,B.P),q,!0,q,q,q,q,q,q,q,q,new A.aaU(r),q,q,q,q,q),!0,!0,!0,!0,n)}},
 gmv(){return this.y+this.w+this.x},
 bh(){this.d9()},
-Ca(){var s=A.ia("animationDuration")
-return s==null||s===0?6:J.arn(s)}}
+Ca(){var s=A.ia("animationDuration"),r=s==null||s===0?6:J.arn(s)
+return Math.max(r,1)}}
 A.aby.prototype={
 $0(){var s=this.a,r=s.d
 r===$&&A.a()
@@ -81921,13 +81921,11 @@ A.abB.prototype={
 $0(){this.a.b=this.b===!0},
 $S:0}
 A.abF.prototype={
-$0(){var s,r,q=this.b.d
+$0(){var s=this.a,r=s.a=Math.max(s.a,1),q=this.b.d
 q===$&&A.a()
-s=this.a
-r=s.a
 q.e=A.cR(0,0,r)
-r=B.e.k(r)
-window.localStorage.setItem("animationDuration",r)
+q=B.e.k(r)
+window.localStorage.setItem("animationDuration",q)
 s=String(s.b)
 window.localStorage.setItem("hasAudio",s)
 A.dV(this.c,!1).dh()},
