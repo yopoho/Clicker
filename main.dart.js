@@ -24396,7 +24396,7 @@ this.b=b},
 aln:function aln(a){this.a=a},
 Fe:function Fe(){},
 VI:function VI(){},
-au4(){var s=A.ib("animationDuration"),r=s==null||s===0?6:J.arn(s)
+au4(){var s=A.ib("animationDuration"),r=s==null||s===0?5:J.arn(s)
 return Math.max(r,1)},
 ib(a){var s=window.localStorage.getItem(a)
 return A.po(s==null?"0":s,null)},
@@ -81639,7 +81639,7 @@ A.aV("ok2")
 j=B.c.b_(k,360)*0.017453292519943295
 i=A.au4()
 A.aV("getAnimationDuration "+A.j(i))
-h=Math.max(B.c.a3((i<=0?6:i)/1.5),1)
+h=Math.max(B.c.a3((i<=0?5:i)/1.5),1)
 A.aV("fullRotations "+A.j(h))
 g=h*2*3.141592653589793+j
 e=n.f
