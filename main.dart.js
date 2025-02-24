@@ -80873,9 +80873,9 @@ return s+"B"}else{q=A.dY("#,##0","en_US").eh(p)
 return A.bR(q,","," ")}},
 ac6(){var s=this,r=(s.w+1)%3
 s.w=r
-switch(r){case 1:s.x="\u0414\u043e\u0445\u043e\u0434"
+switch(r){case 1:s.x="\u0414\u043e\u0445\u043e\u0434 \u25be"
 break
-case 2:s.x="\u0412\u044b\u0438\u0433\u0440\u044b\u0448"
+case 2:s.x="\u0412\u044b\u0438\u0433\u0440\u044b\u0448 \u25be"
 break
 default:s.x="\u0421\u0447\u0451\u0442 \u25be"}}}
 A.a4K.prototype={
