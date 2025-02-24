@@ -80817,7 +80817,7 @@ A.Jh.prototype={
 aA(){var s=this
 s.aK()
 s.mu()
-s.r=A.n1(B.Er,new A.a4K(s))},
+s.r=A.n1(B.Eq,new A.a4K(s))},
 mu(){var s=0,r=A.B(t.H),q,p=2,o,n=this,m,l,k,j
 var $async$mu=A.C(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:p=4
@@ -81933,7 +81933,7 @@ window.localStorage.setItem("default_bet_index",p)
 p=this.a
 q=p.mG(p.CW)[q]
 q=A.dY("#,##0","en_US").eh(q)
-s=A.Ak(r,r,r,r,r,B.u,r,A.dh("\u0421\u0442\u0430\u0432\u043a\u0430 "+A.bR(q,","," ")+" \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0430",r,r,r,r,r,r,r),r,B.Eq,r,r,r,r,r,r,r,r,r)
+s=A.Ak(r,r,r,r,r,B.u,r,A.dh("\u0421\u0442\u0430\u0432\u043a\u0430 "+A.bR(q,","," ")+" \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0430",r,r,r,r,r,r,r),r,B.Er,r,r,r,r,r,r,r,r,r)
 q=p.c.ad(t.O)
 q.toString
 q.f.jf(s)},
@@ -86443,9 +86443,9 @@ B.iO=new A.aC(5e4)
 B.c8=new A.aC(5e5)
 B.eb=new A.aC(6e5)
 B.mb=new A.aC(7e4)
+B.Eq=new A.aC(7e6)
 B.iP=new A.aC(75e3)
-B.Eq=new A.aC(75e4)
-B.Er=new A.aC(8e6)
+B.Er=new A.aC(75e4)
 B.Es=new A.aC(864e8)
 B.mc=new A.aC(9e4)
 B.Et=new A.aC(-38e3)
