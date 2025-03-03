@@ -80300,14 +80300,14 @@ s.bv(0)
 r.IA()
 r.Iz()}},
 bh(){this.d9()},
-Vr(a){if(a<10)return 375
-if(a<20)return 337.5
-if(a<30)return 317.5
-if(a<45)return 275
-if(a<60)return 250
-if(a<90)return 250
-if(a<105)return 225
-return 200},
+Vr(a){if(a<10)return 425
+if(a<20)return 387.5
+if(a<30)return 367.5
+if(a<45)return 325
+if(a<60)return 300
+if(a<90)return 300
+if(a<105)return 275
+return 250},
 IA(){var s=this.x
 if(s!=null)s.ap(0)
 this.x=A.n1(B.Em,new A.ajn(this))},
@@ -80359,7 +80359,7 @@ q=n.c
 q.toString
 q=A.bv(q,null,t.w).w
 if(n.at<300){s=s.GM(100)
-p=s<=(n.z>=10?18:-1)}else p=!0
+p=s<=(n.z>=15?18:-1)}else p=!0
 o=n.Vr(n.z)
 if(!p)++n.at
 n.Z(new A.ajm(n,r*(q.a.a-77),p,o))}},
