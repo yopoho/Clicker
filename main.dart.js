@@ -80359,7 +80359,7 @@ q=n.c
 q.toString
 q=A.bv(q,null,t.w).w
 if(n.at<300){s=s.GM(100)
-p=s<=(n.z>=15?18:-1)}else p=!0
+p=s<=(n.z>=15?15:-1)}else p=!0
 o=n.Vr(n.z)
 if(!p)++n.at
 n.Z(new A.ajm(n,r*(q.a.a-77),p,o))}},
