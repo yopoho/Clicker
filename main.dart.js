@@ -81801,9 +81801,9 @@ return A.f8(A.bi(q+":"+p+":"+o,24,B.bt,B.j,3,B.i),!1,!1,!1,!1,r===0)},
 a2p(){var s,r=this,q=null,p=B.e.b_(r.gmw(),37),o=r.gmw(),n=A.ib("lastZeroPoint"),m=o-(n==null?0:n)
 o=t.p
 if(r.r){n=r.k1
-s=A.b([A.bi(""+r.fx,16,B.k,B.j,3,B.i),A.bi(""+r.fy,16,B.k,B.j,3,B.cI),A.bi(""+r.go,16,B.k,B.j,3,B.j),A.bi(""+r.id,16,B.k,B.j,3,B.cH)],o)
-if(r.w7())s.push(A.en(A.b([A.bi(""+p,16,B.k,B.j,3,B.t2),A.bi("/37",16,B.k,B.j,3,B.t5)],o),B.H,B.J,B.P))
-if(r.w7())s.push(A.en(A.b([A.bi(B.c.ab(100*(r.y/r.gmw()),2)+"% ",16,B.k,B.j,3,B.t3),A.bi(B.c.ab(100*(1-Math.pow(0.972972972972973,m)),2)+"% ",16,B.k,B.j,3,B.t4),A.bi("("+m+")",16,B.k,B.j,3,B.bz)],o),B.H,B.J,B.P))
+s=A.b([A.bi(""+r.fx,16,B.k,B.j,2.5,B.i),A.bi(""+r.fy,16,B.k,B.j,2.5,B.cI),A.bi(""+r.go,16,B.k,B.j,2.5,B.j),A.bi(""+r.id,16,B.k,B.j,2.5,B.cH)],o)
+if(r.w7())s.push(A.en(A.b([A.bi(""+p,16,B.k,B.j,2.5,B.t2),A.bi("/37",16,B.k,B.j,2.5,B.t5)],o),B.H,B.J,B.P))
+if(r.w7())s.push(A.en(A.b([A.bi(B.c.ab(100*(r.y/r.gmw()),2)+"% ",16,B.k,B.j,2.5,B.t3),A.bi(B.c.ab(100*(1-Math.pow(0.972972972972973,m)),2)+"% ",16,B.k,B.j,2.5,B.t4),A.bi("("+m+")",16,B.k,B.j,2.5,B.bz)],o),B.H,B.J,B.P))
 return A.f8(A.ej(!1,q,!0,A.ea(s,B.cq,B.J,B.P),q,!0,q,q,q,q,q,q,q,q,new A.aaZ(r),q,q,q,q,q),!0,!0,!0,!0,n)}else{r.fx=r.gmw()
 r.fy=r.w
 r.go=r.x
