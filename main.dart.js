@@ -81268,7 +81268,7 @@ A.FG(!0,new A.aly(this),s,t.z)},
 a3J(a){var s,r=this,q=null,p=r.ch===0?new A.ale(r,a):new A.alf(r),o=A.cg(12),n=A.cg(12),m=$.a_().hC(5,5,B.aw)
 m=A.ig(A.bW(q,q,B.p,A.R(89,255,255,255),q,q,62,q,q,62),m)
 s=A.cg(12)
-s=A.b([m,A.bW(q,A.dS(A.bM(q,q,new A.b1(B.cs,A.ey("assets/images/snowflake.png",B.f1,50,50),q),!1,q,q,!1,q,q,q,q,"Open Game",q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),q,q),B.p,q,q,new A.bZ(q,q,q,s,q,q,B.N),62,q,q,62)],t.p)
+s=A.b([m,A.bW(q,A.dS(A.bM(q,q,new A.b1(B.cs,A.ey("assets/images/gold.png",B.f1,50,50),q),!1,q,q,!1,q,q,q,q,"Open Game",q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),q,q),B.p,q,q,new A.bZ(q,q,q,s,q,q,B.N),62,q,q,62)],t.p)
 if(r.ch===0){m=A.cg(8)
 s.push(A.mF(q,A.bW(q,new A.b1(B.iQ,A.bi("1",12,B.k,B.j,2,B.i),q),B.p,q,q,new A.bZ(B.fW,q,q,m,q,q,B.N),q,q,B.iS,q),q,q,q,0,0,q))}return A.ej(!1,o,!0,A.nY(n,A.cI(B.Z,s,B.u,B.W)),q,!0,q,q,q,q,q,q,q,q,q,p,q,q,q,q)},
 vA(a){return this.a0M(a)},
