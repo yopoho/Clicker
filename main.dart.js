@@ -82099,7 +82099,7 @@ case 3e5:return 112.5
 case 4e5:return 157.5
 case 5e5:return 202.5
 case 1e6:return 247.5
-default:return 0}else if(r&&s>=32)switch(a){case 0:return 292.5
+default:return 0}else if(r&&s>=32&&s<37)switch(a){case 0:return 292.5
 case 5e5:return 292.5
 case 1e6:return 337.5
 case 2e6:return 22.5
