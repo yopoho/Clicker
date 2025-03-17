@@ -82223,9 +82223,8 @@ p=(p==null?0:p)<=0}p=p?m:new A.abo(n)
 o=A.awr(m,m,m,m,m,m,m,m,m,m,m,m,B.mf,m,new A.cG(A.cg(20),B.r),m,m,m,m)
 q.push(A.dS(A.ea(A.b([B.Ou,s,B.Ox,A.awq(n.w?B.xc:B.yO,p,o),B.yh,n.a0Q(),B.yf,n.ad1()],r),B.H,B.J,B.P),m,m))
 return A.h0(m,A.zM(l,m,A.cI(B.Z,q,B.u,B.W),!0,m),B.a5,!1,m,m,m,m,n.ga6S(),m,m,m,m,m,m,m,m,m,m,m,m,m,m,m)},
-VH(a){var s="assets/images/roulette10M_.png"
-if(a>=37)return s
-if(a>=32)return s
+VH(a){if(a>=37)return"assets/images/roulette100M.png"
+if(a>=32)return"assets/images/roulette10M_.png"
 if(a>=27)return"assets/images/roulette1M.png"
 if(a===26)return"assets/images/roulette500.png"
 if(a===25)return"assets/images/roulette250.png"
