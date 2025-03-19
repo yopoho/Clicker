@@ -82252,6 +82252,7 @@ aj2(a){var s=null
 return A.kx(s,B.Fx,s,new A.abx(this,a),s,s)},
 AD(){var s=this.ch
 s.toString
+if(s>=40)return B.c.a3(Math.pow(2,s-1)/4e8)
 if(s>=37)return B.c.a3(Math.pow(2,s-1)/4e7)
 if(s>=32)return B.c.a3(Math.pow(2,s-1)/4e6)
 if(s>=27)return B.c.a3(Math.pow(2,s-1)/321250)
