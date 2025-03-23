@@ -82106,7 +82106,7 @@ case 3e5:return 112.5
 case 4e5:return 157.5
 case 5e5:return 202.5
 case 1e6:return 247.5
-default:return 0}else if(r&&s>=32&&s<37)switch(a){case 0:return 292.5
+default:return 0}else if(r&&s>=32&&s<36)switch(a){case 0:return 292.5
 case 5e5:return 292.5
 case 1e6:return 337.5
 case 2e6:return 22.5
@@ -82115,7 +82115,7 @@ case 4e6:return 112.5
 case 5e6:return 157.5
 case 7e6:return 202.5
 case 1e7:return 247.5
-default:return 0}else if(r&&s>=37&&s<40)switch(a){case 0:return 292.5
+default:return 0}else if(r&&s>=36&&s<40)switch(a){case 0:return 292.5
 case 5e6:return 292.5
 case 1e7:return 337.5
 case 2e7:return 22.5
