@@ -81831,7 +81831,7 @@ r===$&&A.a()
 s.fr.sm(0,r)},
 $S:0}
 A.abF.prototype={
-$1(a){var s,r,q,p,o,n,m,l,k,j=null,i="default_bet_index"
+$1(a){var s,r,q,p,o,n,m,l,k,j,i=null,h="default_bet_index"
 if(a===B.X){s=this.a
 r=s.e
 r===$&&A.a()
@@ -81846,35 +81846,38 @@ r=s.ax
 r.toString
 r=A.WM(r)
 s.CW=r
+o=s.lq(r).length
 p.toString
-if(p>r){r=A.ib(i)
+r=s.CW
+r.toString
+if(p>r){r=A.ib(h)
 if(r==null)r=1
-r=r>s.lq(s.CW).length-1}else r=!1
-if(r){s.db=s.lq(s.CW).length-1
+r=r>o-1}else r=!1
+if(r){s.db=s.lq(s.CW)[o-1]
 r=B.e.k(s.lq(s.CW).length-1)
-window.localStorage.setItem(i,r)}r=J.du(s.CW)
+window.localStorage.setItem(h,r)}r=J.du(s.CW)
 q=window.location.href
 q.toString
-o=A.cR(q,0,j)
+n=A.cR(q,0,i)
 q=t.N
-n=A.a4O(o.gm0(),q,q)
-n.n(0,"level",r)
-m=o.m2(0,n)
+m=A.a4O(n.gm0(),q,q)
+m.n(0,"level",r)
+l=n.m2(0,m)
 r=window.history
 r.toString
-q=m.gmI()
-r.pushState(new A.TY([],[]).uM(j),"",q)
+q=l.gmI()
+r.pushState(new A.TY([],[]).uM(i),"",q)
 q=s.c.ad(t.O)
 q.toString
 r=s.at
 r.toString
 r=A.dY("#,##0","en_US").eh(r)
-q.f.jf(A.Ak(j,j,j,j,j,B.u,j,A.dh("\u0412\u0430\u0448 \u0432\u044b\u0438\u0433\u0440\u044b\u0448: "+A.bI(r,","," ")+"!",j,j,j,j,j,j,j),j,B.c6,j,j,j,j,j,j,j,j,j))
-l=A.aB5("hasAudio")
-if(l){r=s.at
-k=r!=null&&r<0
-$.a8.p2$.push(new A.abA(s,k))
-s.at=null}if(!l)s.at=null}}},
+q.f.jf(A.Ak(i,i,i,i,i,B.u,i,A.dh("\u0412\u0430\u0448 \u0432\u044b\u0438\u0433\u0440\u044b\u0448: "+A.bI(r,","," ")+"!",i,i,i,i,i,i,i),i,B.c6,i,i,i,i,i,i,i,i,i))
+k=A.aB5("hasAudio")
+if(k){r=s.at
+j=r!=null&&r<0
+$.a8.p2$.push(new A.abA(s,j))
+s.at=null}if(!k)s.at=null}}},
 $S:7}
 A.abz.prototype={
 $0(){var s=this.a
