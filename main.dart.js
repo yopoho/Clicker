@@ -40304,8 +40304,8 @@ s=p.r
 if(s!=null&&s.a!=null)return
 r=this.w
 if(r){p.z=B.ax
-q=p.jm(1,B.Up,B.Ea)}else{p.z=B.ax
-q=p.jm(0,B.Du,B.Eh)}q.bY(new A.ahH(this,r),t.H)},
+q=p.jm(1,B.Up,B.Eb)}else{p.z=B.ax
+q=p.jm(0,B.Du,B.Ei)}q.bY(new A.ahH(this,r),t.H)},
 a9h(a){this.Z(new A.ahI(this,a))},
 L(a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d=null,c=e.a.r==null,b=!c,a=A.wH(a2),a0=a.gf1(),a1=e.a.e
 if(a1==null)s=d
@@ -40596,7 +40596,7 @@ q.a.toString
 s=q.d
 r=q.r
 r===$&&A.a()
-return A.ave(new A.Hq(r,new A.i(0,q.e),null),B.c4,B.Ep,s.a,s.b)}}
+return A.ave(new A.Hq(r,new A.i(0,q.e),null),B.c4,B.Eq,s.a,s.b)}}
 A.ahS.prototype={
 $0(){return this.a.Z(new A.ahR())},
 $S:0}
@@ -42046,7 +42046,7 @@ a6f(){if(this.c<=0)this.gNW().bZ(0)},
 gNW(){var s=this,r=s.a_$
 if(r===$){$.FU()
 r!==$&&A.ak()
-r=s.a_$=new A.amD(A.x(t.S,t.GG),B.t,new A.At(),s.ga6_(),s.ga6e(),B.Eg)}return r}}
+r=s.a_$=new A.amD(A.x(t.S,t.GG),B.t,new A.At(),s.ga6_(),s.ga6e(),B.Eh)}return r}}
 A.a2k.prototype={
 $0(){var s=null
 return A.b([A.jk("Event",this.a,!0,B.bl,s,s,s,B.aQ,!1,!0,!0,B.bM,s)],t.D)},
@@ -42924,7 +42924,7 @@ r=a.gbo()
 q=a.gbw(a)
 p=a.gdQ(a)
 o=new A.OK()
-A.c5(B.En,o.ga9o())
+A.c5(B.Eo,o.ga9o())
 n=new A.vd(r,s,q,p,o)
 m.z.n(0,a.gbo(),n)
 o=a.gbU(a)
@@ -45992,7 +45992,7 @@ return h}}
 A.xQ.prototype={
 p9(a){var s=this.ch
 s===$&&A.a()
-s.e=B.Ek
+s.e=B.El
 s.bv(0)
 s=this.cx
 s===$&&A.a()
@@ -46744,7 +46744,7 @@ ai(){return new A.O6(null,null)}}
 A.O6.prototype={
 aA(){var s,r=this,q=null
 r.aK()
-r.e=A.by(q,B.Ed,q,r.a.w?1:0,r)
+r.e=A.by(q,B.Ee,q,r.a.w?1:0,r)
 s=A.by(q,B.d9,q,q,r)
 r.d=s
 r.f=A.ci(B.aj,s,new A.m0(B.aj))
@@ -47493,7 +47493,7 @@ h=b9.gaI()
 g=k.fy
 g=b9.gaI().at==null?c0:B.aV
 f=b9.a.e
-i=A.aFf(A.dh(j,b9.gaI().at,g,c0,k,f,h.as,c0),B.aj,B.Ej,n)}b9.gaI()
+i=A.aFf(A.dh(j,b9.gaI().at,g,c0,k,f,h.as,c0),B.aj,B.Ek,n)}b9.gaI()
 if(b9.a.r)if(b9.glh())b9.gaI()
 else b9.gaI()
 else if(b9.glh())b9.gaI()
@@ -48409,7 +48409,7 @@ ai(){return new A.QM(null,null)}}
 A.QM.prototype={
 aA(){var s,r=this
 r.aK()
-s=A.by(null,B.Ei,null,null,r)
+s=A.by(null,B.Ej,null,null,r)
 r.d=s
 if(r.a.c==null)s.ux(0)},
 aJ(a){var s,r,q=this
@@ -48490,7 +48490,7 @@ ai(){return new A.Op(null,null)}}
 A.Op.prototype={
 aA(){var s,r=this
 r.aK()
-s=A.by(null,B.El,null,null,r)
+s=A.by(null,B.Em,null,null,r)
 r.d=s
 if(r.a.c==null)s.ux(0)},
 aJ(a){var s,r,q=this
@@ -49116,7 +49116,7 @@ s.aF$=null
 s.aC()}}
 A.LJ.prototype={
 L(a){var s=this,r=null
-if(A.a2(a).w===B.Y)return new A.rc(8,B.cN,s.c,s.d,!1,B.Ma,3,r,B.m8,B.Eb,A.FF(),r,r,r)
+if(A.a2(a).w===B.Y)return new A.rc(8,B.cN,s.c,s.d,!1,B.Ma,3,r,B.m8,B.Ec,A.FF(),r,r,r)
 return new A.uQ(s.c,s.d,r,r,r,r,B.c7,B.ea,A.FF(),r,r,r)}}
 A.uQ.prototype={
 ai(){var s=null
@@ -50205,7 +50205,7 @@ m=A.awO(n?B.mH:B.Ft,null)
 l=n?"Back":"More"
 l=A.b([new A.Un(m,new A.aon(k),l,null)],t.p)
 B.b.O(l,k.a.c)
-return new A.Up(r,q.w,A.avf(p.amQ(a,new A.Ul(o,n,l,null)),B.au,B.Ec),s)}}
+return new A.Up(r,q.w,A.avf(p.amQ(a,new A.Ul(o,n,l,null)),B.au,B.Ed),s)}}
 A.aon.prototype={
 $0(){var s=this.a
 s.Z(new A.aom(s))},
@@ -50849,7 +50849,7 @@ ai(){return new A.n2(new A.a8J(),A.aI(t.S),B.I,null,null)}}
 A.n2.prototype={
 gack(){this.a.toString
 this.f===$&&A.a()
-return B.Ee},
+return B.Ef},
 ga34(){this.a.toString
 this.f===$&&A.a()
 return!0},
@@ -80259,7 +80259,7 @@ aA(){var s,r,q=this,p=null,o="levelGame"
 q.aK()
 $.a8.bW$.push(q)
 q.ch=A.arA()
-A.by(p,B.Ef,p,p,q).ux(0)
+A.by(p,B.Eg,p,p,q).ux(0)
 s=A.by(p,B.Es,p,p,q)
 q.d=s
 q.e=A.ci(B.au,s,p)
@@ -80315,7 +80315,7 @@ if(a<105)return 275
 return 250},
 IA(){var s=this.x
 if(s!=null)s.ap(0)
-this.x=A.n1(B.Em,new A.ajn(this))},
+this.x=A.n1(B.En,new A.ajn(this))},
 Iz(){var s=this.y
 if(s!=null)s.ap(0)
 this.y=A.n1(B.br,new A.ajl(this))},
@@ -80828,7 +80828,7 @@ A.Jh.prototype={
 aA(){var s=this
 s.aK()
 s.mu()
-s.r=A.n1(B.Er,new A.a4K(s))},
+s.r=A.n1(B.Ea,new A.a4K(s))},
 mu(){var s=0,r=A.B(t.H),q,p=2,o,n=this,m,l,k,j
 var $async$mu=A.C(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:p=4
@@ -81523,7 +81523,7 @@ $S:0}
 A.alb.prototype={
 $1(a){var s=null,r=this.a.c.ad(t.O)
 r.toString
-r.f.jf(A.Ak(s,s,s,s,B.hw,B.u,s,A.dh(a,s,s,s,s,s,s,s),s,B.Eo,s,s,s,s,s,s,s,!0,s))},
+r.f.jf(A.Ak(s,s,s,s,B.hw,B.u,s,A.dh(a,s,s,s,s,s,s,s),s,B.Ep,s,s,s,s,s,s,s,!0,s))},
 $S:40}
 A.ala.prototype={
 $0(){var s,r=this,q=r.a
@@ -81950,7 +81950,7 @@ window.localStorage.setItem("default_bet_index",p)
 p=this.a
 q=p.ki(p.CW)[q]
 q=A.dY("#,##0","en_US").eh(q)
-s=A.Ak(r,r,r,r,r,B.u,r,A.dh("\u0421\u0442\u0430\u0432\u043a\u0430 "+A.bI(q,","," ")+" \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0430",r,r,r,r,r,r,r),r,B.Eq,r,r,r,r,r,r,r,r,r)
+s=A.Ak(r,r,r,r,r,B.u,r,A.dh("\u0421\u0442\u0430\u0432\u043a\u0430 "+A.bI(q,","," ")+" \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0430",r,r,r,r,r,r,r),r,B.Er,r,r,r,r,r,r,r,r,r)
 q=p.c.ad(t.O)
 q.toString
 q.f.jf(s)},
@@ -86460,40 +86460,40 @@ B.E9=new A.x6(null,null,null)
 B.t=new A.aC(0)
 B.aR=new A.aC(1e5)
 B.br=new A.aC(1e6)
-B.Ea=new A.aC(12e4)
-B.Eb=new A.aC(12e5)
+B.Ea=new A.aC(1e7)
+B.Eb=new A.aC(12e4)
+B.Ec=new A.aC(12e5)
 B.iM=new A.aC(125e3)
-B.Ec=new A.aC(14e4)
-B.Ed=new A.aC(15e3)
+B.Ed=new A.aC(14e4)
+B.Ee=new A.aC(15e3)
 B.e8=new A.aC(15e4)
-B.Ee=new A.aC(15e5)
-B.Ef=new A.aC(15e6)
-B.Eg=new A.aC(16667)
+B.Ef=new A.aC(15e5)
+B.Eg=new A.aC(15e6)
+B.Eh=new A.aC(16667)
 B.d9=new A.aC(167e3)
-B.Eh=new A.aC(18e4)
-B.Ei=new A.aC(18e5)
-B.Ej=new A.aC(2e4)
+B.Ei=new A.aC(18e4)
+B.Ej=new A.aC(18e5)
+B.Ek=new A.aC(2e4)
 B.a6=new A.aC(2e5)
 B.c6=new A.aC(2e6)
-B.Ek=new A.aC(225e3)
+B.El=new A.aC(225e3)
 B.m8=new A.aC(25e4)
-B.El=new A.aC(2961926e3)
+B.Em=new A.aC(2961926e3)
 B.c7=new A.aC(3e5)
 B.e9=new A.aC(3e6)
 B.m9=new A.aC(3e7)
-B.Em=new A.aC(36e4)
+B.En=new A.aC(36e4)
 B.ma=new A.aC(375e3)
-B.En=new A.aC(4e4)
+B.Eo=new A.aC(4e4)
 B.iN=new A.aC(4e5)
-B.Eo=new A.aC(4e6)
-B.Ep=new A.aC(45e3)
+B.Ep=new A.aC(4e6)
+B.Eq=new A.aC(45e3)
 B.iO=new A.aC(5e4)
 B.c8=new A.aC(5e5)
 B.ea=new A.aC(6e5)
 B.mb=new A.aC(7e4)
 B.iP=new A.aC(75e3)
-B.Eq=new A.aC(75e4)
-B.Er=new A.aC(8e6)
+B.Er=new A.aC(75e4)
 B.Es=new A.aC(864e8)
 B.mc=new A.aC(9e4)
 B.Et=new A.aC(-38e3)
