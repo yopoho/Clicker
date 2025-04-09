@@ -80335,11 +80335,11 @@ alC(a,b){var s
 if(a.length!==0&&b>=0&&b<=300*this.uP())try{A.FD(a,b)}catch(s){A.FD(a,b)}},
 L(a){var s,r,q,p,o=this,n=null,m=o.w
 m=A.dY("#,##0","en_US").eh(m)
-m=A.bi("\u0421\u0447\u0451\u0442: "+A.bI(m,","," "),18,B.k,B.j,3,B.i)
+m=A.bi("\u0421\u0447\u0451\u0442: "+A.bI(m,","," "),17,B.k,B.j,3,B.i)
 s=o.z
 r=B.e.bP(s,60)
 q=B.e.b_(s,60)
-m=A.en(A.b([m,A.bi("\u0412\u0440\u0435\u043c\u044f: "+(B.d.fm(B.e.k(r),2,"0")+":"+B.d.fm(B.e.k(q),2,"0")),18,B.k,B.j,3,B.i)],t.p),B.H,B.fU,B.P)
+m=A.en(A.b([m,A.bi("\u0412\u0440\u0435\u043c\u044f: "+(B.d.fm(B.e.k(r),2,"0")+":"+B.d.fm(B.e.k(q),2,"0")),17,B.k,B.j,3,B.i)],t.p),B.H,B.fU,B.P)
 m=A.Gg(n,B.q,n,n,A.kx(n,B.ef,n,new A.ajb(o,a),n,n),m)
 s=$.a_().hC(0,0,B.aw)
 p=o.e
@@ -81226,9 +81226,9 @@ if(f.f===-1)m=""
 else{l=A.dY(d,c).eh(25e3)
 m=A.bI(l,","," ")}q.push(A.en(A.b([p,n,A.bi(m,20,B.k,B.j,3,B.i)],s),B.H,B.cb,B.P))}q=A.dS(A.ea(q,B.H,B.cb,B.P),e,e)
 p=f.w
-p=A.bi(p==null?"":p,21,B.k,B.j,3,B.i)
+p=A.bi(p==null?"":p,20,B.k,B.j,3,B.i)
 n=f.e
-p=A.mF(e,new A.b1(B.EI,A.en(A.b([p,A.bi(n===-1?"":"\u0423\u0440\u043e\u0432\u0435\u043d\u044c: "+n,21,B.k,B.j,3,B.i)],s),B.H,B.fU,B.P),e),e,e,0,0,0,e)
+p=A.mF(e,new A.b1(B.EI,A.en(A.b([p,A.bi(n===-1?"":"\u0423\u0440\u043e\u0432\u0435\u043d\u044c: "+n,20,B.k,B.j,3,B.i)],s),B.H,B.fU,B.P),e),e,e,0,0,0,e)
 n=f.d
 n=A.f8(f.a86(a0),!1,!1,!1,!1,n!=null)
 l=f.d
