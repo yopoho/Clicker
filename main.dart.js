@@ -81213,7 +81213,7 @@ if(p!=null&&p>=0)q.push(B.eM)
 p=f.d
 if(p!=null&&p>=0){p=A.aQ6($.WO)
 p=A.dY(d,c).eh(p)
-q.push(A.bi("+ "+A.bI(p,","," ")+" / \u0434\u0435\u043d\u044c",15,B.k,B.j,2.25,B.i))}q.push(B.OA)
+q.push(A.bi("+ "+A.bI(p,","," ")+" / \u0434\u0435\u043d\u044c",14,B.k,B.j,2.25,B.i))}q.push(B.OA)
 if(f.e<25)q.push(f.a8j())
 if(f.e<25)q.push(B.yh)
 if(f.e<25){p=f.f
