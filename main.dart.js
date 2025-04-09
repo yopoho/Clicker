@@ -81226,9 +81226,9 @@ if(f.f===-1)m=""
 else{l=A.dY(d,c).eh(25e3)
 m=A.bI(l,","," ")}q.push(A.en(A.b([p,n,A.bi(m,20,B.k,B.j,3,B.i)],s),B.H,B.cb,B.P))}q=A.dS(A.ea(q,B.H,B.cb,B.P),e,e)
 p=f.w
-p=A.bi(p==null?"":p,20,B.k,B.j,3,B.i)
+p=A.bi(p==null?"":p,20,B.k,B.j,2.75,B.i)
 n=f.e
-p=A.mF(e,new A.b1(B.EI,A.en(A.b([p,A.bi(n===-1?"":"\u0423\u0440\u043e\u0432\u0435\u043d\u044c: "+n,20,B.k,B.j,3,B.i)],s),B.H,B.fU,B.P),e),e,e,0,0,0,e)
+p=A.mF(e,new A.b1(B.EI,A.en(A.b([p,A.bi(n===-1?"":"\u0423\u0440\u043e\u0432\u0435\u043d\u044c: "+n,20,B.k,B.j,2.75,B.i)],s),B.H,B.fU,B.P),e),e,e,0,0,0,e)
 n=f.d
 n=A.f8(f.a86(a0),!1,!1,!1,!1,n!=null)
 l=f.d
