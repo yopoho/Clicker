@@ -80335,11 +80335,11 @@ alC(a,b){var s
 if(a.length!==0&&b>=0&&b<=300*this.uP())try{A.FD(a,b)}catch(s){A.FD(a,b)}},
 L(a){var s,r,q,p,o=this,n=null,m=o.w
 m=A.dY("#,##0","en_US").eh(m)
-m=A.bi("\u0421\u0447\u0451\u0442: "+A.bI(m,","," "),17,B.k,B.j,3,B.i)
+m=A.bi("\u0421\u0447\u0451\u0442: "+A.bI(m,","," "),17.5,B.k,B.j,3,B.i)
 s=o.z
 r=B.e.bP(s,60)
 q=B.e.b_(s,60)
-m=A.en(A.b([m,A.bi("\u0412\u0440\u0435\u043c\u044f: "+(B.d.fm(B.e.k(r),2,"0")+":"+B.d.fm(B.e.k(q),2,"0")),17,B.k,B.j,3,B.i)],t.p),B.H,B.fU,B.P)
+m=A.en(A.b([m,A.bi("\u0412\u0440\u0435\u043c\u044f: "+(B.d.fm(B.e.k(r),2,"0")+":"+B.d.fm(B.e.k(q),2,"0")),17.5,B.k,B.j,3,B.i)],t.p),B.H,B.fU,B.P)
 m=A.Gg(n,B.q,n,n,A.kx(n,B.ef,n,new A.ajb(o,a),n,n),m)
 s=$.a_().hC(0,0,B.aw)
 p=o.e
@@ -81213,7 +81213,7 @@ if(p!=null&&p>=0)q.push(B.eM)
 p=f.d
 if(p!=null&&p>=0){p=A.aQ6($.WO)
 p=A.dY(d,c).eh(p)
-q.push(A.bi("+ "+A.bI(p,","," ")+" / \u0434\u0435\u043d\u044c",14,B.k,B.j,2.25,B.i))}q.push(B.OA)
+q.push(A.bi("+ "+A.bI(p,","," ")+" / \u0434\u0435\u043d\u044c",14.5,B.k,B.j,2.25,B.i))}q.push(B.OA)
 if(f.e<25)q.push(f.a8j())
 if(f.e<25)q.push(B.yh)
 if(f.e<25){p=f.f
