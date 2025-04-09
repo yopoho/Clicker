@@ -81236,7 +81236,7 @@ l=A.f8(f.a3K(a0),!1,!1,!1,!1,l!=null)
 k=f.d
 j=A.cg(12)
 i=A.cg(12)
-h=$.a_().hC(5,5,B.aw)
+h=$.a_().hC(4.5,4.5,B.aw)
 h=A.ig(A.bW(e,e,B.p,A.R(89,255,255,255),e,e,62,e,e,62),h)
 g=A.cg(12)
 k=A.f8(A.ej(!1,j,!0,A.nY(i,A.cI(B.Z,A.b([h,A.bW(e,A.dS(A.bN(e,e,new A.b1(B.cs,A.ey("assets/images/icon_promo_code.png",B.i4,50,50),e),!1,e,e,!1,e,e,e,e,"Enter promo code",e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e),e,e),B.p,e,e,new A.bZ(e,e,e,g,e,e,B.N),62,e,e,62)],s),B.u,B.W)),e,!0,e,e,e,e,e,e,e,e,e,f.gacn(),e,e,e,e),!1,!1,!1,!1,k!=null)
@@ -81246,7 +81246,7 @@ h=f.d
 return A.zM(e,e,A.cI(B.Z,A.b([b,a,new A.dv(B.hY,e,e,r,e),q,p,new A.dv(B.hX,e,e,new A.b1(B.EE,A.en(A.b([n,l,k,g,A.f8(f.ab9(a0),!1,!1,!1,!1,h!=null)],s),B.H,B.jl,B.P),e),e)],s),B.u,B.W),!1,!1)},
 a8j(){var s=null,r=this.ax
 return new A.vO(A.ej(!1,A.cg(75),!0,new A.H4(A.ey("assets/images/main_button.png",B.b6,150,150),s),s,!0,s,s,s,s,s,s,s,s,s,new A.alm(this),s,s,s,s),r,B.iD,B.mc,s,s)},
-a86(a){var s,r=null,q=A.cg(12),p=A.cg(12),o=$.a_().hC(5,5,B.aw)
+a86(a){var s,r=null,q=A.cg(12),p=A.cg(12),o=$.a_().hC(4.5,4.5,B.aw)
 o=A.ig(A.bW(r,r,B.p,A.R(89,255,255,255),r,r,62,r,r,62),o)
 s=A.cg(12)
 return A.ej(!1,q,!0,A.nY(p,A.cI(B.Z,A.b([o,A.bW(r,A.bN(r,r,new A.b1(B.cs,A.ey("assets/images/icon_leaderboard_2.png",B.b6,50,50),r),!1,r,r,!1,r,r,r,r,"Open Leaderboard",r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),B.p,r,r,new A.bZ(r,r,r,s,r,r,B.N),62,r,r,62)],t.p),B.u,B.W)),r,!0,r,r,r,r,r,r,r,r,r,new A.alj(a),r,r,r,r)},
@@ -81261,7 +81261,7 @@ o=window.history
 o.toString
 p=q.gmH()
 o.pushState(new A.TY([],[]).uN(null),"",p)},
-ab9(a){var s,r,q,p,o,n=null,m=A.cg(12),l=A.cg(12),k=$.a_().hC(5,5,B.aw)
+ab9(a){var s,r,q,p,o,n=null,m=A.cg(12),l=A.cg(12),k=$.a_().hC(4.5,4.5,B.aw)
 k=A.ig(A.bW(n,n,B.p,A.R(89,255,255,255),n,n,62,n,n,62),k)
 s=A.cg(12)
 r=t.p
@@ -81276,7 +81276,7 @@ r=A.bI(r,","," ")}return A.cI(B.Z,A.b([A.bW(s,A.f8(new A.b1(B.iR,A.h0(s,A.bi(r,3
 aco(){var s=this.c
 s.toString
 A.FG(!0,new A.aly(this),s,t.z)},
-a3K(a){var s,r=this,q=null,p=r.ch===0?new A.ale(r,a):new A.alf(r),o=A.cg(12),n=A.cg(12),m=$.a_().hC(5,5,B.aw)
+a3K(a){var s,r=this,q=null,p=r.ch===0?new A.ale(r,a):new A.alf(r),o=A.cg(12),n=A.cg(12),m=$.a_().hC(4.5,4.5,B.aw)
 m=A.ig(A.bW(q,q,B.p,A.R(89,255,255,255),q,q,62,q,q,62),m)
 s=A.cg(12)
 s=A.b([m,A.bW(q,A.dS(A.bN(q,q,new A.b1(B.cs,A.ey("assets/images/gold.png",B.f1,50,50),q),!1,q,q,!1,q,q,q,q,"Open Game",q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),q,q),B.p,q,q,new A.bZ(q,q,q,s,q,q,B.N),62,q,q,62)],t.p)
@@ -81335,7 +81335,7 @@ var $async$CN=A.C(function(a,b){if(a===1)return A.y(b,r)
 while(true)switch(s){case 0:A.aqK(A.cR("https://t.me/+lTVoApVJsEM0ZWI0",0,null),B.Gg)
 return A.z(null,r)}})
 return A.A($async$CN,r)},
-a7Q(a){var s,r,q=null,p=A.cg(12),o=A.cg(12),n=$.a_().hC(5,5,B.aw)
+a7Q(a){var s,r,q=null,p=A.cg(12),o=A.cg(12),n=$.a_().hC(4.5,4.5,B.aw)
 n=A.ig(A.bW(q,q,B.p,A.R(89,255,255,255),q,q,62,q,q,62),n)
 s=A.cg(12)
 r=t.p
