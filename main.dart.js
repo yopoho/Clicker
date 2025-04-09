@@ -80475,7 +80475,7 @@ r.d=s
 r.ya()},
 L(d0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0=this,a1=null,a2="\u0434\u043b\u044f \u0441\u0434\u0430\u0447\u0438 \u0432 \u0430\u0440\u0435\u043d\u0434\u0443.",a3="\u0426\u0435\u043d\u0430:",a4="\u0414\u043e\u0445\u043e\u0434:",a5="car_expensive_ferrari",a6="restaurant1",a7="restaurant3",a8="dubai_yacht",a9="burj_khalifa",b0="oil_derrick_sea",b1="palm_jumeirah",b2="25 000 000 000",b3="emirates",b4="rb_stocks_2",b5="assets/images/rb_investment.jpg",b6="\u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438 The Island",b7="\u0411\u043e\u043d\u0443\u0441 \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0448\u0430:",b8="rb_stocks_10",b9="car_expensive_porsche",c0="car_expensive_lambo",c1="restaurant2",c2="20 000 000",c3="ain_dubai",c4="oil_derricks_small",c5="dubai_mall",c6="dubai_tree",c7="rb_stocks_5",c8="rb_stocks_30",c9=A.bi("\u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438",27,B.k,B.j,3,B.i)
 c9=A.Gg(a1,B.q,!0,0,A.kx(a1,B.ef,a1,new A.akh(a0),a1,a1),c9)
-s=A.M_(A.ey("assets/images/background_20_01.jpg",B.b6,a1,a1))
+s=A.M_(A.ey("assets/images/background.jpg",B.b6,a1,a1))
 r=$.a_().hC(0.33,0.33,B.aw)
 r=A.z_(0,A.ig(A.bW(a1,a1,B.p,A.R(0,0,0,0),a1,a1,a1,a1,a1,a1),r))
 q=t.p
@@ -80757,7 +80757,7 @@ s.l()
 this.a_y()},
 L(a){var s,r,q=this,p=null,o=A.bi("\u041b\u0438\u0434\u0435\u0440\u0431\u043e\u0440\u0434",29,B.k,B.j,3,B.i)
 o=A.Gg(p,B.q,!0,0,A.kx(p,B.ef,p,new A.akz(q,a),p,p),o)
-s=A.M_(A.ey("assets/images/background_20_01.jpg",B.b6,p,p))
+s=A.M_(A.ey("assets/images/background.jpg",B.b6,p,p))
 r=q.e
 r===$&&A.a()
 return A.zM(o,p,A.h0(p,A.cI(B.Z,A.b([s,A.z_(0,A.id(r,new A.akA(q),p)),B.Lg],t.p),B.u,B.W),B.a5,!1,p,p,p,p,new A.akB(q,a),p,p,p,p,p,p,p,p,p,p,p,p,p,p,p),!0,p)},
@@ -81075,7 +81075,7 @@ H5(){var s=0,r=A.B(t.H),q=this,p
 var $async$H5=A.C(function(a,b){if(a===1)return A.y(b,r)
 while(true)switch(s){case 0:p=q.c
 p.toString
-A.c6(B.zN,p)
+A.c6(B.zv,p)
 p=q.c
 p.toString
 A.c6(B.kV,p)
@@ -81090,19 +81090,19 @@ p.toString
 A.c6(B.zP,p)
 p=q.c
 p.toString
-A.c6(B.zw,p)
+A.c6(B.zx,p)
 p=q.c
 p.toString
 A.c6(B.zZ,p)
 p=q.c
 p.toString
+A.c6(B.zA,p)
+p=q.c
+p.toString
 A.c6(B.zz,p)
 p=q.c
 p.toString
-A.c6(B.zy,p)
-p=q.c
-p.toString
-A.c6(B.zH,p)
+A.c6(B.zI,p)
 p=q.c
 p.toString
 A.c6(B.zO,p)
@@ -81111,19 +81111,19 @@ p.toString
 A.c6(B.zQ,p)
 p=q.c
 p.toString
-A.c6(B.zJ,p)
+A.c6(B.zK,p)
 p=q.c
 p.toString
 A.c6(B.zu,p)
 p=q.c
 p.toString
-A.c6(B.zK,p)
+A.c6(B.zL,p)
 p=q.c
 p.toString
 A.c6(B.zt,p)
 p=q.c
 p.toString
-A.c6(B.zM,p)
+A.c6(B.zN,p)
 p=q.c
 p.toString
 A.c6(B.zY,p)
@@ -81138,22 +81138,22 @@ p.toString
 A.c6(B.zX,p)
 p=q.c
 p.toString
-A.c6(B.zG,p)
+A.c6(B.zH,p)
 p=q.c
 p.toString
-A.c6(B.zI,p)
+A.c6(B.zJ,p)
 p=q.c
 p.toString
-A.c6(B.zE,p)
-p=q.c
-p.toString
-A.c6(B.zB,p)
+A.c6(B.zF,p)
 p=q.c
 p.toString
 A.c6(B.zC,p)
 p=q.c
 p.toString
 A.c6(B.zD,p)
+p=q.c
+p.toString
+A.c6(B.zE,p)
 p=q.c
 p.toString
 A.c6(B.zR,p)
@@ -81168,19 +81168,19 @@ p.toString
 A.c6(B.zU,p)
 p=q.c
 p.toString
-A.c6(B.zF,p)
+A.c6(B.zG,p)
 p=q.c
 p.toString
-A.c6(B.zx,p)
+A.c6(B.zy,p)
 p=q.c
 p.toString
-A.c6(B.zL,p)
+A.c6(B.zM,p)
 p=q.c
 p.toString
-A.c6(B.zv,p)
+A.c6(B.zw,p)
 p=q.c
 p.toString
-A.c6(B.zA,p)
+A.c6(B.zB,p)
 return A.z(null,r)}})
 return A.A($async$H5,r)},
 l(){var s=this.as
@@ -81193,7 +81193,7 @@ UW(a){var s=this,r=s.gJQ(),q=s.gJQ(),p=t.Y,o=s.as
 o===$&&A.a()
 s.at=new A.aB(o,new A.aA(r,q,p),p.i("aB<au.T>"))
 o.ij(0,0)},
-L(a0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=this,e=null,d="#,##0",c="en_US",b=A.M_(A.ey("assets/images/background_20_01.jpg",B.b6,e,e)),a=f.at
+L(a0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=this,e=null,d="#,##0",c="en_US",b=A.M_(A.ey("assets/images/background.jpg",B.b6,e,e)),a=f.at
 a===$&&A.a()
 a=A.z_(0,A.id(a,new A.alz(f),e))
 s=t.p
@@ -85846,27 +85846,27 @@ B.i1=new A.w0(1,"assertive")
 B.kV=new A.bK("assets/images/background_hd4.jpg",null,null)
 B.zt=new A.bK("assets/images/roulette1M.png",null,null)
 B.zu=new A.bK("assets/images/roulette250.png",null,null)
-B.zv=new A.bK("assets/images/palm_jumeirah.jpg",null,null)
-B.zw=new A.bK("assets/images/bomb.png",null,null)
-B.zx=new A.bK("assets/images/oil_derrick_sea.jpeg",null,null)
-B.zy=new A.bK("assets/images/rb_pointer2.png",null,null)
-B.zz=new A.bK("assets/images/rb_roulette.png",null,null)
-B.zA=new A.bK("assets/images/dubai_yacht.jpg",null,null)
-B.zB=new A.bK("assets/images/restaurant1.jpg",null,null)
-B.zC=new A.bK("assets/images/restaurant2.jpg",null,null)
-B.zD=new A.bK("assets/images/restaurant3.jpg",null,null)
-B.zE=new A.bK("assets/images/car_expensive_porsche.jpg",null,null)
-B.zF=new A.bK("assets/images/oil_derricks_small.jpeg",null,null)
-B.zG=new A.bK("assets/images/car_expensive_lambo.jpg",null,null)
-B.zH=new A.bK("assets/images/wheel_icon2.png",null,null)
+B.zv=new A.bK("assets/images/background.jpg",null,null)
+B.zw=new A.bK("assets/images/palm_jumeirah.jpg",null,null)
+B.zx=new A.bK("assets/images/bomb.png",null,null)
+B.zy=new A.bK("assets/images/oil_derrick_sea.jpeg",null,null)
+B.zz=new A.bK("assets/images/rb_pointer2.png",null,null)
+B.zA=new A.bK("assets/images/rb_roulette.png",null,null)
+B.zB=new A.bK("assets/images/dubai_yacht.jpg",null,null)
+B.zC=new A.bK("assets/images/restaurant1.jpg",null,null)
+B.zD=new A.bK("assets/images/restaurant2.jpg",null,null)
+B.zE=new A.bK("assets/images/restaurant3.jpg",null,null)
+B.zF=new A.bK("assets/images/car_expensive_porsche.jpg",null,null)
+B.zG=new A.bK("assets/images/oil_derricks_small.jpeg",null,null)
+B.zH=new A.bK("assets/images/car_expensive_lambo.jpg",null,null)
+B.zI=new A.bK("assets/images/wheel_icon2.png",null,null)
 B.kW=new A.bK("assets/images/the_island2.jpg",null,null)
-B.zI=new A.bK("assets/images/car_expensive_ferrari.jpg",null,null)
-B.zJ=new A.bK("assets/images/roulette100.png",null,null)
-B.zK=new A.bK("assets/images/roulette500.png",null,null)
+B.zJ=new A.bK("assets/images/car_expensive_ferrari.jpg",null,null)
+B.zK=new A.bK("assets/images/roulette100.png",null,null)
+B.zL=new A.bK("assets/images/roulette500.png",null,null)
 B.kX=new A.bK("assets/images/game_background.jpg",null,null)
-B.zL=new A.bK("assets/images/ain_dubai.jpg",null,null)
-B.zM=new A.bK("assets/images/roulette10M_.png",null,null)
-B.zN=new A.bK("assets/images/background_20_01.jpg",null,null)
+B.zM=new A.bK("assets/images/ain_dubai.jpg",null,null)
+B.zN=new A.bK("assets/images/roulette10M_.png",null,null)
 B.zO=new A.bK("assets/images/icon_roulette_rb.png",null,null)
 B.zP=new A.bK("assets/images/gold.png",null,null)
 B.zQ=new A.bK("assets/images/roulette50.png",null,null)
