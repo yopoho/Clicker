@@ -25458,7 +25458,7 @@ s=a*100
 r=B.c.ab((s<0?Math.ceil(s):Math.floor(s))/100,2)
 s=A.cU("([.]*0+$)",!0,!1)
 return A.bJ(r,s,"")},
-aB6(){var s="assets/images/background_evening__.jpg",r=new A.d8(Date.now(),0,!1).zU()
+aB6(){var s="assets/images/background_evening.jpg",r=new A.d8(Date.now(),0,!1).zU()
 if(A.asO(r)>=17)return s
 else if(A.asO(r)>=3)return"assets/images/background2.jpg"
 else return s},
@@ -81075,10 +81075,10 @@ H6(){var s=0,r=A.B(t.H),q=this,p
 var $async$H6=A.C(function(a,b){if(a===1)return A.y(b,r)
 while(true)switch(s){case 0:p=q.c
 p.toString
-A.c2(B.zP,p)
+A.c2(B.zQ,p)
 p=q.c
 p.toString
-A.c2(B.zZ,p)
+A.c2(B.zy,p)
 p=q.c
 p.toString
 A.c2(B.kX,p)
@@ -81090,7 +81090,7 @@ p.toString
 A.c2(B.kV,p)
 p=q.c
 p.toString
-A.c2(B.zO,p)
+A.c2(B.zP,p)
 p=q.c
 p.toString
 A.c2(B.zw,p)
@@ -81099,40 +81099,37 @@ p.toString
 A.c2(B.A_,p)
 p=q.c
 p.toString
+A.c2(B.zA,p)
+p=q.c
+p.toString
 A.c2(B.zz,p)
 p=q.c
 p.toString
-A.c2(B.zy,p)
+A.c2(B.zI,p)
 p=q.c
 p.toString
-A.c2(B.zH,p)
+A.c2(B.zO,p)
 p=q.c
 p.toString
-A.c2(B.zN,p)
-p=q.c
-p.toString
-A.c2(B.zQ,p)
-p=q.c
-p.toString
-A.c2(B.zJ,p)
-p=q.c
-p.toString
-A.c2(B.zu,p)
+A.c2(B.zR,p)
 p=q.c
 p.toString
 A.c2(B.zK,p)
 p=q.c
 p.toString
+A.c2(B.zu,p)
+p=q.c
+p.toString
+A.c2(B.zL,p)
+p=q.c
+p.toString
 A.c2(B.zt,p)
 p=q.c
 p.toString
-A.c2(B.zM,p)
+A.c2(B.zN,p)
 p=q.c
 p.toString
-A.c2(B.zY,p)
-p=q.c
-p.toString
-A.c2(B.zV,p)
+A.c2(B.zZ,p)
 p=q.c
 p.toString
 A.c2(B.zW,p)
@@ -81141,16 +81138,16 @@ p.toString
 A.c2(B.zX,p)
 p=q.c
 p.toString
-A.c2(B.zG,p)
+A.c2(B.zY,p)
 p=q.c
 p.toString
-A.c2(B.zI,p)
+A.c2(B.zH,p)
 p=q.c
 p.toString
-A.c2(B.zE,p)
+A.c2(B.zJ,p)
 p=q.c
 p.toString
-A.c2(B.zB,p)
+A.c2(B.zF,p)
 p=q.c
 p.toString
 A.c2(B.zC,p)
@@ -81159,7 +81156,7 @@ p.toString
 A.c2(B.zD,p)
 p=q.c
 p.toString
-A.c2(B.zR,p)
+A.c2(B.zE,p)
 p=q.c
 p.toString
 A.c2(B.zS,p)
@@ -81171,19 +81168,22 @@ p.toString
 A.c2(B.zU,p)
 p=q.c
 p.toString
-A.c2(B.zF,p)
+A.c2(B.zV,p)
+p=q.c
+p.toString
+A.c2(B.zG,p)
 p=q.c
 p.toString
 A.c2(B.zx,p)
 p=q.c
 p.toString
-A.c2(B.zL,p)
+A.c2(B.zM,p)
 p=q.c
 p.toString
 A.c2(B.zv,p)
 p=q.c
 p.toString
-A.c2(B.zA,p)
+A.c2(B.zB,p)
 return A.z(null,r)}})
 return A.A($async$H6,r)},
 l(){var s=this.as
@@ -85851,36 +85851,36 @@ B.zu=new A.bE("assets/images/roulette250.png",null,null)
 B.zv=new A.bE("assets/images/palm_jumeirah.jpg",null,null)
 B.zw=new A.bE("assets/images/bomb.png",null,null)
 B.zx=new A.bE("assets/images/oil_derrick_sea.jpeg",null,null)
-B.zy=new A.bE("assets/images/rb_pointer2.png",null,null)
-B.zz=new A.bE("assets/images/rb_roulette.png",null,null)
-B.zA=new A.bE("assets/images/dubai_yacht.jpg",null,null)
-B.zB=new A.bE("assets/images/restaurant1.jpg",null,null)
-B.zC=new A.bE("assets/images/restaurant2.jpg",null,null)
-B.zD=new A.bE("assets/images/restaurant3.jpg",null,null)
-B.zE=new A.bE("assets/images/car_expensive_porsche.jpg",null,null)
-B.zF=new A.bE("assets/images/oil_derricks_small.jpeg",null,null)
-B.zG=new A.bE("assets/images/car_expensive_lambo.jpg",null,null)
-B.zH=new A.bE("assets/images/wheel_icon2.png",null,null)
+B.zy=new A.bE("assets/images/background_evening.jpg",null,null)
+B.zz=new A.bE("assets/images/rb_pointer2.png",null,null)
+B.zA=new A.bE("assets/images/rb_roulette.png",null,null)
+B.zB=new A.bE("assets/images/dubai_yacht.jpg",null,null)
+B.zC=new A.bE("assets/images/restaurant1.jpg",null,null)
+B.zD=new A.bE("assets/images/restaurant2.jpg",null,null)
+B.zE=new A.bE("assets/images/restaurant3.jpg",null,null)
+B.zF=new A.bE("assets/images/car_expensive_porsche.jpg",null,null)
+B.zG=new A.bE("assets/images/oil_derricks_small.jpeg",null,null)
+B.zH=new A.bE("assets/images/car_expensive_lambo.jpg",null,null)
+B.zI=new A.bE("assets/images/wheel_icon2.png",null,null)
 B.kV=new A.bE("assets/images/the_island2.jpg",null,null)
-B.zI=new A.bE("assets/images/car_expensive_ferrari.jpg",null,null)
-B.zJ=new A.bE("assets/images/roulette100.png",null,null)
-B.zK=new A.bE("assets/images/roulette500.png",null,null)
+B.zJ=new A.bE("assets/images/car_expensive_ferrari.jpg",null,null)
+B.zK=new A.bE("assets/images/roulette100.png",null,null)
+B.zL=new A.bE("assets/images/roulette500.png",null,null)
 B.kW=new A.bE("assets/images/game_background.jpg",null,null)
-B.zL=new A.bE("assets/images/ain_dubai.jpg",null,null)
-B.zM=new A.bE("assets/images/roulette10M_.png",null,null)
-B.zN=new A.bE("assets/images/icon_roulette_rb.png",null,null)
-B.zO=new A.bE("assets/images/gold.png",null,null)
-B.zP=new A.bE("assets/images/background2.jpg",null,null)
-B.zQ=new A.bE("assets/images/roulette50.png",null,null)
-B.zR=new A.bE("assets/images/hotel1.jpg",null,null)
-B.zS=new A.bE("assets/images/hotel2.jpg",null,null)
-B.zT=new A.bE("assets/images/hotel3.jpg",null,null)
-B.zU=new A.bE("assets/images/burj_khalifa.jpg",null,null)
-B.zV=new A.bE("assets/images/car1.jpg",null,null)
-B.zW=new A.bE("assets/images/car2.jpg",null,null)
-B.zX=new A.bE("assets/images/car3.jpg",null,null)
-B.zY=new A.bE("assets/images/roulette_pointer2.png",null,null)
-B.zZ=new A.bE("assets/images/background_evening__.jpg",null,null)
+B.zM=new A.bE("assets/images/ain_dubai.jpg",null,null)
+B.zN=new A.bE("assets/images/roulette10M_.png",null,null)
+B.zO=new A.bE("assets/images/icon_roulette_rb.png",null,null)
+B.zP=new A.bE("assets/images/gold.png",null,null)
+B.zQ=new A.bE("assets/images/background2.jpg",null,null)
+B.zR=new A.bE("assets/images/roulette50.png",null,null)
+B.zS=new A.bE("assets/images/hotel1.jpg",null,null)
+B.zT=new A.bE("assets/images/hotel2.jpg",null,null)
+B.zU=new A.bE("assets/images/hotel3.jpg",null,null)
+B.zV=new A.bE("assets/images/burj_khalifa.jpg",null,null)
+B.zW=new A.bE("assets/images/car1.jpg",null,null)
+B.zX=new A.bE("assets/images/car2.jpg",null,null)
+B.zY=new A.bE("assets/images/car3.jpg",null,null)
+B.zZ=new A.bE("assets/images/roulette_pointer2.png",null,null)
 B.A_=new A.bE("assets/images/rb_roulette_border.png",null,null)
 B.kX=new A.bE("assets/images/background_wheel.jpg",null,null)
 B.kY=new A.nO(0,"log")
