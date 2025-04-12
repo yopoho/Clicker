@@ -80344,7 +80344,7 @@ o=A.Gg(p,B.q,p,p,A.kx(p,B.ef,p,new A.ajb(q,a),p,p),o)
 s=$.a_().hC(0,0,B.aw)
 r=q.e
 r===$&&A.a()
-return A.zM(o,B.j,new A.IZ(s,A.bW(p,A.id(r,new A.ajc(q),p),B.p,p,p,B.As,p,p,p,p),p),!0,p)},
+return A.zM(o,B.j,new A.IZ(s,A.bW(p,A.id(r,new A.ajc(q),p),B.p,p,p,B.At,p,p,p,p),p),!0,p)},
 aeK(a,b){var s=null,r=a.b,q=r?35:70,p=r?35:77
 r=r?"assets/images/bomb.png":"assets/images/gold.png"
 return A.mF(s,A.h0(s,A.Bb(0,A.ey(r,B.f1,p*1.1,q*1.1)),B.a5,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.aj7(this,a),s,s,s,s),s,new A.jM(a.c,t.f3),a.a,s,b,s)}}
@@ -81081,13 +81081,13 @@ p.toString
 A.c2(B.zZ,p)
 p=q.c
 p.toString
+A.c2(B.kV,p)
+p=q.c
+p.toString
 A.c2(B.kX,p)
 p=q.c
 p.toString
 A.c2(B.kW,p)
-p=q.c
-p.toString
-A.c2(B.kV,p)
 p=q.c
 p.toString
 A.c2(B.zO,p)
@@ -82241,7 +82241,7 @@ p=n.ch
 p.toString
 if(p>=20)q.push(n.aj3(a))
 l=A.Gg(q,B.q,!0,0,s,l)
-s=A.M_(A.bW(m,m,B.p,m,m,B.At,m,m,m,m))
+s=A.M_(A.bW(m,m,B.p,m,m,B.As,m,m,m,m))
 q=$.a_().hC(0,0,B.aw)
 q=A.b([s,A.z_(0,A.ig(A.bW(m,m,B.p,A.R(0,0,0,0),m,m,m,m,m,m),q)),new A.dv(B.zo,m,m,new A.b1(B.eb,n.aba(a),m),m)],r)
 s=n.y
@@ -85857,15 +85857,16 @@ B.zA=new A.bE("assets/images/dubai_yacht.jpg",null,null)
 B.zB=new A.bE("assets/images/restaurant1.jpg",null,null)
 B.zC=new A.bE("assets/images/restaurant2.jpg",null,null)
 B.zD=new A.bE("assets/images/restaurant3.jpg",null,null)
+B.kV=new A.bE("assets/images/background_wheel2.jpg",null,null)
 B.zE=new A.bE("assets/images/car_expensive_porsche.jpg",null,null)
 B.zF=new A.bE("assets/images/oil_derricks_small.jpeg",null,null)
 B.zG=new A.bE("assets/images/car_expensive_lambo.jpg",null,null)
 B.zH=new A.bE("assets/images/wheel_icon2.png",null,null)
-B.kV=new A.bE("assets/images/the_island2.jpg",null,null)
+B.kW=new A.bE("assets/images/the_island2.jpg",null,null)
 B.zI=new A.bE("assets/images/car_expensive_ferrari.jpg",null,null)
 B.zJ=new A.bE("assets/images/roulette100.png",null,null)
 B.zK=new A.bE("assets/images/roulette500.png",null,null)
-B.kW=new A.bE("assets/images/game_background.jpg",null,null)
+B.kX=new A.bE("assets/images/game_background.jpg",null,null)
 B.zL=new A.bE("assets/images/ain_dubai.jpg",null,null)
 B.zM=new A.bE("assets/images/roulette10M_.png",null,null)
 B.zN=new A.bE("assets/images/icon_roulette_rb.png",null,null)
@@ -85882,7 +85883,6 @@ B.zX=new A.bE("assets/images/car3.jpg",null,null)
 B.zY=new A.bE("assets/images/roulette_pointer2.png",null,null)
 B.zZ=new A.bE("assets/images/background_evening__.jpg",null,null)
 B.A_=new A.bE("assets/images/rb_roulette_border.png",null,null)
-B.kX=new A.bE("assets/images/background_wheel.jpg",null,null)
 B.kY=new A.nO(0,"log")
 B.i2=new A.nO(1,"duration")
 B.kZ=new A.nO(2,"seekComplete")
@@ -85965,11 +85965,11 @@ B.Ar=new A.bZ(null,null,null,null,null,B.Gk,B.N)
 B.b6=new A.qN(2,"cover")
 B.bO=new A.rB(3,"noRepeat")
 B.bs=new A.og(2,"medium")
-B.DV=new A.lW(B.kW)
-B.As=new A.bZ(null,B.DV,null,null,null,null,B.N)
-B.DU=new A.lW(B.kX)
-B.At=new A.bZ(null,B.DU,null,null,null,null,B.N)
-B.DT=new A.lW(B.kV)
+B.DU=new A.lW(B.kV)
+B.As=new A.bZ(null,B.DU,null,null,null,null,B.N)
+B.DV=new A.lW(B.kX)
+B.At=new A.bZ(null,B.DV,null,null,null,null,B.N)
+B.DT=new A.lW(B.kW)
 B.Au=new A.bZ(null,B.DT,null,null,null,null,B.N)
 B.BO=new A.k(1006632960)
 B.Kz=new A.i(0,4)
