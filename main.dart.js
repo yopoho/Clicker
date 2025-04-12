@@ -25449,9 +25449,10 @@ if(r<1e6){s=A.dY("#,##0","en_US").eh(a)
 return A.bJ(s,","," ")}else if(r<1e9)return A.aAe(a/1e6)+"M"
 else if(r<1e12)return A.aAe(a/1e9)+"B"
 else return A.aIF(B.e.bU(a,1e9))+"B"},
-aIF(a){var s,r,q,p=B.e.k(a)
-for(s=p.length-1,r=0,q="";s>=0;--s){q+=p[s];++r
-if(r%3===0&&s!==0)q+=" "}return new A.cl(A.b((q.charCodeAt(0)==0?q:q).split(""),t.s),t.Rr).nl(0)},
+aIF(a){var s,r,q,p,o=B.e.k(Math.abs(a))
+for(s=o.length-1,r=0,q="";s>=0;--s){q+=o[s];++r
+if(r%3===0&&s!==0)q+=" "}p=new A.cl(A.b((q.charCodeAt(0)==0?q:q).split(""),t.s),t.Rr).nl(0)
+return a<0?"-"+p:p},
 aAe(a){var s,r
 if(a===(a<0?Math.ceil(a):Math.floor(a)))return B.e.k(B.c.a3(a))
 s=a*100
