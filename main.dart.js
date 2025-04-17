@@ -25459,7 +25459,7 @@ s=a*100
 r=B.c.ab((s<0?Math.ceil(s):Math.floor(s))/100,2)
 s=A.cU("([.]*0+$)",!0,!1)
 return A.bJ(r,s,"")},
-aB6(){var s="assets/images/background_evening.jpg",r=new A.d8(Date.now(),0,!1).zU()
+aB6(){var s="assets/images/background_evening2.jpg",r=new A.d8(Date.now(),0,!1).zU()
 if(A.asO(r)>=17)return s
 else if(A.asO(r)>=3)return"assets/images/background3.jpg"
 else return s},
@@ -81079,7 +81079,7 @@ p.toString
 A.c2(B.zQ,p)
 p=q.c
 p.toString
-A.c2(B.zy,p)
+A.c2(B.zt,p)
 p=q.c
 p.toString
 A.c2(B.kV,p)
@@ -81094,7 +81094,7 @@ p.toString
 A.c2(B.zP,p)
 p=q.c
 p.toString
-A.c2(B.zw,p)
+A.c2(B.zx,p)
 p=q.c
 p.toString
 A.c2(B.A_,p)
@@ -81118,13 +81118,13 @@ p.toString
 A.c2(B.zK,p)
 p=q.c
 p.toString
-A.c2(B.zu,p)
+A.c2(B.zv,p)
 p=q.c
 p.toString
 A.c2(B.zL,p)
 p=q.c
 p.toString
-A.c2(B.zt,p)
+A.c2(B.zu,p)
 p=q.c
 p.toString
 A.c2(B.zN,p)
@@ -81175,13 +81175,13 @@ p.toString
 A.c2(B.zG,p)
 p=q.c
 p.toString
-A.c2(B.zx,p)
+A.c2(B.zy,p)
 p=q.c
 p.toString
 A.c2(B.zM,p)
 p=q.c
 p.toString
-A.c2(B.zv,p)
+A.c2(B.zw,p)
 p=q.c
 p.toString
 A.c2(B.zB,p)
@@ -85858,12 +85858,12 @@ B.zr=new A.XK(!1,127)
 B.zs=new A.XL(127)
 B.i0=new A.w0(0,"polite")
 B.i1=new A.w0(1,"assertive")
-B.zt=new A.bE("assets/images/roulette1M.png",null,null)
-B.zu=new A.bE("assets/images/roulette250.png",null,null)
-B.zv=new A.bE("assets/images/palm_jumeirah.jpg",null,null)
-B.zw=new A.bE("assets/images/bomb.png",null,null)
-B.zx=new A.bE("assets/images/oil_derrick_sea.jpeg",null,null)
-B.zy=new A.bE("assets/images/background_evening.jpg",null,null)
+B.zt=new A.bE("assets/images/background_evening2.jpg",null,null)
+B.zu=new A.bE("assets/images/roulette1M.png",null,null)
+B.zv=new A.bE("assets/images/roulette250.png",null,null)
+B.zw=new A.bE("assets/images/palm_jumeirah.jpg",null,null)
+B.zx=new A.bE("assets/images/bomb.png",null,null)
+B.zy=new A.bE("assets/images/oil_derrick_sea.jpeg",null,null)
 B.zz=new A.bE("assets/images/rb_pointer2.png",null,null)
 B.zA=new A.bE("assets/images/rb_roulette.png",null,null)
 B.zB=new A.bE("assets/images/dubai_yacht.jpg",null,null)
