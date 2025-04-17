@@ -25461,7 +25461,7 @@ s=A.cU("([.]*0+$)",!0,!1)
 return A.bJ(r,s,"")},
 aB6(){var s="assets/images/background_evening__.jpg",r=new A.d8(Date.now(),0,!1).zU()
 if(A.asO(r)>=17)return s
-else if(A.asO(r)>=3)return"assets/images/background2.jpg"
+else if(A.asO(r)>=3)return"assets/images/background3.jpg"
 else return s},
 bl(a,b,c,d,e,f){var s=null,r=$.a_().aW()
 r.sdk(0,B.aC)
@@ -80476,7 +80476,7 @@ r.d=s
 r.ya()},
 L(d0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0=this,a1=null,a2="\u0434\u043b\u044f \u0441\u0434\u0430\u0447\u0438 \u0432 \u0430\u0440\u0435\u043d\u0434\u0443.",a3="\u0426\u0435\u043d\u0430:",a4="\u0414\u043e\u0445\u043e\u0434:",a5="car_expensive_ferrari",a6="restaurant1",a7="restaurant3",a8="dubai_yacht",a9="burj_khalifa",b0="oil_derrick_sea",b1="palm_jumeirah",b2="25 000 000 000",b3="emirates",b4="rb_stocks_2",b5="assets/images/rb_investment.jpg",b6="\u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438 The Island",b7="\u0411\u043e\u043d\u0443\u0441 \u043f\u0440\u043e\u0438\u0433\u0440\u044b\u0448\u0430:",b8="rb_stocks_10",b9="car_expensive_porsche",c0="car_expensive_lambo",c1="restaurant2",c2="20 000 000",c3="ain_dubai",c4="oil_derricks_small",c5="dubai_mall",c6="dubai_tree",c7="rb_stocks_5",c8="rb_stocks_30",c9=A.bl("\u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438",27,B.k,B.j,3,B.i)
 c9=A.Gg(a1,B.q,!0,0,A.kx(a1,B.ef,a1,new A.akh(a0),a1,a1),c9)
-s=A.M_(A.ey("assets/images/background2.jpg",B.b6,a1,a1))
+s=A.M_(A.ey("assets/images/background3.jpg",B.b6,a1,a1))
 r=$.a_().hC(0.33,0.33,B.aw)
 r=A.z_(0,A.ig(A.bW(a1,a1,B.p,A.R(0,0,0,0),a1,a1,a1,a1,a1,a1),r))
 q=t.p
@@ -85883,7 +85883,7 @@ B.zL=new A.bE("assets/images/ain_dubai.jpg",null,null)
 B.zM=new A.bE("assets/images/roulette10M_.png",null,null)
 B.zN=new A.bE("assets/images/icon_roulette_rb.png",null,null)
 B.zO=new A.bE("assets/images/gold.png",null,null)
-B.zP=new A.bE("assets/images/background2.jpg",null,null)
+B.zP=new A.bE("assets/images/background3.jpg",null,null)
 B.zQ=new A.bE("assets/images/roulette50.png",null,null)
 B.zR=new A.bE("assets/images/hotel1.jpg",null,null)
 B.zS=new A.bE("assets/images/hotel2.jpg",null,null)
