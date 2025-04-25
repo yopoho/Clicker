@@ -25446,7 +25446,8 @@ if(a.charCodeAt(s)!==47)return q
 return b+3},
 WM(a,b){var s
 if(a==null)return 1
-s=a>=1?B.c.f0(Math.log(a)/0.6931471805599453)+1:b
+if(a>=1)s=B.c.f0(Math.log(a)/Math.log(2))+1
+else s=b
 return Math.max(s,b)},
 aB3(a){var s,r=Math.abs(a)
 if(r<1e6){s=A.dY("#,##0","en_US").ei(a)
@@ -80958,7 +80959,7 @@ if(!q.j(g,0)){l=q.nN(g,0)?"+"+s:s
 n.push(A.dS(A.dh(l,k,k,k,A.f6(k,k,q.nF(g,0)?B.C6:B.cI,k,k,k,k,k,k,k,k,10.5,k,k,B.a_,k,k,!0,k,k,k,k,k,k,k,k),k,k,k),k,k))}return new A.fF(new A.bZ(r,k,k,k,k,k,B.N),A.b([new A.b1(B.fn,p,k),new A.b1(B.fn,o,k),new A.b1(B.fn,A.ea(n,B.H,B.cb,B.P),k),new A.b1(B.fn,A.dS(A.bl(J.du(h.h(i,"level")),16,B.k,B.j,1.75,B.i),k,k),k)],m))},
 $S:505}
 A.Jn.prototype={
-aeT(a,b){if(a>=1)return Math.max(b,B.c.f0(Math.log(a)/0.6931471805599453)+1)
+aeT(a,b){if(a>=1)return Math.max(b,B.c.f0(Math.log(a)/Math.log(2))+1)
 return b},
 aeU(a,b){var s,r=B.c.a2(Math.pow(2,(a<=0?1:B.c.a2(Math.log(a)/Math.log(2)))-1))
 if(b===1)r=0
