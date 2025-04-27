@@ -24102,7 +24102,7 @@ _.f=a
 _.r=b
 _.w=0
 _.y=_.x=null
-_.z=120
+_.z=60
 _.at=_.as=_.Q=0
 _.ax=$
 _.ay=null
@@ -80285,7 +80285,7 @@ s.toString
 s=A.pp(s,p)}else s=p
 q.ay=s
 s=q.ax
-if(B.d.bj(s,"f00b33")||B.d.bj(s,"e4638")||B.d.bj(s,"98fd8")||B.d.bj(s,"814f4a"))if(s.length!==0)A.FD(s,300*q.uP())
+if(B.d.bj(s,"f00b33")||B.d.bj(s,"e4638")||B.d.bj(s,"98fd8")||B.d.bj(s,"814f4a"))if(s.length!==0)A.FD(s,150*q.uP())
 A.eZ(B.t,new A.ajg(q),t.P)},
 l(){var s,r=this
 $.a8.jT(r)
@@ -80319,9 +80319,7 @@ Vs(a){if(a<10)return 425
 if(a<20)return 387.5
 if(a<30)return 367.5
 if(a<45)return 325
-if(a<60)return 300
-if(a<90)return 300
-if(a<105)return 275
+if(a<=60)return 300
 return 250},
 IA(){var s=this.x
 if(s!=null)s.ap(0)
@@ -80338,11 +80336,11 @@ else A.K_(a,A.yr(new A.ajd(),null,t.z))
 this.ahh(0)},
 aiE(a){this.Z(new A.ajf(this,a))},
 uP(){var s=this.ay
-if(s==null)return 100
-if(s<=22)return 100
-else return B.c.a2(100*Math.pow(2,s-22))},
+if(s==null)return 200
+if(s<=22)return 200
+else return 2*B.c.a2(100*Math.pow(2,s-22))},
 alC(a,b){var s
-if(a.length!==0&&b>=0&&b<=300*this.uP())try{A.FD(a,b)}catch(s){A.FD(a,b)}},
+if(a.length!==0&&b>=0&&b<=150*this.uP())try{A.FD(a,b)}catch(s){A.FD(a,b)}},
 L(a){var s,r,q=this,p=null,o=q.w
 o=A.dY("#,##0","en_US").ei(o)
 o=A.en(A.b([A.bl("\u0421\u0447\u0451\u0442: "+A.bJ(o,","," "),18,B.k,B.j,3,B.i)],t.p),B.H,B.fU,B.P)
@@ -80364,12 +80362,12 @@ r.Ag(q)}},
 $S:13}
 A.ajn.prototype={
 $1(a){var s,r,q,p,o,n=this.a
-if(n.z>0||n.at<300){s=n.r
+if(n.z>0||n.at<150){s=n.r
 r=s.akm()
 q=n.c
 q.toString
 q=A.bv(q,null,t.w).w
-if(n.at<300){s=s.GM(100)
+if(n.at<150){s=s.GM(100)
 p=s<=(n.z>=15?15:-1)}else p=!0
 o=n.Vs(n.z)
 if(!p)++n.at
