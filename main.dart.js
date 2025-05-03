@@ -25496,7 +25496,7 @@ s=a*100
 r=B.c.af((s<0?Math.ceil(s):Math.floor(s))/100,2)
 s=A.cT("([.]*0+$)",!0,!1)
 return A.bH(r,s,"")},
-aBn(){var s="assets/images/main_background.jpg",r=new A.dd(Date.now(),0,!1)
+aBn(){var s="assets/images/main_background_2.jpg",r=new A.dd(Date.now(),0,!1)
 if(A.at0(r)>=18)return s
 else if(A.at0(r)>=5)return s
 else return s},
@@ -80710,7 +80710,7 @@ r.d=s
 r.y7()},
 L(a){var s,r,q,p,o,n,m,l=this,k=null,j=A.bO("\u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438",27,B.l,B.k,3,B.i)
 j=A.Gj(k,B.q,!0,0,A.ky(k,B.e8,k,new A.akw(l),k,k),j)
-s=A.M3(A.eY("assets/images/main_background.jpg",B.b6,k,k))
+s=A.M3(A.eY("assets/images/main_background_2.jpg",B.b6,k,k))
 r=$.a0().hE(0.33,0.33,B.av)
 r=A.pm(0,A.hy(A.bN(k,k,B.n,A.R(0,0,0,0),k,k,k,k,k,k),r))
 q=t.p
@@ -81245,7 +81245,7 @@ H5(){var s=0,r=A.B(t.H),q=this,p
 var $async$H5=A.C(function(a,b){if(a===1)return A.y(b,r)
 while(true)switch(s){case 0:p=q.c
 p.toString
-A.di(B.zC,p)
+A.di(B.zy,p)
 p=q.c
 p.toString
 A.di(B.kV,p)
@@ -81260,16 +81260,16 @@ p.toString
 A.di(B.zx,p)
 p=q.c
 p.toString
-A.di(B.zy,p)
+A.di(B.zz,p)
 p=q.c
 p.toString
 A.di(B.zQ,p)
 p=q.c
 p.toString
-A.di(B.zA,p)
+A.di(B.zB,p)
 p=q.c
 p.toString
-A.di(B.zz,p)
+A.di(B.zA,p)
 p=q.c
 p.toString
 A.di(B.zD,p)
@@ -86047,10 +86047,10 @@ B.zu=new A.cs("assets/images/car1_.jpg.",null,null)
 B.zv=new A.cs("assets/images/roulette1M.png",null,null)
 B.zw=new A.cs("assets/images/roulette250.png",null,null)
 B.zx=new A.cs("assets/images/bomb.png",null,null)
-B.zy=new A.cs("assets/images/bomb_vegas.png",null,null)
-B.zz=new A.cs("assets/images/rb_pointer2.png",null,null)
-B.zA=new A.cs("assets/images/rb_roulette.png",null,null)
-B.zC=new A.cs("assets/images/main_background.jpg",null,null)
+B.zy=new A.cs("assets/images/main_background_2.jpg",null,null)
+B.zz=new A.cs("assets/images/bomb_vegas.png",null,null)
+B.zA=new A.cs("assets/images/rb_pointer2.png",null,null)
+B.zB=new A.cs("assets/images/rb_roulette.png",null,null)
 B.kV=new A.cs("assets/images/wheel_background.jpg",null,null)
 B.zD=new A.cs("assets/images/wheel_icon2.png",null,null)
 B.zE=new A.cs("assets/images/roulette100.png",null,null)
@@ -86157,11 +86157,11 @@ B.FL=new A.mp(B.cT,B.dJ,B.av,B.H0,null,null)
 B.Ai=new A.bT(null,null,null,null,null,B.FL,B.I)
 B.Co=new A.o(4291059506)
 B.Aj=new A.bT(B.Co,null,null,null,null,null,B.I)
-B.zB=new A.cs("assets/images/rb_background_2.jpg",null,null)
+B.zC=new A.cs("assets/images/rb_background_2.jpg",null,null)
 B.b6=new A.qM(2,"cover")
 B.bN=new A.rB(3,"noRepeat")
 B.bq=new A.og(2,"medium")
-B.Dq=new A.lZ(B.zB)
+B.Dq=new A.lZ(B.zC)
 B.Ak=new A.bT(null,B.Dq,null,null,null,null,B.I)
 B.Dp=new A.lZ(B.kW)
 B.Al=new A.bT(null,B.Dp,null,null,null,null,B.I)
