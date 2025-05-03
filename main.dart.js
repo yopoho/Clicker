@@ -81489,7 +81489,7 @@ if($.auh==null)$.auh=Date.now()
 else{s=Date.now()
 r=$.auh
 r.toString
-if(s-r>72e5){A.b7("Updating the old game")
+if(s-r>108e5){A.b7("Updating the old game")
 s=window.location.href
 s.toString
 q=A.cJ(s,0,l)
