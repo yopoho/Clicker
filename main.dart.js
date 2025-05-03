@@ -81245,9 +81245,9 @@ if(f.f===-1)m=""
 else{l=A.dY(d,c).eh(25e3)
 m=A.bH(l,","," ")}q.push(A.hg(A.b([p,n,A.bO(m,20,B.l,B.k,3,B.i)],s),B.L,B.c6,B.a2))}q=A.dT(A.eh(q,B.L,B.c6,B.a2),e,e)
 p=f.w
-p=A.bO(p==null?"":p,20,B.l,B.k,2.75,B.i)
+p=A.bO(p==null?"":p,19,B.l,B.k,2.75,B.i)
 n=f.e
-p=A.pl(e,new A.b0(B.E9,A.hg(A.b([p,A.bO(n===-1?"":"\u0423\u0440\u043e\u0432\u0435\u043d\u044c: "+n,20,B.l,B.k,2.75,B.i)],s),B.L,B.fS,B.a2),e),e,e,0,0,0,e)
+p=A.pl(e,new A.b0(B.E9,A.hg(A.b([p,A.bO(n===-1?"":"\u0423\u0440\u043e\u0432\u0435\u043d\u044c: "+n,19,B.l,B.k,2.75,B.i)],s),B.L,B.fS,B.a2),e),e,e,0,0,0,e)
 n=f.d
 n=A.f5(f.a89(a0),!1,!1,!1,!1,n!=null)
 l=f.d
