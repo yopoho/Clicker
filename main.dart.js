@@ -81114,7 +81114,7 @@ o=A.di(A.by(B.d.kY(o+" "+A.j(n==null?"":n)),13,B.l,B.j,1.75,B.i),k,k)
 q=A.di(A.by(q.ai8(h.h(i,"score")),15,B.l,B.j,1.75,B.i),k,k)
 n=h.h(i,"income")
 m=t.p
-n=A.b([q,B.eI,A.di(A.dq("\u0414\u043e\u0445\u043e\u0434: +"+A.aBn(n==null?0:n),k,k,k,B.RR,k,k,k),k,k)],m)
+n=A.b([q,B.eI,A.di(A.dq("\u0414\u043e\u0445\u043e\u0434: "+A.aBn(n==null?0:n),k,k,k,B.RR,k,k,k),k,k)],m)
 q=J.hx(g)
 if(!q.j(g,0))n.push(B.eI)
 if(!q.j(g,0)){l=q.nL(g,0)?"+"+s:s
