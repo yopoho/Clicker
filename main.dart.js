@@ -81898,7 +81898,7 @@ r=A.ky(i,B.e8,i,new A.abE(j),i,i)
 q=t.p
 s=A.Gj(A.b([j.Wv(a)],q),B.q,!0,0,r,s)
 r=A.M3(A.bJ(i,i,B.n,i,i,B.Ao,i,i,i,i))
-p=$.a0().hE(0.5,0.5,B.ar)
+p=$.a0().hE(0.3,0.3,B.ar)
 p=A.pm(0,A.hz(A.bJ(i,i,B.n,A.R(0,0,0,0),i,i,i,i,i,i),p))
 o=j.dy
 if(o!=null){o=A.dY("#,##0","en_US").eh(o)
