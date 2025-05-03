@@ -82426,7 +82426,7 @@ if(r!=null)return A.bP("\u041e\u0441\u0442\u0430\u043b\u043e\u0441\u044c \u0441\
 else return B.yV}},
 Q7(){var s,r,q,p={}
 if(this.y===0){s=new A.dd(Date.now(),0,!1).Hy()
-r=A.wR(A.td(s),A.tc(s),A.tb(s),5)
+r=A.wR(A.td(s),A.tc(s),A.tb(s),1)
 q=A.wR(A.td(s),A.tc(s),A.tb(s),15)
 p.a=null
 if(s.tU(r))p.a=r
