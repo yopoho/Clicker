@@ -81345,7 +81345,7 @@ if(p!=null&&p>=0)q.push(B.eI)
 p=e.d
 if(p!=null&&p>=0){p=A.aQr($.WV)
 p=A.dZ(c,b).eh(p)
-q.push(A.by("\u0414\u043e\u0445\u043e\u0434: +"+A.bJ(p,","," "),15,B.l,B.j,2.25,B.i))}q.push(B.NZ)
+q.push(A.by("\u0414\u043e\u0445\u043e\u0434: "+A.bJ(p,","," "),15,B.l,B.j,2.25,B.i))}q.push(B.NZ)
 if(e.e<25)q.push(e.a8u())
 if(e.e<25)q.push(B.ym)
 if(e.e<25){p=e.f
