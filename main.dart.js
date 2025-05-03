@@ -81611,12 +81611,12 @@ p.aM()
 p.Q=$.WQ
 p.dy=$.ib
 s=A.id(n)
-if((s==null?0:s)<=3){window.localStorage.setItem("nrOfReds","0")
+if((s==null?0:s)<=5){window.localStorage.setItem("nrOfReds","0")
 window.localStorage.setItem("nrOfBlacks","0")
 window.localStorage.setItem("nrOfZeros","0")
 window.localStorage.setItem("lastZeroPoint","0")
 p.w=p.x=p.y=0
-s=B.e.k(4)
+s=B.e.k(6)
 window.localStorage.setItem(n,s)}p.fx=p.gr9()
 p.fy=p.w
 p.go=p.x
