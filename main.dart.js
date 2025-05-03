@@ -80434,7 +80434,7 @@ r=k.cx
 r=A.dY("#,##0","en_US").eh(r)
 q=t.p
 r=A.Gg(j,B.q,j,j,s,A.hg(A.b([A.bO("\u0421\u0447\u0451\u0442: "+A.bH(r,","," "),18,B.l,B.k,3,B.i)],q),B.L,B.fS,B.a2))
-s=A.bN(j,j,B.n,j,j,B.Aj,j,j,j,j)
+s=A.bN(j,j,B.n,j,j,B.Ak,j,j,j,j)
 p=k.as
 p===$&&A.a()
 o=k.at
@@ -81130,7 +81130,7 @@ H3(){var s=0,r=A.B(t.H),q=this,p
 var $async$H3=A.C(function(a,b){if(a===1)return A.y(b,r)
 while(true)switch(s){case 0:p=q.c
 p.toString
-A.di(B.zA,p)
+A.di(B.zB,p)
 p=q.c
 p.toString
 A.di(B.kV,p)
@@ -81157,7 +81157,7 @@ p.toString
 A.di(B.zy,p)
 p=q.c
 p.toString
-A.di(B.zB,p)
+A.di(B.zC,p)
 p=q.c
 p.toString
 A.di(B.zG,p)
@@ -81773,8 +81773,8 @@ s=A.bO("The Strip Roulette",25,B.l,B.k,3,B.i)
 r=A.kw(i,B.e8,i,new A.abv(j),i,i)
 q=t.p
 s=A.Gg(A.b([j.Wo(a)],q),B.q,!0,0,r,s)
-r=A.LZ(A.bN(i,i,B.n,i,i,B.Ak,i,i,i,i))
-p=$.a0().hC(0.75,0.75,B.av)
+r=A.LZ(A.bN(i,i,B.n,i,i,B.Aj,i,i,i,i))
+p=$.a0().hC(0.5,0.5,B.av)
 p=A.pm(0,A.hy(A.bN(i,i,B.n,A.R(0,0,0,0),i,i,i,i,i,i),p))
 o=j.dy
 if(o!=null){o=A.dY("#,##0","en_US").eh(o)
@@ -85879,9 +85879,9 @@ B.zw=new A.cs("assets/images/bomb.png",null,null)
 B.zx=new A.cs("assets/images/bomb_vegas.png",null,null)
 B.zy=new A.cs("assets/images/rb_pointer2.png",null,null)
 B.zz=new A.cs("assets/images/rb_roulette.png",null,null)
-B.zA=new A.cs("assets/images/main_background.jpg",null,null)
+B.zB=new A.cs("assets/images/main_background.jpg",null,null)
 B.kV=new A.cs("assets/images/wheel_background.jpg",null,null)
-B.zB=new A.cs("assets/images/wheel_icon2.png",null,null)
+B.zC=new A.cs("assets/images/wheel_icon2.png",null,null)
 B.zD=new A.cs("assets/images/roulette100.png",null,null)
 B.zE=new A.cs("assets/images/roulette500.png",null,null)
 B.zF=new A.cs("assets/images/roulette10M_.png",null,null)
@@ -85986,14 +85986,14 @@ B.FK=new A.mn(B.cT,B.dJ,B.av,B.GZ,null,null)
 B.Ah=new A.bT(null,null,null,null,null,B.FK,B.I)
 B.Cn=new A.n(4291059506)
 B.Ai=new A.bT(B.Cn,null,null,null,null,null,B.I)
+B.zA=new A.cs("assets/images/rb_background_2.jpg",null,null)
 B.b6=new A.qM(2,"cover")
 B.bN=new A.rB(3,"noRepeat")
 B.bq=new A.of(2,"medium")
+B.Dp=new A.lX(B.zA)
+B.Aj=new A.bT(null,B.Dp,null,null,null,null,B.I)
 B.Do=new A.lX(B.kW)
-B.Aj=new A.bT(null,B.Do,null,null,null,null,B.I)
-B.zC=new A.cs("assets/images/rb_background.jpg",null,null)
-B.Dp=new A.lX(B.zC)
-B.Ak=new A.bT(null,B.Dp,null,null,null,null,B.I)
+B.Ak=new A.bT(null,B.Do,null,null,null,null,B.I)
 B.Dn=new A.lX(B.kV)
 B.Al=new A.bT(null,B.Dn,null,null,null,null,B.I)
 B.BE=new A.n(1006632960)
