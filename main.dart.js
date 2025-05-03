@@ -81243,7 +81243,7 @@ H5(){var s=0,r=A.B(t.H),q=this,p
 var $async$H5=A.C(function(a,b){if(a===1)return A.y(b,r)
 while(true)switch(s){case 0:p=q.c
 p.toString
-A.dh(B.zC,p)
+A.dh(B.zD,p)
 p=q.c
 p.toString
 A.dh(B.kW,p)
@@ -81255,55 +81255,55 @@ p.toString
 A.dh(B.zO,p)
 p=q.c
 p.toString
-A.dh(B.zB,p)
-p=q.c
-p.toString
-A.dh(B.zD,p)
-p=q.c
-p.toString
-A.dh(B.zU,p)
-p=q.c
-p.toString
-A.dh(B.zF,p)
+A.dh(B.zC,p)
 p=q.c
 p.toString
 A.dh(B.zE,p)
 p=q.c
 p.toString
-A.dh(B.zH,p)
+A.dh(B.zU,p)
 p=q.c
 p.toString
-A.dh(B.zM,p)
+A.dh(B.zG,p)
+p=q.c
+p.toString
+A.dh(B.zF,p)
 p=q.c
 p.toString
 A.dh(B.zI,p)
 p=q.c
 p.toString
-A.dh(B.zK,p)
-p=q.c
-p.toString
-A.dh(B.zA,p)
+A.dh(B.zN,p)
 p=q.c
 p.toString
 A.dh(B.zJ,p)
 p=q.c
 p.toString
+A.dh(B.zL,p)
+p=q.c
+p.toString
+A.dh(B.zB,p)
+p=q.c
+p.toString
+A.dh(B.zK,p)
+p=q.c
+p.toString
 A.dh(B.zy,p)
 p=q.c
 p.toString
-A.dh(B.zL,p)
+A.dh(B.zM,p)
 p=q.c
 p.toString
 A.dh(B.zS,p)
 p=q.c
 p.toString
-A.dh(B.zN,p)
+A.dh(B.zz,p)
 p=q.c
 p.toString
 A.dh(B.zT,p)
 p=q.c
 p.toString
-A.dh(B.zz,p)
+A.dh(B.zA,p)
 p=q.c
 p.toString
 A.dh(B.zP,p)
@@ -86086,21 +86086,21 @@ B.zx=new A.XT(127)
 B.i4=new A.w3(0,"polite")
 B.i5=new A.w3(1,"assertive")
 B.zy=new A.cs("assets/images/roulette1M.png",null,null)
-B.zz=new A.cs("assets/images/car3_2.jpg",null,null)
-B.zA=new A.cs("assets/images/roulette250.png",null,null)
-B.zB=new A.cs("assets/images/bomb.png",null,null)
-B.zC=new A.cs("assets/images/main_background_2.jpg",null,null)
-B.zD=new A.cs("assets/images/bomb_vegas.png",null,null)
-B.zE=new A.cs("assets/images/rb_pointer2.png",null,null)
-B.zF=new A.cs("assets/images/rb_roulette.png",null,null)
+B.zz=new A.cs("assets/images/car1_2.jpg",null,null)
+B.zA=new A.cs("assets/images/car3_2.jpg",null,null)
+B.zB=new A.cs("assets/images/roulette250.png",null,null)
+B.zC=new A.cs("assets/images/bomb.png",null,null)
+B.zD=new A.cs("assets/images/main_background_2.jpg",null,null)
+B.zE=new A.cs("assets/images/bomb_vegas.png",null,null)
+B.zF=new A.cs("assets/images/rb_pointer2.png",null,null)
+B.zG=new A.cs("assets/images/rb_roulette.png",null,null)
 B.kW=new A.cs("assets/images/wheel_background.jpg",null,null)
-B.zH=new A.cs("assets/images/wheel_icon2.png",null,null)
-B.zJ=new A.cs("assets/images/roulette500.png",null,null)
-B.zI=new A.cs("assets/images/roulette50_.png",null,null)
-B.zK=new A.cs("assets/images/roulette100_.png",null,null)
-B.zL=new A.cs("assets/images/roulette10M_.png",null,null)
-B.zM=new A.cs("assets/images/icon_roulette_rb.png",null,null)
-B.zN=new A.cs("assets/images/car1_2.jpg.",null,null)
+B.zI=new A.cs("assets/images/wheel_icon2.png",null,null)
+B.zK=new A.cs("assets/images/roulette500.png",null,null)
+B.zJ=new A.cs("assets/images/roulette50_.png",null,null)
+B.zL=new A.cs("assets/images/roulette100_.png",null,null)
+B.zM=new A.cs("assets/images/roulette10M_.png",null,null)
+B.zN=new A.cs("assets/images/icon_roulette_rb.png",null,null)
 B.kX=new A.cs("assets/images/game_background_.jpg",null,null)
 B.zO=new A.cs("assets/images/chip_100.png",null,null)
 B.zP=new A.cs("assets/images/restaurant1_.jpg",null,null)
@@ -86204,11 +86204,11 @@ B.FL=new A.jp(B.bY,B.ck,B.ao,B.GA,null,null)
 B.An=new A.bP(null,null,null,null,null,B.FL,B.F)
 B.Cs=new A.n(4291059506)
 B.Ao=new A.bP(B.Cs,null,null,null,null,null,B.F)
-B.zG=new A.cs("assets/images/rb_background_2.jpg",null,null)
+B.zH=new A.cs("assets/images/rb_background_2.jpg",null,null)
 B.b6=new A.qM(2,"cover")
 B.bO=new A.rB(3,"noRepeat")
 B.br=new A.og(2,"medium")
-B.Ds=new A.lZ(B.zG)
+B.Ds=new A.lZ(B.zH)
 B.Ap=new A.bP(null,B.Ds,null,null,null,null,B.F)
 B.dS=new A.n(2147483648)
 B.GX=A.b(s([B.q,B.dS,B.dS,B.dS,B.dS,B.dS,B.q]),t.t_)
