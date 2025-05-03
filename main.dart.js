@@ -81117,7 +81117,7 @@ m=t.p
 n=A.b([q,B.eI,A.di(A.dq("+"+A.aBn(n==null?0:n),k,k,k,B.RR,k,k,k),k,k)],m)
 q=J.hx(g)
 if(!q.j(g,0))n.push(B.eI)
-if(!q.j(g,0)){l=q.nL(g,0)?"+"+s:s
+if(!q.j(g,0)){l=q.nL(g,0)?"\u0414\u043e\u0445\u043e\u0434: +"+s:s
 n.push(A.di(A.dq(l,k,k,k,A.f4(k,k,q.nD(g,0)?B.BX:B.cI,k,k,k,k,k,k,k,k,10.5,k,k,B.Z,k,k,!0,k,k,k,k,k,k,k,k),k,k,k),k,k))}return new A.fF(new A.bP(r,k,k,k,k,k,B.F),A.b([new A.aX(B.fm,p,k),new A.aX(B.fm,o,k),new A.aX(B.fm,A.ej(n,B.K,B.c8,B.a3),k),new A.aX(B.fm,A.di(A.by(J.dw(h.h(i,"level")),16,B.l,B.j,1.75,B.i),k,k),k)],m))},
 $S:506}
 A.Jt.prototype={
