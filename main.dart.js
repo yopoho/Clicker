@@ -81361,7 +81361,7 @@ else{l=A.dY(d,c).eh(25e3)
 m=A.bH(l,","," ")}q.push(A.ep(A.bJ(e,new A.aX(B.mn,A.hg(A.b([p,n,A.bO(m,20,B.l,B.k,3,B.i)],s),B.L,B.c7,B.bw),e),B.n,e,e,B.Am,e,e,e,e),!1,!1,!1,!1,!1))}q=A.dT(A.ei(q,B.L,B.c7,B.a3),e,e)
 p=f.w!=null&&f.e>=1
 p=A.ep(A.bO("\u0423\u0440\u043e\u0432\u0435\u043d\u044c: "+f.e,19,B.l,B.k,2.75,B.i),!1,!1,!1,!1,p)
-p=A.pl(e,new A.aX(B.Ec,A.hg(A.b([p,A.bO(f.e===-1?"":"\u042d\u043d\u0435\u0440\u0433\u0438\u044f: "+f.f+"/25000,",19,B.l,B.k,2.75,B.i)],s),B.L,B.fT,B.a3),e),e,e,0,0,0,e)
+p=A.pl(e,new A.aX(B.Ec,A.hg(A.b([p,A.bO(f.e===-1?"":""+f.f+"/25000 \u26a1",19,B.l,B.k,2.75,B.i)],s),B.L,B.fT,B.a3),e),e,e,0,0,0,e)
 n=f.d
 n=A.ep(f.a8g(a0),!1,!1,!1,!1,n!=null)
 l=f.d
