@@ -80923,7 +80923,7 @@ l(){var s=this.d
 s===$&&A.a()
 s.l()
 this.a_C()},
-L(a){var s,r,q=this,p=null,o=A.by("\u041b\u0438\u0434\u0435\u0440\u0431\u043e\u0440\u0434",27,B.l,B.j,3,B.i)
+L(a){var s,r,q=this,p=null,o=A.by("\u041b\u0438\u0434\u0435\u0440\u0431\u043e\u0440\u0434",27,B.l,B.j,2.5,B.i)
 o=A.Gl(p,B.q,!0,0,A.kz(p,B.ea,p,new A.akO(q,a),p,p),o)
 s=A.M5(A.eZ(A.aBq(),B.b6,p,p))
 r=q.e
@@ -81916,7 +81916,7 @@ A.dN(r,!1).uq(p)}else{r.toString
 A.a8K(r,A.JG(new A.abh(),null,t.z))}},
 L(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=t.w
 h=Math.min(A.bq(a,i,h).w.a.a,A.bq(a,i,h).w.a.b)
-s=A.by("The Strip Roulette",25,B.l,B.j,3,B.i)
+s=A.by("The Strip Roulette",27,B.l,B.j,2.5,B.i)
 r=A.kz(i,B.ea,i,new A.abE(j),i,i)
 q=t.p
 s=A.Gl(A.b([j.Wv(a)],q),B.q,!0,0,r,s)
@@ -82398,7 +82398,7 @@ if(b.length!==1)throw A.c(A.bK("Key must be a single character.",null))
 s=t.Hz.i("af<T.E,m>")
 return A.i0(A.a8(new A.af(new A.ew(a),new A.ac4(b.charCodeAt(0)),s),!0,s.i("aD.E")),0,null)},
 L(a){var s,r,q,p,o,n,m,l=this,k=null,j=t.w,i=Math.min(A.bq(a,k,j).w.a.a,A.bq(a,k,j).w.a.b)*0.75,h=i*0.21
-j=A.by("\u041a\u043e\u043b\u0435\u0441\u043e \u0444\u043e\u0440\u0442\u0443\u043d\u044b",27,B.l,B.j,3,B.i)
+j=A.by("\u041a\u043e\u043b\u0435\u0441\u043e \u0444\u043e\u0440\u0442\u0443\u043d\u044b",27,B.l,B.j,2.5,B.i)
 s=A.kz(k,B.ea,k,new A.abA(l),k,k)
 r=t.p
 q=A.b([],r)
