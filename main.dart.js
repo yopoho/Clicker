@@ -82462,8 +82462,9 @@ else if(s.yM(q))p.a=r.o7(864e8)
 else p.a=q
 this.Z(new A.abu(p,this,s))}},
 adk(){var s=this,r=new A.abs(),q=r.$1(B.e.bQ(s.ay.a,36e8)%24),p=r.$1(B.e.bQ(s.ay.a,6e7)%60),o=r.$1(B.e.bQ(s.ay.a,1e6)%60)
-r=s.y
-return A.dQ(A.by(q+":"+p+":"+o,24,B.bs,B.j,3,B.i),!1,!1,!1,!1,r===0)},
+if(s.y===0)r=!(q==="00"&&p==="00"&&o==="00")
+else r=!1
+return A.dQ(A.by(q+":"+p+":"+o,24,B.bs,B.j,3,B.i),!1,!1,!1,!1,r)},
 abn(a){var s,r,q,p,o,n=null,m=A.ce(12),l=A.ce(12),k=$.a0().hE(4.5,4.5,B.ao)
 k=A.hz(A.bE(n,n,B.n,A.R(89,255,255,255),n,n,67,n,n,67),k)
 s=A.ce(12)
