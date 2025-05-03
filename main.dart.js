@@ -81360,9 +81360,9 @@ if(f.f===-1)m=""
 else{l=A.dY(d,c).eh(25e3)
 m=A.bH(l,","," ")}q.push(A.ef(A.bJ(e,new A.aX(B.mn,A.fA(A.b([p,n,A.bO(m,20,B.l,B.k,3,B.i)],s),B.K,B.c7,B.bw),e),B.n,e,e,B.An,e,e,e,e),!1,!1,!1,!1,!1))}q=A.dT(A.ej(q,B.K,B.c7,B.a2),e,e)
 p=f.w!=null&&f.e>=1
-p=A.ef(A.bO("\u0423\u0440\u043e\u0432\u0435\u043d\u044c: "+f.e,19,B.l,B.k,2.75,B.i),!1,!1,!1,!1,p)
+p=A.ef(A.bO("\u0423\u0440\u043e\u0432\u0435\u043d\u044c: "+f.e,17,B.l,B.k,2.75,B.i),!1,!1,!1,!1,p)
 n=f.e===-1
-p=A.pl(e,new A.aX(B.Ed,A.fA(A.b([p,A.ef(A.fA(A.b([A.bO(n?"":""+f.f+"/25000",19,B.l,B.k,2.75,B.i),B.yg,B.TJ],s),B.K,B.V,B.a2),!1,!1,!1,!1,!n)],s),B.K,B.fT,B.a2),e),e,e,0,0,0,e)
+p=A.pl(e,new A.aX(B.Ed,A.fA(A.b([p,A.ef(A.fA(A.b([A.bO(n?"":""+f.f+"/25000",17,B.l,B.k,2.75,B.i),B.yg,B.TJ],s),B.K,B.V,B.a2),!1,!1,!1,!1,!n)],s),B.K,B.fT,B.a2),e),e,e,0,0,0,e)
 n=f.d
 n=A.ef(f.a8g(a0),!1,!1,!1,!1,n!=null)
 l=f.d
