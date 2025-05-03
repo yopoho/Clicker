@@ -81326,7 +81326,7 @@ this.a_D()},
 a7N(){if(this.d!=null)this.Z(new A.alv(this))},
 UZ(a){var s=t.Y,r=this.as
 r===$&&A.a()
-this.at=new A.aB(r,new A.aA(0.3,0.3,s),s.i("aB<aw.T>"))
+this.at=new A.aB(r,new A.aA(0.15,0.15,s),s.i("aB<aw.T>"))
 r.il(0,0)},
 L(a1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d=null,c="#,##0",b="en_US",a=A.M3(A.eZ(A.aBp(),B.b6,d,d)),a0=e.at
 a0===$&&A.a()
@@ -81899,7 +81899,7 @@ r=A.kz(i,B.e9,i,new A.abE(j),i,i)
 q=t.p
 s=A.Gj(A.b([j.Wu(a)],q),B.q,!0,0,r,s)
 r=A.M3(A.bD(i,i,B.n,i,i,B.Ar,i,i,i,i))
-p=$.a0().hE(0.3,0.3,B.ao)
+p=$.a0().hE(0.15,0.15,B.ao)
 p=A.pm(0,A.hz(A.bD(i,i,B.n,A.R(0,0,0,0),i,i,i,i,i,i),p))
 o=j.dy
 if(o!=null){o=A.dY("#,##0","en_US").eh(o)
