@@ -81474,9 +81474,8 @@ n=A.hz(A.bE(q,q,B.n,A.R(89,255,255,255),q,q,62,q,q,62),n)
 s=A.ce(12)
 r=t.p
 return A.el(!1,p,!0,A.nX(o,A.cy(B.Y,A.b([n,A.bE(q,A.cy(B.Y,A.b([A.bN(q,q,new A.aX(B.bL,A.eZ("assets/images/icon_invest_.png",B.i9,50,50),q),!1,q,q,!1,q,q,q,q,"Open Investments",q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q)],r),B.u,B.R),B.n,q,q,new A.bP(q,q,q,s,q,q,B.F),62,q,q,62)],r),B.u,B.R)),q,!0,q,q,q,q,q,q,q,q,q,new A.alx(this,a),q,q,q,q)},
-acB(a,b,c){var s,r,q,p={}
-p.a=a
-p.a=a==null?0:a
+acB(a,b,c){var s,r,q
+if(a==null||a<=0)return
 if(c==null)c=0.05
 if(b!=null&&b>0){s=B.c.a7(c*100)
 r=J.arJ(b)
@@ -81484,7 +81483,7 @@ r=A.dZ("#,##0","en_US").eh(r)
 q="\n\n\u0411\u043e\u043d\u0443\u0441 \u0440\u0443\u043b\u0435\u0442\u043a\u0438 ("+s+"%): "+A.bJ(r,","," ")+"."}else q=""
 s=this.c
 s.toString
-A.FK(!0,new A.alJ(p,q),s,t.z)},
+A.FK(!0,new A.alJ(a,q),s,t.z)},
 SE(){var s,r,q,p,o,n,m,l=null
 if($.auh==null)$.auh=Date.now()
 else{s=Date.now()
@@ -81715,9 +81714,7 @@ s.d=r
 s.e=A.WT(r,s.e)},
 $S:0}
 A.alJ.prototype={
-$1(a){var s=null,r=this.a.a
-r.toString
-r=A.dZ("#,##0","en_US").eh(r)
+$1(a){var s=null,r=A.dZ("#,##0","en_US").eh(this.a)
 r=A.dq("\u0412\u044b \u0437\u0430\u0440\u0430\u0431\u043e\u0442\u0430\u043b\u0438 "+A.bJ(r,","," ")+" \u043e\u0447\u043a\u043e\u0432."+this.b,s,s,s,s,s,s,s)
 return A.vJ(A.b([A.lb(B.Tz,new A.alI(a),s)],t.p),r,s,B.TB)},
 $S:66}
