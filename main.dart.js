@@ -80727,7 +80727,7 @@ if(m)n.push(B.lI)
 if(m)n.push(B.f1)
 n.push(B.q)
 p.push(A.ej(A.b([new A.aX(B.b2,A.cy(B.Y,A.b([A.bE(k,A.dQ(new A.aX(B.iV,A.by(o,30,B.l,B.ix,3,B.iC),k),!1,!1,!1,!1,!0),B.n,k,k,new A.bP(k,k,k,k,k,new A.jp(B.bY,B.ck,B.ao,n,k,k),B.F),k,k,k,k)],q),B.u,B.R),k),B.kd,A.a1t(A.ayx(A.ej(A.b([l.a4v(),B.kd],q),B.K,B.V,B.a3),B.aV))],q),B.K,B.V,B.a3))}return A.zO(j,k,A.cy(B.Y,A.b([s,r,A.Lw(!0,A.cy(B.Y,p,B.u,B.R),!0)],q),B.u,B.R),!0,k)},
-a4v(){var s,r,q,p,o,n,m="assets/images/rb_investment.jpg",l="\u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438 The Strip",k=null,j=t.N,i=[A.af(["id","car1","image","assets/images/car1_2.jpg","title","Mercedes-Benz","message","\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c","price","450 000","income","35 000"],j,j),A.af(["id","car5","image","assets/images/car5_.jpg","title","BMW 3","message","\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c","price","1 650 000","income","175 000"],j,j),A.af(["id","car4","image","assets/images/car4_.jpg","title","Ford Mustang","message","\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c","price","4 000 000","income","550 000"],j,j),A.af(["id","car2","image","assets/images/car2_.jpg","title","Lamborghini Huracan","message","\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c","price","7 000 000","income","1 150 000"],j,j),A.af(["id","car3","image","assets/images/car3_.jpg","title","Limousine","message","\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c","price","10 000 000","income","1 850 000"],j,j),A.af(["id","home1","image","assets/images/home1.jpg","title","Simple Apartment","message","\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430","price","12 500 000","income","1 500 000"],j,j),A.af(["id","home2","image","assets/images/home2.jpg","title","Mid-level Apartment","message","\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430","price","25 000 000","income","3 500 000"],j,j),A.af(["id","home3","image","assets/images/home3.jpg","title","Expensive Apartment","message","\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430","price","60 000 000","income","10 000 000"],j,j),A.af(["id","restaurant1","image","assets/images/restaurant1_.jpg","title","Vegas 702","message","\u0420\u0435\u0441\u0442\u043e\u0440\u0430\u043d","price","30 000 000","income","3 750 000"],j,j),A.af(["id","restaurant2","image","assets/images/restaurant2_.jpg","title","The Amber Oak","message","\u0420\u0435\u0441\u0442\u043e\u0440\u0430\u043d","price","47 000 000","income","6 750 000"],j,j),A.af(["id","restaurant3","image","assets/images/restaurant3_.jpg","title","L'Excellence","message","\u0420\u0435\u0441\u0442\u043e\u0440\u0430\u043d","price","100 000 000","income","20 000 000"],j,j),A.af(["id","rb_stocks_5","image",m,"title",l,"message","","price","20 000 000","income","+5%"],j,j),A.af(["id","rb_stocks_10","image",m,"title",l,"message","","price","40 000 000","income","+10%"],j,j),A.af(["id","rb_stocks_30","image",m,"title",l,"message","","price","120 000 000","income","+30%"],j,j)]
+a4v(){var s,r,q,p,o,n,m="assets/images/rb_investment.jpg",l="\u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438 The Strip",k=null,j=t.N,i=[A.af(["id","car1","image","assets/images/car1_2.jpg","title","Mercedes-Benz","message","\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c","price","450 000","income","35 000"],j,j),A.af(["id","car5","image","assets/images/car5_.jpg","title","BMW 3","message","\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c","price","1 650 000","income","175 000"],j,j),A.af(["id","car4","image","assets/images/car4_.jpg","title","Ford Mustang","message","\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c","price","4 000 000","income","550 000"],j,j),A.af(["id","car2","image","assets/images/car2_.jpg","title","Lamborghini Huracan","message","\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c","price","7 000 000","income","1 150 000"],j,j),A.af(["id","car3","image","assets/images/car3_2.jpg","title","Limousine","message","\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c","price","10 000 000","income","1 850 000"],j,j),A.af(["id","home1","image","assets/images/home1.jpg","title","Simple Apartment","message","\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430","price","12 500 000","income","1 500 000"],j,j),A.af(["id","home2","image","assets/images/home2.jpg","title","Mid-level Apartment","message","\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430","price","25 000 000","income","3 500 000"],j,j),A.af(["id","home3","image","assets/images/home3.jpg","title","Expensive Apartment","message","\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430","price","60 000 000","income","10 000 000"],j,j),A.af(["id","restaurant1","image","assets/images/restaurant1_.jpg","title","Vegas 702","message","\u0420\u0435\u0441\u0442\u043e\u0440\u0430\u043d","price","30 000 000","income","3 750 000"],j,j),A.af(["id","restaurant2","image","assets/images/restaurant2_.jpg","title","The Amber Oak","message","\u0420\u0435\u0441\u0442\u043e\u0440\u0430\u043d","price","47 000 000","income","6 750 000"],j,j),A.af(["id","restaurant3","image","assets/images/restaurant3_.jpg","title","L'Excellence","message","\u0420\u0435\u0441\u0442\u043e\u0440\u0430\u043d","price","100 000 000","income","20 000 000"],j,j),A.af(["id","rb_stocks_5","image",m,"title",l,"message","","price","20 000 000","income","+5%"],j,j),A.af(["id","rb_stocks_10","image",m,"title",l,"message","","price","40 000 000","income","+10%"],j,j),A.af(["id","rb_stocks_30","image",m,"title",l,"message","","price","120 000 000","income","+30%"],j,j)]
 j=t.p
 s=A.b([],j)
 for(r=0;r<14;r+=2){q=i[r]
@@ -81243,7 +81243,7 @@ H5(){var s=0,r=A.B(t.H),q=this,p
 var $async$H5=A.C(function(a,b){if(a===1)return A.y(b,r)
 while(true)switch(s){case 0:p=q.c
 p.toString
-A.dh(B.zB,p)
+A.dh(B.zC,p)
 p=q.c
 p.toString
 A.dh(B.kW,p)
@@ -81252,67 +81252,67 @@ p.toString
 A.dh(B.kX,p)
 p=q.c
 p.toString
-A.dh(B.zN,p)
+A.dh(B.zO,p)
 p=q.c
 p.toString
-A.dh(B.zA,p)
-p=q.c
-p.toString
-A.dh(B.zC,p)
-p=q.c
-p.toString
-A.dh(B.zU,p)
-p=q.c
-p.toString
-A.dh(B.zE,p)
+A.dh(B.zB,p)
 p=q.c
 p.toString
 A.dh(B.zD,p)
 p=q.c
 p.toString
-A.dh(B.zG,p)
+A.dh(B.zU,p)
 p=q.c
 p.toString
-A.dh(B.zL,p)
+A.dh(B.zF,p)
+p=q.c
+p.toString
+A.dh(B.zE,p)
 p=q.c
 p.toString
 A.dh(B.zH,p)
 p=q.c
 p.toString
-A.dh(B.zJ,p)
-p=q.c
-p.toString
-A.dh(B.zz,p)
+A.dh(B.zM,p)
 p=q.c
 p.toString
 A.dh(B.zI,p)
 p=q.c
 p.toString
-A.dh(B.zy,p)
-p=q.c
-p.toString
 A.dh(B.zK,p)
 p=q.c
 p.toString
-A.dh(B.zR,p)
+A.dh(B.zA,p)
 p=q.c
 p.toString
-A.dh(B.zM,p)
+A.dh(B.zJ,p)
+p=q.c
+p.toString
+A.dh(B.zy,p)
+p=q.c
+p.toString
+A.dh(B.zL,p)
 p=q.c
 p.toString
 A.dh(B.zS,p)
 p=q.c
 p.toString
+A.dh(B.zN,p)
+p=q.c
+p.toString
 A.dh(B.zT,p)
 p=q.c
 p.toString
-A.dh(B.zO,p)
+A.dh(B.zz,p)
 p=q.c
 p.toString
 A.dh(B.zP,p)
 p=q.c
 p.toString
 A.dh(B.zQ,p)
+p=q.c
+p.toString
+A.dh(B.zR,p)
 return A.z(null,r)}})
 return A.A($async$H5,r)},
 l(){var s=this.as
@@ -86086,28 +86086,28 @@ B.zx=new A.XT(127)
 B.i4=new A.w3(0,"polite")
 B.i5=new A.w3(1,"assertive")
 B.zy=new A.cs("assets/images/roulette1M.png",null,null)
-B.zz=new A.cs("assets/images/roulette250.png",null,null)
-B.zA=new A.cs("assets/images/bomb.png",null,null)
-B.zB=new A.cs("assets/images/main_background_2.jpg",null,null)
-B.zC=new A.cs("assets/images/bomb_vegas.png",null,null)
-B.zD=new A.cs("assets/images/rb_pointer2.png",null,null)
-B.zE=new A.cs("assets/images/rb_roulette.png",null,null)
+B.zz=new A.cs("assets/images/car3_2.jpg",null,null)
+B.zA=new A.cs("assets/images/roulette250.png",null,null)
+B.zB=new A.cs("assets/images/bomb.png",null,null)
+B.zC=new A.cs("assets/images/main_background_2.jpg",null,null)
+B.zD=new A.cs("assets/images/bomb_vegas.png",null,null)
+B.zE=new A.cs("assets/images/rb_pointer2.png",null,null)
+B.zF=new A.cs("assets/images/rb_roulette.png",null,null)
 B.kW=new A.cs("assets/images/wheel_background.jpg",null,null)
-B.zG=new A.cs("assets/images/wheel_icon2.png",null,null)
-B.zI=new A.cs("assets/images/roulette500.png",null,null)
-B.zH=new A.cs("assets/images/roulette50_.png",null,null)
-B.zJ=new A.cs("assets/images/roulette100_.png",null,null)
-B.zK=new A.cs("assets/images/roulette10M_.png",null,null)
-B.zL=new A.cs("assets/images/icon_roulette_rb.png",null,null)
-B.zM=new A.cs("assets/images/car1_2.jpg.",null,null)
+B.zH=new A.cs("assets/images/wheel_icon2.png",null,null)
+B.zJ=new A.cs("assets/images/roulette500.png",null,null)
+B.zI=new A.cs("assets/images/roulette50_.png",null,null)
+B.zK=new A.cs("assets/images/roulette100_.png",null,null)
+B.zL=new A.cs("assets/images/roulette10M_.png",null,null)
+B.zM=new A.cs("assets/images/icon_roulette_rb.png",null,null)
+B.zN=new A.cs("assets/images/car1_2.jpg.",null,null)
 B.kX=new A.cs("assets/images/game_background_.jpg",null,null)
-B.zN=new A.cs("assets/images/chip_100.png",null,null)
-B.zO=new A.cs("assets/images/restaurant1_.jpg",null,null)
-B.zP=new A.cs("assets/images/restaurant2_.jpg",null,null)
-B.zQ=new A.cs("assets/images/restaurant3_.jpg",null,null)
-B.zR=new A.cs("assets/images/roulette_pointer2.png",null,null)
-B.zS=new A.cs("assets/images/car2_.jpg",null,null)
-B.zT=new A.cs("assets/images/car3_.jpg",null,null)
+B.zO=new A.cs("assets/images/chip_100.png",null,null)
+B.zP=new A.cs("assets/images/restaurant1_.jpg",null,null)
+B.zQ=new A.cs("assets/images/restaurant2_.jpg",null,null)
+B.zR=new A.cs("assets/images/restaurant3_.jpg",null,null)
+B.zS=new A.cs("assets/images/roulette_pointer2.png",null,null)
+B.zT=new A.cs("assets/images/car2_.jpg",null,null)
 B.zU=new A.cs("assets/images/rb_roulette_border.png",null,null)
 B.kY=new A.nO(0,"log")
 B.i6=new A.nO(1,"duration")
@@ -86204,11 +86204,11 @@ B.FL=new A.jp(B.bY,B.ck,B.ao,B.GA,null,null)
 B.An=new A.bP(null,null,null,null,null,B.FL,B.F)
 B.Cs=new A.n(4291059506)
 B.Ao=new A.bP(B.Cs,null,null,null,null,null,B.F)
-B.zF=new A.cs("assets/images/rb_background_2.jpg",null,null)
+B.zG=new A.cs("assets/images/rb_background_2.jpg",null,null)
 B.b6=new A.qM(2,"cover")
 B.bO=new A.rB(3,"noRepeat")
 B.br=new A.og(2,"medium")
-B.Ds=new A.lZ(B.zF)
+B.Ds=new A.lZ(B.zG)
 B.Ap=new A.bP(null,B.Ds,null,null,null,null,B.F)
 B.dS=new A.n(2147483648)
 B.GX=A.b(s([B.q,B.dS,B.dS,B.dS,B.dS,B.dS,B.q]),t.t_)
