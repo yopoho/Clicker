@@ -80923,7 +80923,7 @@ l(){var s=this.d
 s===$&&A.a()
 s.l()
 this.a_C()},
-L(a){var s,r,q=this,p=null,o=A.by("\u041b\u0438\u0434\u0435\u0440\u0431\u043e\u0440\u0434",29,B.l,B.j,3,B.i)
+L(a){var s,r,q=this,p=null,o=A.by("\u041b\u0438\u0434\u0435\u0440\u0431\u043e\u0440\u0434",27,B.l,B.j,3,B.i)
 o=A.Gl(p,B.q,!0,0,A.kz(p,B.ea,p,new A.akO(q,a),p,p),o)
 s=A.M5(A.eZ(A.aBq(),B.b6,p,p))
 r=q.e
@@ -81372,7 +81372,7 @@ h=A.ce(12)
 g=$.a0().hE(4.5,4.5,B.ao)
 g=A.hz(A.bE(d,d,B.n,A.R(89,255,255,255),d,d,62,d,d,62),g)
 f=A.ce(12)
-j=A.dQ(A.el(!1,i,!0,A.nX(h,A.cy(B.Y,A.b([g,A.bE(d,A.di(A.bN(d,d,new A.aX(B.bL,A.eZ("assets/images/icon_promo_code.png",B.i8,50,50),d),!1,d,d,!1,d,d,d,d,"Enter promo code",d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d),d,d),B.n,d,d,new A.bP(d,d,d,f,d,d,B.F),62,d,d,62)],s),B.u,B.R)),d,!0,d,d,d,d,d,d,d,d,d,e.gacC(),d,d,d,d),!1,!1,!1,!1,j!=null)
+j=A.dQ(A.el(!1,i,!0,A.nX(h,A.cy(B.Y,A.b([g,A.bE(d,A.di(A.bN(d,d,new A.aX(B.bL,A.eZ("assets/images/icon_promo_code_2.png",B.i8,50,50),d),!1,d,d,!1,d,d,d,d,"Enter promo code",d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d,d),d,d),B.n,d,d,new A.bP(d,d,d,f,d,d,B.F),62,d,d,62)],s),B.u,B.R)),d,!0,d,d,d,d,d,d,d,d,d,e.gacC(),d,d,d,d),!1,!1,!1,!1,j!=null)
 f=e.d
 f=A.dQ(e.a80(a1),!1,!1,!1,!1,f!=null)
 g=e.d
@@ -81473,7 +81473,7 @@ a80(a){var s,r,q=null,p=A.ce(12),o=A.ce(12),n=$.a0().hE(4.5,4.5,B.ao)
 n=A.hz(A.bE(q,q,B.n,A.R(89,255,255,255),q,q,62,q,q,62),n)
 s=A.ce(12)
 r=t.p
-return A.el(!1,p,!0,A.nX(o,A.cy(B.Y,A.b([n,A.bE(q,A.cy(B.Y,A.b([A.bN(q,q,new A.aX(B.bL,A.eZ("assets/images/icon_invest.png",B.i9,50,50),q),!1,q,q,!1,q,q,q,q,"Open Investments",q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q)],r),B.u,B.R),B.n,q,q,new A.bP(q,q,q,s,q,q,B.F),62,q,q,62)],r),B.u,B.R)),q,!0,q,q,q,q,q,q,q,q,q,new A.alx(this,a),q,q,q,q)},
+return A.el(!1,p,!0,A.nX(o,A.cy(B.Y,A.b([n,A.bE(q,A.cy(B.Y,A.b([A.bN(q,q,new A.aX(B.bL,A.eZ("assets/images/icon_invest_.png",B.i9,50,50),q),!1,q,q,!1,q,q,q,q,"Open Investments",q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q)],r),B.u,B.R),B.n,q,q,new A.bP(q,q,q,s,q,q,B.F),62,q,q,62)],r),B.u,B.R)),q,!0,q,q,q,q,q,q,q,q,q,new A.alx(this,a),q,q,q,q)},
 acB(a,b,c){var s,r,q
 if(a==null||a<=0)return
 if(c==null)c=0.05
