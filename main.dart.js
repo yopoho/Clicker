@@ -81566,7 +81566,7 @@ q=s
 o.acB(n,r,q==null?p:q.x)},
 $S:0}
 A.alv.prototype={
-$0(){var s,r,q,p=this.a,o=p.e,n=7*o,m=p.f
+$0(){var s,r,q,p=this.a,o=p.e,n=10*o,m=p.f
 if(m>0&&n>m)n=m
 s=m-n
 if(s>=0&&m>=0&&o>=0){r=p.d
