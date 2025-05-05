@@ -80485,11 +80485,11 @@ m=k.a1Y()
 l=k.db++
 s.push(new A.rs(q*(p-o),-n,m,r,B.lv.GL()*3.141592653589793/6-0.5235987755982988,l))}},
 a1Y(){var s=this.cy
-if(s<10)return 332.5
-if(s<20)return 306.25
-if(s<30)return 274.75
-if(s<45)return 245
-return 210},
+if(s<10)return 342
+if(s<20)return 315
+if(s<30)return 282.6
+if(s<45)return 252
+return 216},
 a9A(){var s,r,q,p,o,n,m=this,l=m.d
 l===$&&A.a()
 s=l.y
