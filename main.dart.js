@@ -82423,14 +82423,15 @@ p=p?k:new A.abD(l)
 o=A.awM(k,k,k,k,k,k,k,k,k,k,k,k,B.mm,k,new A.cH(A.ce(20),B.r),k,k,k,k)
 q.push(A.di(A.ej(A.b([B.NS,s,B.O_,A.dQ(A.awL(l.w?B.xh:B.yS,p,o),!1,!1,!1,!1,n>0),B.NZ,l.a0V(),B.yk,l.adk()],r),B.K,B.V,B.a3),k,k))
 return A.h0(k,A.zO(j,k,A.cy(B.Y,q,B.u,B.R),!0,k),B.a5,!1,k,k,k,k,l.ga73(),k,k,k,k,k,k,k,k,k,k,k,k,k,k,k)},
-VM(a){if(a>=41)return"assets/images/roulette10B.png"
-if(a>=39)return"assets/images/roulette1B.png"
-if(a>=36)return"assets/images/roulette100M.png"
-if(a>=32)return"assets/images/roulette10M_.png"
-if(a>=27)return"assets/images/roulette1M.png"
-if(a===26)return"assets/images/roulette500.png"
-if(a===25)return"assets/images/roulette250.png"
-if(a===24)return"assets/images/roulette100_.png"
+VM(a){var s=a+2
+if(s>=41)return"assets/images/roulette10B.png"
+if(s>=39)return"assets/images/roulette1B.png"
+if(s>=36)return"assets/images/roulette100M.png"
+if(s>=32)return"assets/images/roulette10M_.png"
+if(s>=27)return"assets/images/roulette1M.png"
+if(s===26)return"assets/images/roulette500.png"
+if(s===25)return"assets/images/roulette250.png"
+if(s===24)return"assets/images/roulette100_.png"
 return"assets/images/roulette50_.png"},
 Ab(a){var s,r,q=B.e.b2(a,100),p=B.e.b2(a,10)
 if(q>=11&&q<=14)return""+a+" \u0441\u043f\u0438\u043d\u043e\u0432"
