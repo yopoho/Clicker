@@ -81252,7 +81252,7 @@ p.toString
 A.dh(B.kX,p)
 p=q.c
 p.toString
-A.dh(B.zN,p)
+A.dh(B.zM,p)
 p=q.c
 p.toString
 A.dh(B.zB,p)
@@ -81273,13 +81273,13 @@ p.toString
 A.dh(B.zH,p)
 p=q.c
 p.toString
-A.dh(B.zM,p)
+A.dh(B.zL,p)
 p=q.c
 p.toString
 A.dh(B.zI,p)
 p=q.c
 p.toString
-A.dh(B.zK,p)
+A.dh(B.zQ,p)
 p=q.c
 p.toString
 A.dh(B.zA,p)
@@ -81291,7 +81291,7 @@ p.toString
 A.dh(B.zx,p)
 p=q.c
 p.toString
-A.dh(B.zL,p)
+A.dh(B.zK,p)
 p=q.c
 p.toString
 A.dh(B.zR,p)
@@ -81306,13 +81306,13 @@ p.toString
 A.dh(B.zz,p)
 p=q.c
 p.toString
+A.dh(B.zN,p)
+p=q.c
+p.toString
 A.dh(B.zO,p)
 p=q.c
 p.toString
 A.dh(B.zP,p)
-p=q.c
-p.toString
-A.dh(B.zQ,p)
 return A.z(null,r)}})
 return A.A($async$H5,r)},
 l(){var s=this.as
@@ -82431,7 +82431,7 @@ if(s>=32)return"assets/images/roulette10M_.png"
 if(s>=27)return"assets/images/roulette1M.png"
 if(s===26)return"assets/images/roulette500.png"
 if(s===25)return"assets/images/roulette250.png"
-if(s===24)return"assets/images/roulette100_.png"
+if(s===24)return"assets/images/roulette100_2.png"
 return"assets/images/roulette50_.png"},
 Ab(a){var s,r,q=B.e.b2(a,100),p=B.e.b2(a,10)
 if(q>=11&&q<=14)return""+a+" \u0441\u043f\u0438\u043d\u043e\u0432"
@@ -86098,14 +86098,14 @@ B.kW=new A.cs("assets/images/wheel_background.jpg",null,null)
 B.zH=new A.cs("assets/images/wheel_icon2.png",null,null)
 B.zJ=new A.cs("assets/images/roulette500.png",null,null)
 B.zI=new A.cs("assets/images/roulette50_.png",null,null)
-B.zK=new A.cs("assets/images/roulette100_.png",null,null)
-B.zL=new A.cs("assets/images/roulette10M_.png",null,null)
-B.zM=new A.cs("assets/images/icon_roulette_rb.png",null,null)
+B.zK=new A.cs("assets/images/roulette10M_.png",null,null)
+B.zL=new A.cs("assets/images/icon_roulette_rb.png",null,null)
 B.kX=new A.cs("assets/images/game_background_.jpg",null,null)
-B.zN=new A.cs("assets/images/chip_100.png",null,null)
-B.zO=new A.cs("assets/images/restaurant1_.jpg",null,null)
-B.zP=new A.cs("assets/images/restaurant2_.jpg",null,null)
-B.zQ=new A.cs("assets/images/restaurant3_.jpg",null,null)
+B.zM=new A.cs("assets/images/chip_100.png",null,null)
+B.zN=new A.cs("assets/images/restaurant1_.jpg",null,null)
+B.zO=new A.cs("assets/images/restaurant2_.jpg",null,null)
+B.zP=new A.cs("assets/images/restaurant3_.jpg",null,null)
+B.zQ=new A.cs("assets/images/roulette100_2.png",null,null)
 B.zR=new A.cs("assets/images/roulette_pointer2.png",null,null)
 B.zS=new A.cs("assets/images/car2_.jpg",null,null)
 B.zT=new A.cs("assets/images/rb_roulette_border.png",null,null)
