@@ -83487,7 +83487,7 @@ return A.D(A.iw(n,t.z),$async$x3)
 case 3:p.a_(new A.aom(p,o))
 case 1:return A.z(q,r)}})
 return A.A($async$x3,r)},
-M(a){var s=null,r=A.bv(a,s,t.w).w.a,q=r.b,p=q*0.7,o=p*0.7169811320754716,n=p/16,m=A.Ar(A.eo("assets/images/rb_background_2.jpg",B.b2,s,s)),l=q/2,k=A.l2(s,A.eo("assets/images/slot_base.png",B.cY,s,o),s,s,r.a/2-o/2,s,l-p*0.35,s),j=t.p,i=A.ch(B.V,A.b([A.cW(A.ed(A.b([A.es(A.f1(A.ayh(3,new A.aoo(this,o,p,n),!0,t.l7),B.H,B.P,B.b5),p/3.7,s)],j),B.H,B.P,B.b5),s,s),A.cW(A.atF(A.es(B.D_,3,o*0.625),0.75),s,s)],j),B.u,B.M),h=this.w,g=h?s:this.gadv()
+M(a){var s=null,r=A.bv(a,s,t.w).w.a,q=r.b,p=q*0.7,o=p*0.7169811320754716,n=p/16,m=A.Ar(A.eo("assets/images/rb_background_2.jpg",B.b2,s,s)),l=q/2,k=A.l2(s,A.eo("assets/images/slot_base.png",B.cY,s,o),s,s,r.a/2-o/2,s,l-p*0.35,s),j=t.p,i=A.ch(B.V,A.b([A.cW(A.ed(A.b([A.es(A.f1(A.ayh(3,new A.aoo(this,o,p,n),!0,t.l7),B.H,B.P,B.b5),p/3.6,s)],j),B.H,B.P,B.b5),s,s),A.cW(A.atF(A.es(B.D_,3,o*0.625),0.75),s,s)],j),B.u,B.M),h=this.w,g=h?s:this.gadv()
 return A.tG(s,s,A.ch(B.V,A.b([m,k,i,A.l2(s,A.dX(!1,s,!0,A.cW(h?A.es(new A.aX(B.Eb,A.es(B.lA,n,n),s),s,s):A.dc("Spin",s,s,s,A.ev(s,s,B.i,s,s,s,s,s,s,s,s,n,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),s,s),s,!0,s,s,s,s,s,s,s,s,s,g,s,s,s,s),s,s,o*0.02,0,l+p*0.313,s)],j),B.u,B.M),!1,s)}}
 A.aol.prototype={
 $0(){return this.a.w=!0},
