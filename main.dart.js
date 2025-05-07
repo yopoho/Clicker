@@ -74366,7 +74366,7 @@ s.dh()},
 e9(a){var s,r,q=this
 q.ZL(a)
 s=q.z
-s=s==null?null:B.e.ak(s,1)
+s=s==null?null:B.c.ak(s,1)
 r=q.Q
 r=r==null?null:B.c.ak(r,1)
 a.push("range: "+A.j(s)+".."+A.j(r))
@@ -74508,7 +74508,7 @@ return s},
 eo(a,b){return this.DN(b).eo(0,b-this.w)},
 f2(a,b){return this.DN(b).f2(0,b-this.w)},
 kM(a){return this.DN(a).kM(a-this.w)},
-k(a){return"BouncingScrollSimulation(leadingExtent: "+this.b+", trailingExtent: "+A.j(this.c)+")"}}
+k(a){return"BouncingScrollSimulation(leadingExtent: "+A.j(this.b)+", trailingExtent: "+A.j(this.c)+")"}}
 A.ZH.prototype={
 eo(a,b){var s,r=this.e
 r===$&&A.a()
@@ -83496,9 +83496,10 @@ A.aom.prototype={
 $0(){this.a.w=!1},
 $S:0}
 A.aoo.prototype={
-$1(a){var s=this,r=null,q=s.b,p=q/150,o=s.a,n=o.f
-n===$&&A.a()
-return new A.im(B.q,A.bD(r,new A.yu(n[a],B.JL,s.c/500,0.003,60,new A.a5m(new A.aon(o,s.d)),r),B.n,r,r,r,r,new A.ar(p,0,p,0),r,q/5),r)},
+$1(a){var s,r=this,q=null,p=r.b,o=p/150,n=r.a,m=n.f
+m===$&&A.a()
+s=r.d
+return new A.im(B.q,A.bD(q,new A.yu(m[a],B.JL,s*0.03,0.003,r.c/10,new A.a5m(new A.aon(n,s)),q),B.n,q,q,q,q,new A.ar(o,0,o,0),q,p/5),q)},
 $S:522}
 A.aon.prototype={
 $2(a,b){var s=null
@@ -89343,7 +89344,7 @@ B.O5=new A.cq(null,66,null,null)
 B.O6=new A.cq(null,68,null,null)
 B.hA=new A.cq(null,8,null,null)
 B.yn=new A.cq(null,null,null,null)
-B.Eb=new A.ar(0,12,0,0)
+B.Eb=new A.ar(0,10,0,0)
 B.KL=new A.aX(B.Eb,B.lA,null)
 B.O7=new A.cq(null,null,B.KL,null)
 B.O8=new A.Au(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
