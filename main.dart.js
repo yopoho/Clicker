@@ -83467,7 +83467,7 @@ while(true)switch(s){case 0:if(p.w){s=1
 break}p.a_(new A.aol(p))
 o=p.d.Xm()
 n=A.b([],t.RD)
-for(m=t.JP,l=t.hy,k=t.Vc,j=p.e,i=o.a,h=0;h<3;++h){g=p.f
+for(m=t.JP,l=t.hy,k=t.Vc,j=p.e,i=o.a,h=0;h<3;){g=p.f
 g===$&&A.a()
 f=g[h]
 e=m.a(B.b.gc0(f.f))
@@ -83481,8 +83481,8 @@ c.toString
 b=e.Q
 b.toString
 a=B.c.a6(Math.min(Math.max(g,c),b)/d.ay)
-a0=B.e.aY(B.e.aY(a,5)-B.b.fq(j,i[h])+5,5)
-n.push(f.xE(a-((5+B.f3.uo(5))*5+a0),B.D3,new A.aE(1000*(1750+h*2250))))}s=3
+a0=B.e.aY(B.e.aY(a,5)-B.b.fq(j,i[h])+5,5);++h
+n.push(f.xE(a-((3*h+B.f3.uo(5))*5+a0),B.D3,new A.aE(1000*(h*3000))))}s=3
 return A.D(A.iw(n,t.z),$async$x3)
 case 3:p.a_(new A.aom(p,o))
 case 1:return A.z(q,r)}})
