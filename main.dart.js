@@ -82471,7 +82471,7 @@ A.am6.prototype={
 $0(){var s=this.a
 s.a_(new A.am5(s))
 s.EF("levelGame",""+s.e)
-A.z4(this.b,"game",t.X)},
+A.z4(this.b,"gameVegas",t.X)},
 $S:0}
 A.am5.prototype={
 $0(){this.a.ch=null},
