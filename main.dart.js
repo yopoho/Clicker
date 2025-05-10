@@ -83387,7 +83387,7 @@ return A.D(A.iu(n,t.z),$async$x3)
 case 3:if(p.c!=null)p.a_(new A.aoc(p))
 case 1:return A.z(q,r)}})
 return A.A($async$x3,r)},
-M(a){var s,r,q,p,o=this,n=null,m=A.bw(a,n,t.w).w.a.b*0.7,l=m*0.7169811320754716,k=m/16,j=A.by("The Strip Roulette",27,B.l,B.j,2.5,B.i),i=A.iw(n,B.de,n,new A.aoe(o),n,n),h=t.p
+M(a){var s,r,q,p,o=this,n=null,m=A.bw(a,n,t.w).w.a.b*0.7,l=m*0.7169811320754716,k=m/16,j=A.by("The Strip Slots",27,B.l,B.j,2.5,B.i),i=A.iw(n,B.de,n,new A.aoe(o),n,n),h=t.p
 j=A.wg(A.b([o.GE(a)],h),B.q,!0,0,i,j)
 i=A.mK(0,A.eo("assets/images/rb_background_2.jpg",B.b3,n,n))
 s=A.iH(0,A.eo("assets/images/slot_base.png",B.f1,n,l),n,n,0,n,n,n)
