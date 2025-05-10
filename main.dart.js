@@ -25758,7 +25758,7 @@ s=a*100
 r=B.c.ak((s<0?Math.ceil(s):Math.floor(s))/100,2)
 s=A.cR("([.]*0+$)",!0,!1)
 return A.bL(r,s,"")},
-aCa(){var s="assets/images/main_background_2.jpg",r=new A.df(Date.now(),0,!1)
+aCa(){var s="assets/images/main_background_3.webp",r=new A.df(Date.now(),0,!1)
 if(A.atJ(r)>=18)return s
 else if(A.atJ(r)>=5)return s
 else return s},
@@ -81511,7 +81511,7 @@ r.d=s
 r.yo()},
 M(a){var s,r,q,p,o,n,m,l=this,k=null,j=A.bA("\u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438",27,B.l,B.j,3,B.i)
 j=A.GD(k,B.q,!0,0,A.kC(k,B.eb,k,new A.al8(l),k,k),j)
-s=A.Mp(A.eo("assets/images/main_background_2.jpg",B.b2,k,k))
+s=A.Mp(A.eo("assets/images/main_background_3.webp",B.b2,k,k))
 r=$.a1().hF(0.33,0.33,B.ao)
 r=A.mL(0,A.hE(A.by(k,k,B.n,A.R(0,0,0,0),k,k,k,k,k,k),r))
 q=t.p
@@ -82046,7 +82046,7 @@ Hl(){var s=0,r=A.B(t.H),q=this,p
 var $async$Hl=A.C(function(a,b){if(a===1)return A.y(b,r)
 while(true)switch(s){case 0:p=q.c
 p.toString
-A.dj(B.zD,p)
+A.dj(B.zy,p)
 p=q.c
 p.toString
 A.dj(B.kY,p)
@@ -82058,7 +82058,7 @@ p.toString
 A.dj(B.zN,p)
 p=q.c
 p.toString
-A.dj(B.zC,p)
+A.dj(B.zD,p)
 p=q.c
 p.toString
 A.dj(B.zE,p)
@@ -82085,13 +82085,13 @@ p.toString
 A.dj(B.zR,p)
 p=q.c
 p.toString
-A.dj(B.zB,p)
+A.dj(B.zC,p)
 p=q.c
 p.toString
 A.dj(B.zK,p)
 p=q.c
 p.toString
-A.dj(B.zy,p)
+A.dj(B.zz,p)
 p=q.c
 p.toString
 A.dj(B.zL,p)
@@ -82100,13 +82100,13 @@ p.toString
 A.dj(B.zS,p)
 p=q.c
 p.toString
-A.dj(B.zz,p)
+A.dj(B.zA,p)
 p=q.c
 p.toString
 A.dj(B.zT,p)
 p=q.c
 p.toString
-A.dj(B.zA,p)
+A.dj(B.zB,p)
 p=q.c
 p.toString
 A.dj(B.zO,p)
@@ -86999,12 +86999,12 @@ B.zw=new A.Ya(!1,127)
 B.zx=new A.Yb(127)
 B.i8=new A.wf(0,"polite")
 B.i9=new A.wf(1,"assertive")
-B.zy=new A.ct("assets/images/roulette1M.png",null,null)
-B.zz=new A.ct("assets/images/car1_2.jpg",null,null)
-B.zA=new A.ct("assets/images/car3_2.jpg",null,null)
-B.zB=new A.ct("assets/images/roulette250.png",null,null)
-B.zC=new A.ct("assets/images/bomb.png",null,null)
-B.zD=new A.ct("assets/images/main_background_2.jpg",null,null)
+B.zy=new A.ct("assets/images/main_background_3.webp",null,null)
+B.zz=new A.ct("assets/images/roulette1M.png",null,null)
+B.zA=new A.ct("assets/images/car1_2.jpg",null,null)
+B.zB=new A.ct("assets/images/car3_2.jpg",null,null)
+B.zC=new A.ct("assets/images/roulette250.png",null,null)
+B.zD=new A.ct("assets/images/bomb.png",null,null)
 B.zE=new A.ct("assets/images/bomb_vegas.png",null,null)
 B.zF=new A.ct("assets/images/rb_pointer2.png",null,null)
 B.zG=new A.ct("assets/images/rb_roulette.png",null,null)
