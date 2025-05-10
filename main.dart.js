@@ -81795,7 +81795,7 @@ p=A.d0(q.W3(j+1),k,k)
 o=h.h(i,"name")
 o=A.j(o==null?"":o)
 n=h.h(i,"last_name")
-o=A.d0(A.bA(B.d.l_(o+" "+A.j(n==null?"":n)),13,B.l,B.j,1.75,B.i),k,k)
+o=A.d0(A.bA(B.d.l_(o+" "+A.j(n==null?"":n)),13,B.l,B.j,1.5,B.i),k,k)
 q=A.d0(A.bA(q.aiJ(h.h(i,"score")),15,B.l,B.j,1.75,B.i),k,k)
 n=h.h(i,"income")
 m=t.p
