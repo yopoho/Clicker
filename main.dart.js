@@ -40815,7 +40815,7 @@ qq(a,b){return B.h}}
 A.VN.prototype={}
 A.HM.prototype={
 M(a){var s=null,r=A.bs(a,B.bk,t.w).w.r.b+8,q=this.c.X(0,new A.i(8,r)),p=A.el(this.d,B.D,B.H,B.b6),o=$.a0().hd(20,20,B.ai)
-return new A.aV(new A.ar(8,r,8,8),new A.ko(new A.I9(q),A.bq(s,A.h2(A.HX(new A.aV(B.bM,p,s),new A.bI(B.Dn.cB(a),s,A.H2(B.Dj.cB(a),1),B.l9,s,s,B.F),B.d5),o),B.r,s,s,B.Aw,s,s,s,222),s),s)}}
+return new A.aV(new A.ar(8,r,8,8),new A.ko(new A.I9(q),A.bq(s,A.h2(A.HX(new A.aV(B.bM,p,s),new A.bI(B.Dn.cB(a),s,A.H2(B.Dj.cB(a),1),B.l9,s,s,B.F),B.d5),o),B.r,s,s,B.Av,s,s,s,222),s),s)}}
 A.oa.prototype={
 ag(){return new A.C5()}}
 A.C5.prototype={
@@ -83120,7 +83120,7 @@ p=l.CW
 p.toString
 if(p>=20)q.push(l.GD(a))
 j=A.wj(q,B.q,!0,0,s,j)
-s=A.Mm(A.bq(k,k,B.m,k,k,B.Av,k,k,k,k))
+s=A.Mm(A.bq(k,k,B.m,k,k,B.Aw,k,k,k,k))
 q=$.a0().hd(0,0,B.ai)
 q=A.b([s,A.mO(0,A.h2(A.bq(k,k,B.m,A.Q(0,0,0,0),k,k,k,k,k,k),q))],r)
 q.push(new A.dl(B.f0,k,k,new A.aV(B.ea,l.adl(a),k),k))
@@ -86975,11 +86975,11 @@ B.zD=new A.ct("assets/images/roulette1M.png",null,null)
 B.zE=new A.ct("assets/images/car1_2.jpg",null,null)
 B.zF=new A.ct("assets/images/car3_2.jpg",null,null)
 B.zG=new A.ct("assets/images/roulette250.png",null,null)
+B.l_=new A.ct("assets/images/wheel_background2.webp",null,null)
 B.zH=new A.ct("assets/images/bomb.png",null,null)
 B.zI=new A.ct("assets/images/bomb_vegas.png",null,null)
 B.zJ=new A.ct("assets/images/rb_pointer2.png",null,null)
 B.zK=new A.ct("assets/images/rb_roulette.png",null,null)
-B.l_=new A.ct("assets/images/wheel_background.jpg",null,null)
 B.zM=new A.ct("assets/images/wheel_icon2.png",null,null)
 B.zO=new A.ct("assets/images/roulette500.png",null,null)
 B.zN=new A.ct("assets/images/roulette50_.png",null,null)
@@ -87101,13 +87101,13 @@ B.FP=new A.jw(B.bY,B.cl,B.ai,B.H_,null,null)
 B.At=new A.bI(null,null,null,null,null,B.FP,B.F)
 B.Dw=new A.m5(B.l0)
 B.Au=new A.bI(null,B.Dw,null,null,null,null,B.F)
-B.Dv=new A.m5(B.l_)
-B.Av=new A.bI(null,B.Dv,null,null,null,null,B.F)
 B.BL=new A.m(1006632960)
 B.K9=new A.i(0,4)
 B.Ay=new A.dX(0.5,B.f3,B.BL,B.K9,10)
 B.HN=A.b(s([B.Ay]),t.sq)
-B.Aw=new A.bI(null,null,null,B.l9,B.HN,null,B.F)
+B.Av=new A.bI(null,null,null,B.l9,B.HN,null,B.F)
+B.Dv=new A.m5(B.l_)
+B.Aw=new A.bI(null,B.Dv,null,null,null,null,B.F)
 B.dQ=new A.qX(1,"contain")
 B.f4=new A.qX(3,"fitWidth")
 B.ij=new A.qX(4,"fitHeight")
