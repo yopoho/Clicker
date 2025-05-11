@@ -82059,7 +82059,8 @@ p=e.d
 if(p!=null&&p>=0){p=A.aR5($.X9)
 p=A.dC(c,b).dX(p)
 q.push(A.bo("\u0414\u043e\u0445\u043e\u0434: "+A.bC(p,","," "),15,B.l,B.j,2.25,B.i))}q.push(B.Od)
-if(e.e<25)q.push(e.a8U())
+p=e.e
+if(p<25&&p!==-1)q.push(e.a8U())
 if(e.e<25)q.push(B.yq)
 if(e.e<25){p=e.f
 o=p===-1?"":B.e.k(p)
