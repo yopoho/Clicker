@@ -83192,7 +83192,7 @@ adl(a){var s,r,q,p,o,n=null,m=A.c_(12),l=A.c_(12),k=$.a0().hd(4.5,4.5,B.ai)
 k=A.h2(A.bq(n,n,B.m,A.Q(89,255,255,255),n,n,67,n,n,67),k)
 s=A.c_(12)
 r=t.p
-q=A.b([A.bK(n,n,new A.aU(B.br,A.ee("assets/images/slots_icon.webp",B.aW,55,55),n),!1,n,n,!1,n,n,n,n,"Open Slots",n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n)],r)
+q=A.b([A.bK(n,n,new A.aU(B.br,A.ee("assets/images/slots_icon.webp",B.aW,55,40),n),!1,n,n,!1,n,n,n,n,"Open Slots",n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n)],r)
 p=this.z
 if(p!=null&&p!==0){o=A.c_(8)
 q.push(A.f0(n,A.bq(n,new A.aU(B.fu,A.bo(A.j(p),12,B.l,B.j,2,B.i),n),B.m,n,n,new A.bI(B.ew,n,n,o,n,n,B.E),n,n,B.fv,n),n,n,n,0,0,n))}return A.ef(!1,m,!0,A.m_(l,A.c7(B.M,A.b([k,A.bq(n,A.c7(B.M,q,B.r,B.H),B.m,n,n,new A.bI(n,n,n,s,n,n,B.E),67,n,n,67)],r),B.r,B.H)),n,!0,n,n,n,n,n,n,n,n,n,new A.abQ(this,a),n,n,n,n)},
