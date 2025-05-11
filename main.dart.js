@@ -83486,7 +83486,7 @@ o=A.dC("#,##0","en_US").dX(o)
 g=A.f0(h,A.cW(A.c7(B.M,A.b([A.bq(h,A.bo(A.bC(o,","," "),36,B.l,B.ff,3,B.fl),B.m,h,h,B.ld,h,h,h,h)],p),B.r,B.H),h,h),h,h,0,0,g.r.b+56+8,h)
 o=i.r
 o===$&&A.a()
-o=A.f0(16,A.bo("\u041e\u0441\u0442\u0430\u043b\u043e\u0441\u044c \u0441\u043f\u0438\u043d\u043e\u0432: "+o,20,B.l,B.j,3,B.i),h,h,16,0,h,h)
+o=A.f0(16,A.bo("\u0416\u0435\u0442\u043e\u043d\u044b: "+o,20,B.l,B.j,3,B.i),h,h,16,0,h,h)
 n=i.f
 n===$&&A.a()
 n=A.f0(16,A.bo("\u0423\u0440\u043e\u0432\u0435\u043d\u044c: "+n,20,B.l,B.j,3,B.i),h,h,h,16,h,h)
