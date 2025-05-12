@@ -81116,19 +81116,19 @@ lo(){var s=0,r=A.B(t.H),q=this,p
 var $async$lo=A.C(function(a,b){if(a===1)return A.y(b,r)
 while(true)switch(s){case 0:p=new A.ajV()
 s=2
-return A.D(p.$1("assets/images/bomb_vegas.png"),$async$lo)
+return A.D(p.$1("assets/images/bomb_vegas2.webp"),$async$lo)
 case 2:q.as=b
 s=3
-return A.D(p.$1("assets/images/chip_1.png"),$async$lo)
+return A.D(p.$1("assets/images/chip_1.webp"),$async$lo)
 case 3:q.at=b
 s=4
-return A.D(p.$1("assets/images/chip_5.png"),$async$lo)
+return A.D(p.$1("assets/images/chip_5.webp"),$async$lo)
 case 4:q.ax=b
 s=5
-return A.D(p.$1("assets/images/chip_25.png"),$async$lo)
+return A.D(p.$1("assets/images/chip_25.webp"),$async$lo)
 case 5:q.ay=b
 s=6
-return A.D(p.$1("assets/images/chip_100.png"),$async$lo)
+return A.D(p.$1("assets/images/chip_100.webp"),$async$lo)
 case 6:q.ch=b
 q.a_(new A.ajU(q))
 q.adw()
@@ -81965,28 +81965,28 @@ p.toString
 A.dk(B.l0,p)
 p=q.c
 p.toString
-A.dk(B.zR,p)
+A.dk(B.zM,p)
 p=q.c
 p.toString
 A.dk(B.zH,p)
 p=q.c
 p.toString
-A.dk(B.zI,p)
+A.dk(B.zQ,p)
 p=q.c
 p.toString
 A.dk(B.zY,p)
 p=q.c
 p.toString
-A.dk(B.zK,p)
-p=q.c
-p.toString
 A.dk(B.zJ,p)
 p=q.c
 p.toString
-A.dk(B.zM,p)
+A.dk(B.zI,p)
 p=q.c
 p.toString
-A.dk(B.zQ,p)
+A.dk(B.zL,p)
+p=q.c
+p.toString
+A.dk(B.zR,p)
 p=q.c
 p.toString
 A.dk(B.zN,p)
@@ -82117,7 +82117,7 @@ A.vS(!0,new A.amk(this),s,t.z)},
 a4f(a){var s,r=this,q=null,p=r.CW===0?new A.am_(r,a):new A.am0(r),o=A.c_(12),n=A.c_(12),m=$.a0().hd(4.5,4.5,B.ai)
 m=A.h2(A.bq(q,q,B.m,A.Q(89,255,255,255),q,q,62,q,q,62),m)
 s=A.c_(12)
-s=A.b([m,A.bq(q,A.cS(A.bK(q,q,new A.aV(B.bM,A.ee("assets/images/chip_100.png",B.ij,50,50),q),!1,q,q,!1,q,q,q,q,"Open Game",q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),q,q),B.m,q,q,new A.bI(q,q,q,s,q,q,B.F),62,q,q,62)],t.p)
+s=A.b([m,A.bq(q,A.cS(A.bK(q,q,new A.aV(B.bM,A.ee("assets/images/chip_100.webp",B.ij,50,50),q),!1,q,q,!1,q,q,q,q,"Open Game",q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q),q,q),B.m,q,q,new A.bI(q,q,q,s,q,q,B.F),62,q,q,62)],t.p)
 if(r.CW===0){m=A.c_(8)
 s.push(A.f0(q,A.bq(q,new A.aV(B.fv,A.bo("1",12,B.l,B.j,2,B.i),q),B.m,q,q,new A.bI(B.ev,q,q,m,q,q,B.F),q,q,B.fw,q),q,q,q,0,0,q))}return A.ef(!1,o,!0,A.m0(n,A.c7(B.N,s,B.r,B.J)),q,!0,q,q,q,q,q,q,q,q,q,p,q,q,q,q)},
 vK(a){return this.a1f(a)},
@@ -86978,16 +86978,16 @@ B.zF=new A.ct("assets/images/car3_2.jpg",null,null)
 B.zG=new A.ct("assets/images/roulette250.png",null,null)
 B.l_=new A.ct("assets/images/wheel_background2.webp",null,null)
 B.zH=new A.ct("assets/images/bomb.png",null,null)
-B.zI=new A.ct("assets/images/bomb_vegas.png",null,null)
-B.zJ=new A.ct("assets/images/rb_pointer2.png",null,null)
-B.zK=new A.ct("assets/images/rb_roulette.png",null,null)
-B.zM=new A.ct("assets/images/wheel_icon2.png",null,null)
+B.zI=new A.ct("assets/images/rb_pointer2.png",null,null)
+B.zJ=new A.ct("assets/images/rb_roulette.png",null,null)
+B.zL=new A.ct("assets/images/wheel_icon2.png",null,null)
+B.zM=new A.ct("assets/images/chip_100.webp",null,null)
 B.zO=new A.ct("assets/images/roulette500.png",null,null)
 B.zN=new A.ct("assets/images/roulette50_.png",null,null)
 B.zP=new A.ct("assets/images/roulette10M_.png",null,null)
-B.zQ=new A.ct("assets/images/icon_roulette_rb.png",null,null)
+B.zQ=new A.ct("assets/images/bomb_vegas2.webp",null,null)
+B.zR=new A.ct("assets/images/icon_roulette_rb.png",null,null)
 B.l0=new A.ct("assets/images/game_background_.jpg",null,null)
-B.zR=new A.ct("assets/images/chip_100.png",null,null)
 B.zS=new A.ct("assets/images/restaurant1_.jpg",null,null)
 B.zT=new A.ct("assets/images/restaurant2_.jpg",null,null)
 B.zU=new A.ct("assets/images/restaurant3_.jpg",null,null)
@@ -87090,11 +87090,11 @@ B.FO=new A.jw(B.bY,B.cl,B.ai,B.GC,null,null)
 B.Aq=new A.bI(null,null,null,null,null,B.FO,B.F)
 B.Cu=new A.m(4291059506)
 B.Ar=new A.bI(B.Cu,null,null,null,null,null,B.F)
-B.zL=new A.ct("assets/images/rb_background_2.jpg",null,null)
+B.zK=new A.ct("assets/images/rb_background_2.jpg",null,null)
 B.aX=new A.qX(2,"cover")
 B.bP=new A.rN(3,"noRepeat")
 B.bt=new A.on(2,"medium")
-B.Dx=new A.m5(B.zL)
+B.Dx=new A.m5(B.zK)
 B.As=new A.bI(null,B.Dx,null,null,null,null,B.F)
 B.dV=new A.m(2147483648)
 B.H_=A.b(s([B.q,B.dV,B.dV,B.dV,B.dV,B.dV,B.q]),t.t_)
