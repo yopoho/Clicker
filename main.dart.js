@@ -83159,15 +83159,15 @@ return A.ix(s,B.mX,s,new A.ach(this,a),s,s)},
 AR(){var s,r=this.CW
 r.toString
 s=r+2
-if(s>=41)return B.c.a1(Math.pow(2,s-1-2)/4e9)
-if(s>=39)return B.c.a1(Math.pow(2,s-1-2)/4e8)
-if(s>=36)return B.c.a1(Math.pow(2,s-1-2)/4e7)
-if(s>=32)return B.c.a1(Math.pow(2,s-1-2)/4e6)
-if(s>=27)return B.c.a1(Math.pow(2,s-1-2)/321250)
-if(s===26)return B.c.a1(Math.pow(2,s-1-2)/150625)
-if(s===25)return B.c.a1(Math.pow(2,s-1-2)/73750)
-if(s===24)return B.c.a1(Math.pow(2,s-1-2)/29125)
-return B.c.a1(Math.pow(2,s-1-2)/13250)},
+if(s>=41)return 2*B.c.a1(Math.pow(2,s-1-2)/4e9)
+if(s>=39)return 2*B.c.a1(Math.pow(2,s-1-2)/4e8)
+if(s>=36)return 2*B.c.a1(Math.pow(2,s-1-2)/4e7)
+if(s>=32)return 2*B.c.a1(Math.pow(2,s-1-2)/4e6)
+if(s>=27)return 2*B.c.a1(Math.pow(2,s-1-2)/321250)
+if(s===26)return 2*B.c.a1(Math.pow(2,s-1-2)/150625)
+if(s===25)return 2*B.c.a1(Math.pow(2,s-1-2)/73750)
+if(s===24)return 2*B.c.a1(Math.pow(2,s-1-2)/29125)
+return 2*B.c.a1(Math.pow(2,s-1-2)/13250)},
 a1j(){var s=null,r=this.Q
 if(r!=null)return A.d0(r,s,s,s,B.yR,s,s,s)
 else{r=this.y
