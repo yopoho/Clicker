@@ -83029,7 +83029,8 @@ case 2e4:return 112.5
 case 3e4:return 157.5
 case 5e4:return 202.5
 case 1e5:return 247.5
-default:return 0}else if(s===25)switch(b){case 0:return 292.5
+default:window.location.reload()
+return 0}else if(s===25)switch(b){case 0:return 292.5
 case 5000:return 292.5
 case 1e4:return 337.5
 case 2e4:return 22.5
@@ -83038,7 +83039,8 @@ case 5e4:return 112.5
 case 1e5:return 157.5
 case 125e3:return 202.5
 case 25e4:return 247.5
-default:return 0}else if(s===26)switch(b){case 0:return 292.5
+default:window.location.reload()
+return 0}else if(s===26)switch(b){case 0:return 292.5
 case 1e4:return 292.5
 case 2e4:return 337.5
 case 5e4:return 22.5
@@ -83047,7 +83049,8 @@ case 125e3:return 112.5
 case 15e4:return 157.5
 case 25e4:return 202.5
 case 5e5:return 247.5
-default:return 0}else if(s>=27&&s<=31)switch(b){case 0:return 292.5
+default:window.location.reload()
+return 0}else if(s>=27&&s<=31)switch(b){case 0:return 292.5
 case 2e4:return 292.5
 case 5e4:return 337.5
 case 1e5:return 22.5
@@ -83056,7 +83059,8 @@ case 3e5:return 112.5
 case 4e5:return 157.5
 case 5e5:return 202.5
 case 1e6:return 247.5
-default:return 0}else if(s>=32&&s<36)switch(b){case 0:return 292.5
+default:window.location.reload()
+return 0}else if(s>=32&&s<=35)switch(b){case 0:return 292.5
 case 5e5:return 292.5
 case 1e6:return 337.5
 case 2e6:return 22.5
@@ -83065,7 +83069,8 @@ case 4e6:return 112.5
 case 5e6:return 157.5
 case 7e6:return 202.5
 case 1e7:return 247.5
-default:return 0}else if(s>=36&&s<39)switch(b){case 0:return 292.5
+default:window.location.reload()
+return 0}else if(s>=36&&s<39)switch(b){case 0:return 292.5
 case 5e6:return 292.5
 case 1e7:return 337.5
 case 2e7:return 22.5
@@ -83074,7 +83079,8 @@ case 4e7:return 112.5
 case 5e7:return 157.5
 case 7e7:return 202.5
 case 1e8:return 247.5
-default:return 0}else if(s>=39&&s<41)switch(b){case 0:return 292.5
+default:window.location.reload()
+return 0}else if(s>=39&&s<41)switch(b){case 0:return 292.5
 case 5e7:return 292.5
 case 1e8:return 337.5
 case 2e8:return 22.5
@@ -83083,7 +83089,8 @@ case 4e8:return 112.5
 case 5e8:return 157.5
 case 7e8:return 202.5
 case 1e9:return 247.5
-default:return 0}else if(s>=41)switch(b){case 0:return 292.5
+default:window.location.reload()
+return 0}else if(s>=41)switch(b){case 0:return 292.5
 case 5e8:return 292.5
 case 1e9:return 337.5
 case 2e9:return 22.5
@@ -83092,7 +83099,8 @@ case 4e9:return 112.5
 case 5e9:return 157.5
 case 7e9:return 202.5
 case 1e10:return 247.5
-default:return 0}else switch(b){case 0:return 292.5
+default:window.location.reload()
+return 0}else switch(b){case 0:return 292.5
 case 1000:return 292.5
 case 2000:return 337.5
 case 3000:return 22.5
@@ -83101,7 +83109,8 @@ case 1e4:return 112.5
 case 15e3:return 157.5
 case 2e4:return 202.5
 case 5e4:return 247.5
-default:return 0}},
+default:window.location.reload()
+return 0}},
 rh(){var s=0,r=A.A(t.H),q=this,p
 var $async$rh=A.B(function(a,b){if(a===1)return A.x(b,r)
 while(true)switch(s){case 0:s=2
