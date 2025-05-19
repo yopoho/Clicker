@@ -82220,8 +82220,8 @@ b=J.qL(a0,"\n\u041e\u0447\u043a\u0438: +"+A.bC(a1,","," ")+"!")}if(e!=null&&e<0)
 a1=A.dC("#,##0","en_US").dY(e)
 b=J.qL(a0,"\n\u041e\u0447\u043a\u0438: "+A.bC(a1,","," ")+"!")}if(J.aFI(d,0))b=J.qL(b,"\n\u0421\u043f\u0438\u043d\u044b: +"+A.j(d)+"!")
 if(J.aFJ(d,0))b=J.qL(b,"\n\u0421\u043f\u0438\u043d\u044b: "+A.j(d)+"!")
-if(c!=null&&c>0){b=J.qL(b,"\n\u0416\u0435\u0442\u043e\u043d\u044b: "+A.j(c)+"!")
-$.lI=$.lI+c}if(c!=null&&c<0){b=J.qL(b,"\n\u0416\u0435\u0442\u043e\u043d\u044b: +"+A.j(c)+"!")
+if(c!=null&&c>0){b=J.qL(b,"\n\u0416\u0435\u0442\u043e\u043d\u044b: +"+A.j(c)+"!")
+$.lI=$.lI+c}if(c!=null&&c<0){b=J.qL(b,"\n\u0416\u0435\u0442\u043e\u043d\u044b: "+A.j(c)+"!")
 $.lI=$.lI-c}m.$1(b)}else m.$1("\u041d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u043f\u0440\u0438\u043c\u0435\u043d\u0438\u0442\u044c \u043f\u0440\u043e\u043c\u043e\u043a\u043e\u0434!")}else m.$1("\u041e\u0448\u0438\u0431\u043a\u0430 \u0441\u0435\u0440\u0432\u0435\u0440\u0430!")
 p=2
 s=6
@@ -83576,7 +83576,7 @@ case 5:if(p.c==null){s=1
 break}p.Y(new A.aom(p,d,c,b))
 s=e>0?6:8
 break
-case 6:b3=A.a5(["\ud83c\udf52","assets/audio/adpcm_slots_win_small.m4a","\ud83d\udd14","assets/audio/adpcm_slots_win_small.m4a","\ud83c\udf4b","assets/audio/adpcm_slots_win_med.m4a","\u2b50","assets/audio/adpcm_slots_win_jackpot.m4a","\ud83d\udc8e","assets/audio/adpcm_slots_win_jackpot.m4a"],l,l)
+case 6:b3=A.a5(["\ud83c\udf52","assets/audio/adpcm_slots_win_small.m4a","\ud83c\udf4b","assets/audio/adpcm_slots_win_small.m4a","\ud83d\udd14","assets/audio/adpcm_slots_win_med.m4a","\u2b50","assets/audio/adpcm_slots_win_jackpot.m4a","\ud83d\udc8e","assets/audio/adpcm_slots_win_jackpot.m4a"],l,l)
 for(n=A.jy(b3,b3.r);n.t();){m=n.d
 if(A.aLz(f,new A.aon(m))){n=$.h1()
 m=b3.h(0,m)
