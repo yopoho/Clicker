@@ -83608,10 +83608,10 @@ p=A.dC("#,##0","en_US").dY(p)
 h=A.f1(i,A.cT(A.c7(B.N,A.b([A.bq(i,A.bo(A.bC(p,","," "),36,B.l,B.fg,3,B.fm),B.m,i,i,B.lf,i,i,i,i)],q),B.r,B.J),i,i),i,i,0,0,h.r.b+56+8,i)
 p=j.r
 p===$&&A.a()
-p=A.f1(16,A.bo("\u0416\u0435\u0442\u043e\u043d\u044b: "+p,20,B.l,B.j,3,B.i),i,i,16,0,i,i)
+p=A.f1(8,A.bo("\u0416\u0435\u0442\u043e\u043d\u044b: "+p,20,B.l,B.j,3,B.i),i,i,8,0,i,i)
 o=j.f
 o===$&&A.a()
-o=A.f1(16,A.bo("\u0423\u0440\u043e\u0432\u0435\u043d\u044c: "+o,20,B.l,B.j,3,B.i),i,i,i,16,i,i)
+o=A.f1(8,A.bo("\u0423\u0440\u043e\u0432\u0435\u043d\u044c: "+o,20,B.l,B.j,3,B.i),i,i,i,8,i,i)
 n=A.f1(0,A.ee("assets/images/slot_base.webp",B.f4,i,f),i,i,0,i,i,i)
 m=j.a1H(g,f,e)
 l=A.f1(i,B.KE,2,i,f*0.1875,i,g*0.224963716+g/3.7/2-1.5,f*0.625)
