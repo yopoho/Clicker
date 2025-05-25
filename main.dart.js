@@ -82139,7 +82139,7 @@ if(e.f===-1)m=""
 else{l=A.dC(c,b).dY(5e4)
 m=A.bC(l,","," ")}q.push(A.dG(A.bq(d,new A.aV(B.mv,A.f2(A.b([p,n,A.bo(m,20,B.l,B.j,3,B.i)],s),B.D,B.c8,B.b6),d),B.m,d,d,B.Au,d,d,d,d),!1,!1,!1,!1,!1))}q=A.cT(A.el(q,B.D,B.c8,B.V),d,d)
 p=e.w!=null&&e.e>=1
-p=A.dG(A.bo("\u0423\u0440\u043e\u0432\u0435\u043d\u044c: "+e.e,19,B.l,B.j,2.75,B.i),!1,!1,!1,!1,p)
+p=A.dG(A.bo("\u0423\u0440\u043e\u0432\u0435\u043d\u044c: "+e.e,19,B.l,B.j,2.5,B.i),!1,!1,!1,!1,p)
 n=e.e
 l=n===-1
 k=!l&&e.f!==-1
