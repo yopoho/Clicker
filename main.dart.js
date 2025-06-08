@@ -86804,7 +86804,7 @@ h=A.bC(a,i,h).w
 p=j.e
 p===$&&A.a()
 p=A.dN("#,##0","en_US").dZ(p)
-h=A.fn(i,A.d2(A.ci(B.O,A.b([A.bQ(A.bu(A.bB(p,","," "),36,B.m,B.fm,3,B.fl),B.o,i,B.lM,i,i,i,i)],q),B.r,B.L),i,i),i,i,0,0,h.r.b+56+8,i)
+h=A.fn(i,A.d2(A.ci(B.O,A.b([A.bQ(A.bu(A.bB(p,","," "),30,B.m,B.fm,3,B.fl),B.o,i,B.lM,i,i,i,i)],q),B.r,B.L),i,i),i,i,0,0,h.r.b+56+8,i)
 p=j.r
 p===$&&A.a()
 p=A.fn(8,A.bu("\u0416\u0435\u0442\u043e\u043d\u044b: "+p,20,B.m,B.k,3,B.h),i,i,8,0,i,i)
